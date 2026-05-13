@@ -146,10 +146,10 @@ Update `DATA_DIR` at the top of the script. The script runs all six tests in seq
 |---------|--------|-------|--------|
 | Climate (daily/monthly/yearly) | Environment and Climate Change Canada | 2010–2025 | [climate.weather.gc.ca](https://climate.weather.gc.ca) |
 | Violent crime (UCR) | Statistics Canada Table 35-10-0177-01 | 2010–2024 | [statcan.gc.ca](https://www.statcan.gc.ca) |
-| Reddit sentiment (Eras 1–5) | Pushshift archive + Reddit API | 2009–2025 | Archived on Zenodo (DOI: [to be assigned]) |
+| Reddit sentiment (Eras 1–5) | Pushshift archive + Reddit API | 2009–2025 | Archived on Zenodo (DOI: https://doi.org/10.5281/zenodo.20161031) |
 
 All processed datasets used in this study are archived on Zenodo under CC BY 4.0:  
-**DOI: [to be assigned upon acceptance]**
+**DOI: https://doi.org/10.5281/zenodo.20161031**
 
 ---
 
@@ -181,7 +181,7 @@ The pipeline identifies five analytically distinct eras in the 2009–2025 Reddi
 
 If you use this pipeline or dataset in your research, please cite:
 
-> [Author names withheld for peer review]. (2026). *Climate Variability, Urban Crime, and Public Perceptions of Safety: A Social Media Sentiment Analysis of Canadian Prairie Cities*. Computers, Environment and Urban Systems. [DOI: to be assigned]
+> Ryan Ocampo. (2026). *Climate Variability, Urban Crime, and Public Perceptions of Safety: A Social Media Sentiment Analysis of Canadian Prairie Cities*. Computers, Environment and Urban Systems. 
 
 ---
 
@@ -189,9 +189,3 @@ If you use this pipeline or dataset in your research, please cite:
 
 - **Code:** MIT Licence — see `LICENSE`
 - **Data:** CC BY 4.0 — see Zenodo archive
-
----
-
-## Contact
-
-For questions about the pipeline, data, or methodology, please open an issue on this repository or contact the corresponding author.
