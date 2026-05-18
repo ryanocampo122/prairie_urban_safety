@@ -66,6 +66,17 @@ prairie-urban-safety/
 │       ├── reddit_2022_2023_for_gis.csv
 │       └── reddit_2024_2025_for_gis.csv
 │
+└── data_acquisiton/
+    ├── redditscraper_2009_2013.py
+    ├── redditscraper_2014_2019.py
+    ├── redditscraper_2020_2021.py
+    ├── redditscraper_2022_2023.py
+    ├── redditscraper_2024_2025.py
+    ├── acquistion_edmonton.py
+    ├── acuistion_regina.py
+    ├── acquistion_saskatoon.py
+    ├── acquistion_winnipeg.py
+    └── masterclimate_acquistion.py
 └── figures/
     ├── fig1_pipeline_architecture.png
     ├── fig2_rolling_sentiment.png
