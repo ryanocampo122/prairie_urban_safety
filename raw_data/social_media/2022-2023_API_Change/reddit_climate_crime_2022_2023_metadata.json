@@ -1,0 +1,42 @@
+{
+  "collection_date": "2025-10-26T15:42:18.551634",
+  "time_period": "2022-2023 (API Changes Era)",
+  "total_posts": 3032,
+  "date_range": {
+    "start": "2022-01-01 05:06:29+00:00",
+    "end": "2023-12-31 23:22:53+00:00"
+  },
+  "subreddits": {
+    "Winnipeg": 670,
+    "Edmonton": 607,
+    "alberta": 447,
+    "Saskatoon": 378,
+    "Regina": 364,
+    "saskatchewan": 336,
+    "manitoba": 230
+  },
+  "posts_by_year": {
+    "2022": 1486,
+    "2023": 1546
+  },
+  "posts_by_quarter": {
+    "2022_Q1": 389,
+    "2022_Q2": 315,
+    "2022_Q3": 343,
+    "2022_Q4": 439,
+    "2023_Q1": 326,
+    "2023_Q2": 389,
+    "2023_Q3": 405,
+    "2023_Q4": 426
+  },
+  "crime_related": 1522,
+  "weather_related": 1735,
+  "crime_and_weather": 225,
+  "api_crisis_breakdown": {
+    "pre_announcement": 1889,
+    "post_announcement": 1143,
+    "during_blackout": 1,
+    "pre_changes": 2201,
+    "post_changes": 831
+  }
+}

@@ -1,0 +1,766 @@
+2025-10-26 10:39:23,423 - INFO - ======================================================================
+2025-10-26 10:39:23,423 - INFO - Reddit 2022-2023 Historical Data Collection
+2025-10-26 10:39:23,423 - INFO - Prairie Cities Climate-Crime Research
+2025-10-26 10:39:23,423 - INFO - Focus: API Changes & Community Blackout Era
+2025-10-26 10:39:23,423 - INFO - ======================================================================
+2025-10-26 10:39:23,424 - INFO - 
+Initializing collector...
+2025-10-26 10:39:24,041 - INFO - PRAW initialized for 2022-2023 historical collection
+2025-10-26 10:39:24,078 - INFO - VADER sentiment analyzer initialized
+2025-10-26 10:39:24,078 - INFO - 
+Starting data collection for 2022-2023 period...
+2025-10-26 10:39:24,078 - INFO - This will collect 24 months of historical data
+2025-10-26 10:39:24,078 - INFO - Estimated time: 30-60 minutes depending on data volume
+
+2025-10-26 10:39:24,078 - INFO - ======================================================================
+2025-10-26 10:39:24,078 - INFO - Starting 2022-2023 Historical Data Collection
+2025-10-26 10:39:24,078 - INFO - Target Period: API Changes & Community Blackout Era
+2025-10-26 10:39:24,078 - INFO - ======================================================================
+2025-10-26 10:39:24,079 - INFO - Generated 24 months from 2022-01 to 2023-12
+2025-10-26 10:39:24,079 - INFO - 
+============================================================
+2025-10-26 10:39:24,079 - INFO - Processing 2022-01
+2025-10-26 10:39:24,079 - INFO - ============================================================
+2025-10-26 10:39:24,079 - INFO - Collecting January 2022 data from r/Saskatoon
+2025-10-26 10:41:14,130 - INFO -   Collected 20 unique posts from January 2022
+2025-10-26 10:41:14,131 - INFO -   r/Saskatoon: 20 collected, 18 relevant
+2025-10-26 10:41:17,235 - INFO - Collecting January 2022 data from r/Regina
+2025-10-26 10:42:58,872 - INFO -   Collected 13 unique posts from January 2022
+2025-10-26 10:42:58,873 - INFO -   r/Regina: 13 collected, 10 relevant
+2025-10-26 10:43:01,918 - INFO - Collecting January 2022 data from r/Winnipeg
+2025-10-26 10:44:54,961 - INFO -   Collected 44 unique posts from January 2022
+2025-10-26 10:44:54,966 - INFO -   r/Winnipeg: 44 collected, 41 relevant
+2025-10-26 10:44:58,047 - INFO - Collecting January 2022 data from r/Edmonton
+2025-10-26 10:46:56,056 - INFO -   Collected 33 unique posts from January 2022
+2025-10-26 10:46:56,057 - INFO -   r/Edmonton: 33 collected, 31 relevant
+2025-10-26 10:46:59,097 - INFO - Collecting January 2022 data from r/saskatchewan
+2025-10-26 10:48:38,130 - INFO -   Collected 29 unique posts from January 2022
+2025-10-26 10:48:38,132 - INFO -   r/saskatchewan: 29 collected, 16 relevant
+2025-10-26 10:48:41,187 - INFO - Collecting January 2022 data from r/manitoba
+2025-10-26 10:50:12,106 - INFO -   Collected 14 unique posts from January 2022
+2025-10-26 10:50:12,107 - INFO -   r/manitoba: 14 collected, 12 relevant
+2025-10-26 10:50:15,195 - INFO - Collecting January 2022 data from r/alberta
+2025-10-26 10:52:08,904 - INFO -   Collected 29 unique posts from January 2022
+2025-10-26 10:52:08,907 - INFO -   r/alberta: 29 collected, 24 relevant
+2025-10-26 10:52:12,247 - INFO - Saved: reddit_2022_2023_2022-01.csv (152 posts)
+2025-10-26 10:52:12,247 - INFO - 
+============================================================
+2025-10-26 10:52:12,248 - INFO - Processing 2022-02
+2025-10-26 10:52:12,248 - INFO - ============================================================
+2025-10-26 10:52:12,249 - INFO - Collecting February 2022 data from r/Saskatoon
+2025-10-26 10:54:01,622 - INFO -   Collected 18 unique posts from February 2022
+2025-10-26 10:54:01,623 - INFO -   r/Saskatoon: 18 collected, 14 relevant
+2025-10-26 10:54:04,680 - INFO - Collecting February 2022 data from r/Regina
+2025-10-26 10:55:44,023 - INFO -   Collected 15 unique posts from February 2022
+2025-10-26 10:55:44,024 - INFO -   r/Regina: 15 collected, 8 relevant
+2025-10-26 10:55:47,077 - INFO - Collecting February 2022 data from r/Winnipeg
+2025-10-26 10:57:38,257 - INFO -   Collected 43 unique posts from February 2022
+2025-10-26 10:57:38,259 - INFO -   r/Winnipeg: 43 collected, 39 relevant
+2025-10-26 10:57:41,335 - INFO - Collecting February 2022 data from r/Edmonton
+2025-10-26 10:59:35,421 - INFO -   Collected 22 unique posts from February 2022
+2025-10-26 10:59:35,422 - INFO -   r/Edmonton: 22 collected, 20 relevant
+2025-10-26 10:59:38,483 - INFO - Collecting February 2022 data from r/saskatchewan
+2025-10-26 11:01:20,567 - INFO -   Collected 16 unique posts from February 2022
+2025-10-26 11:01:20,568 - INFO -   r/saskatchewan: 16 collected, 12 relevant
+2025-10-26 11:01:23,634 - INFO - Collecting February 2022 data from r/manitoba
+2025-10-26 11:02:54,857 - INFO -   Collected 14 unique posts from February 2022
+2025-10-26 11:02:54,858 - INFO -   r/manitoba: 14 collected, 12 relevant
+2025-10-26 11:02:57,937 - INFO - Collecting February 2022 data from r/alberta
+2025-10-26 11:04:48,532 - INFO -   Collected 34 unique posts from February 2022
+2025-10-26 11:04:48,535 - INFO -   r/alberta: 34 collected, 26 relevant
+2025-10-26 11:04:51,705 - INFO - Saved: reddit_2022_2023_2022-02.csv (131 posts)
+2025-10-26 11:04:51,706 - INFO - 
+============================================================
+2025-10-26 11:04:51,706 - INFO - Processing 2022-03
+2025-10-26 11:04:51,706 - INFO - ============================================================
+2025-10-26 11:04:51,707 - INFO - Collecting March 2022 data from r/Saskatoon
+2025-10-26 11:06:38,830 - INFO -   Collected 11 unique posts from March 2022
+2025-10-26 11:06:38,831 - INFO -   r/Saskatoon: 11 collected, 8 relevant
+2025-10-26 11:06:41,891 - INFO - Collecting March 2022 data from r/Regina
+2025-10-26 11:08:19,160 - INFO -   Collected 11 unique posts from March 2022
+2025-10-26 11:08:19,161 - INFO -   r/Regina: 11 collected, 9 relevant
+2025-10-26 11:08:22,213 - INFO - Collecting March 2022 data from r/Winnipeg
+2025-10-26 11:10:15,763 - INFO -   Collected 33 unique posts from March 2022
+2025-10-26 11:10:15,765 - INFO -   r/Winnipeg: 33 collected, 31 relevant
+2025-10-26 11:10:18,839 - INFO - Collecting March 2022 data from r/Edmonton
+2025-10-26 11:12:15,642 - INFO -   Collected 19 unique posts from March 2022
+2025-10-26 11:12:15,643 - INFO -   r/Edmonton: 19 collected, 17 relevant
+2025-10-26 11:12:18,702 - INFO - Collecting March 2022 data from r/saskatchewan
+2025-10-26 11:13:56,651 - INFO -   Collected 20 unique posts from March 2022
+2025-10-26 11:13:56,652 - INFO -   r/saskatchewan: 20 collected, 9 relevant
+2025-10-26 11:13:59,702 - INFO - Collecting March 2022 data from r/manitoba
+2025-10-26 11:15:29,612 - INFO -   Collected 14 unique posts from March 2022
+2025-10-26 11:15:29,613 - INFO -   r/manitoba: 14 collected, 12 relevant
+2025-10-26 11:15:32,718 - INFO - Collecting March 2022 data from r/alberta
+2025-10-26 11:17:23,401 - INFO -   Collected 27 unique posts from March 2022
+2025-10-26 11:17:23,403 - INFO -   r/alberta: 27 collected, 20 relevant
+2025-10-26 11:17:26,486 - INFO - Saved: reddit_2022_2023_2022-03.csv (106 posts)
+2025-10-26 11:17:26,487 - INFO - 
+============================================================
+2025-10-26 11:17:26,487 - INFO - Processing 2022-04
+2025-10-26 11:17:26,487 - INFO - ============================================================
+2025-10-26 11:17:26,488 - INFO - Collecting April 2022 data from r/Saskatoon
+2025-10-26 11:19:11,574 - INFO -   Collected 12 unique posts from April 2022
+2025-10-26 11:19:11,575 - INFO -   r/Saskatoon: 12 collected, 6 relevant
+2025-10-26 11:19:14,624 - INFO - Collecting April 2022 data from r/Regina
+2025-10-26 11:20:53,678 - INFO -   Collected 10 unique posts from April 2022
+2025-10-26 11:20:53,679 - INFO -   r/Regina: 10 collected, 8 relevant
+2025-10-26 11:20:56,729 - INFO - Collecting April 2022 data from r/Winnipeg
+2025-10-26 11:22:48,270 - INFO -   Collected 58 unique posts from April 2022
+2025-10-26 11:22:48,272 - INFO -   r/Winnipeg: 58 collected, 57 relevant
+2025-10-26 11:22:51,333 - INFO - Collecting April 2022 data from r/Edmonton
+2025-10-26 11:24:46,126 - INFO -   Collected 15 unique posts from April 2022
+2025-10-26 11:24:46,127 - INFO -   r/Edmonton: 15 collected, 12 relevant
+2025-10-26 11:24:49,180 - INFO - Collecting April 2022 data from r/saskatchewan
+2025-10-26 11:26:26,143 - INFO -   Collected 19 unique posts from April 2022
+2025-10-26 11:26:26,144 - INFO -   r/saskatchewan: 19 collected, 13 relevant
+2025-10-26 11:26:29,201 - INFO - Collecting April 2022 data from r/manitoba
+2025-10-26 11:28:00,464 - INFO -   Collected 28 unique posts from April 2022
+2025-10-26 11:28:00,466 - INFO -   r/manitoba: 28 collected, 23 relevant
+2025-10-26 11:28:03,515 - INFO - Collecting April 2022 data from r/alberta
+2025-10-26 11:29:55,572 - INFO -   Collected 18 unique posts from April 2022
+2025-10-26 11:29:55,574 - INFO -   r/alberta: 18 collected, 14 relevant
+2025-10-26 11:29:58,655 - INFO - Saved: reddit_2022_2023_2022-04.csv (133 posts)
+2025-10-26 11:29:58,655 - INFO - 
+============================================================
+2025-10-26 11:29:58,655 - INFO - Processing 2022-05
+2025-10-26 11:29:58,655 - INFO - ============================================================
+2025-10-26 11:29:58,656 - INFO - Collecting May 2022 data from r/Saskatoon
+2025-10-26 11:31:48,677 - INFO -   Collected 13 unique posts from May 2022
+2025-10-26 11:31:48,677 - INFO -   r/Saskatoon: 13 collected, 9 relevant
+2025-10-26 11:31:51,702 - INFO - Collecting May 2022 data from r/Regina
+2025-10-26 11:33:30,617 - INFO -   Collected 12 unique posts from May 2022
+2025-10-26 11:33:30,618 - INFO -   r/Regina: 12 collected, 9 relevant
+2025-10-26 11:33:33,674 - INFO - Collecting May 2022 data from r/Winnipeg
+2025-10-26 11:35:24,859 - INFO -   Collected 17 unique posts from May 2022
+2025-10-26 11:35:24,861 - INFO -   r/Winnipeg: 17 collected, 15 relevant
+2025-10-26 11:35:27,897 - INFO - Collecting May 2022 data from r/Edmonton
+2025-10-26 11:37:23,703 - INFO -   Collected 30 unique posts from May 2022
+2025-10-26 11:37:23,704 - INFO -   r/Edmonton: 30 collected, 26 relevant
+2025-10-26 11:37:26,747 - INFO - Collecting May 2022 data from r/saskatchewan
+2025-10-26 11:39:05,534 - INFO -   Collected 14 unique posts from May 2022
+2025-10-26 11:39:05,535 - INFO -   r/saskatchewan: 14 collected, 12 relevant
+2025-10-26 11:39:08,565 - INFO - Collecting May 2022 data from r/manitoba
+2025-10-26 11:40:39,470 - INFO -   Collected 17 unique posts from May 2022
+2025-10-26 11:40:39,471 - INFO -   r/manitoba: 17 collected, 9 relevant
+2025-10-26 11:40:42,510 - INFO - Collecting May 2022 data from r/alberta
+2025-10-26 11:42:34,175 - INFO -   Collected 23 unique posts from May 2022
+2025-10-26 11:42:34,177 - INFO -   r/alberta: 23 collected, 16 relevant
+2025-10-26 11:42:37,267 - INFO - Saved: reddit_2022_2023_2022-05.csv (96 posts)
+2025-10-26 11:42:37,267 - INFO - 
+============================================================
+2025-10-26 11:42:37,267 - INFO - Processing 2022-06
+2025-10-26 11:42:37,267 - INFO - ============================================================
+2025-10-26 11:42:37,268 - INFO - Collecting June 2022 data from r/Saskatoon
+2025-10-26 11:44:24,481 - INFO -   Collected 16 unique posts from June 2022
+2025-10-26 11:44:24,482 - INFO -   r/Saskatoon: 16 collected, 13 relevant
+2025-10-26 11:44:27,507 - INFO - Collecting June 2022 data from r/Regina
+2025-10-26 11:46:06,461 - INFO -   Collected 18 unique posts from June 2022
+2025-10-26 11:46:06,463 - INFO -   r/Regina: 18 collected, 11 relevant
+2025-10-26 11:46:09,507 - INFO - Collecting June 2022 data from r/Winnipeg
+2025-10-26 11:48:01,992 - INFO -   Collected 22 unique posts from June 2022
+2025-10-26 11:48:01,993 - INFO -   r/Winnipeg: 22 collected, 18 relevant
+2025-10-26 11:48:05,028 - INFO - Collecting June 2022 data from r/Edmonton
+2025-10-26 11:49:58,059 - INFO -   Collected 20 unique posts from June 2022
+2025-10-26 11:49:58,060 - INFO -   r/Edmonton: 20 collected, 20 relevant
+2025-10-26 11:50:01,095 - INFO - Collecting June 2022 data from r/saskatchewan
+2025-10-26 11:51:40,224 - INFO -   Collected 11 unique posts from June 2022
+2025-10-26 11:51:40,224 - INFO -   r/saskatchewan: 11 collected, 5 relevant
+2025-10-26 11:51:43,266 - INFO - Collecting June 2022 data from r/manitoba
+2025-10-26 11:53:13,906 - INFO -   Collected 12 unique posts from June 2022
+2025-10-26 11:53:13,907 - INFO -   r/manitoba: 12 collected, 5 relevant
+2025-10-26 11:53:16,936 - INFO - Collecting June 2022 data from r/alberta
+2025-10-26 11:55:06,072 - INFO -   Collected 18 unique posts from June 2022
+2025-10-26 11:55:06,073 - INFO -   r/alberta: 18 collected, 14 relevant
+2025-10-26 11:55:09,128 - INFO - Saved: reddit_2022_2023_2022-06.csv (86 posts)
+2025-10-26 11:55:09,128 - INFO - 
+============================================================
+2025-10-26 11:55:09,128 - INFO - Processing 2022-07
+2025-10-26 11:55:09,128 - INFO - ============================================================
+2025-10-26 11:55:09,129 - INFO - Collecting July 2022 data from r/Saskatoon
+2025-10-26 11:56:56,835 - INFO -   Collected 16 unique posts from July 2022
+2025-10-26 11:56:56,836 - INFO -   r/Saskatoon: 16 collected, 12 relevant
+2025-10-26 11:56:59,873 - INFO - Collecting July 2022 data from r/Regina
+2025-10-26 11:58:38,646 - INFO -   Collected 12 unique posts from July 2022
+2025-10-26 11:58:38,647 - INFO -   r/Regina: 12 collected, 8 relevant
+2025-10-26 11:58:41,684 - INFO - Collecting July 2022 data from r/Winnipeg
+2025-10-26 12:00:39,260 - INFO -   Collected 22 unique posts from July 2022
+2025-10-26 12:00:39,262 - INFO -   r/Winnipeg: 22 collected, 22 relevant
+2025-10-26 12:00:42,310 - INFO - Collecting July 2022 data from r/Edmonton
+2025-10-26 12:02:43,751 - INFO -   Collected 33 unique posts from July 2022
+2025-10-26 12:02:43,753 - INFO -   r/Edmonton: 33 collected, 28 relevant
+2025-10-26 12:02:46,793 - INFO - Collecting July 2022 data from r/saskatchewan
+2025-10-26 12:04:24,783 - INFO -   Collected 14 unique posts from July 2022
+2025-10-26 12:04:24,784 - INFO -   r/saskatchewan: 14 collected, 10 relevant
+2025-10-26 12:04:27,807 - INFO - Collecting July 2022 data from r/manitoba
+2025-10-26 12:05:57,931 - INFO -   Collected 11 unique posts from July 2022
+2025-10-26 12:05:57,933 - INFO -   r/manitoba: 11 collected, 7 relevant
+2025-10-26 12:06:00,982 - INFO - Collecting July 2022 data from r/alberta
+2025-10-26 12:07:51,684 - INFO -   Collected 31 unique posts from July 2022
+2025-10-26 12:07:51,686 - INFO -   r/alberta: 31 collected, 27 relevant
+2025-10-26 12:07:54,729 - INFO - Saved: reddit_2022_2023_2022-07.csv (114 posts)
+2025-10-26 12:07:54,729 - INFO - 
+============================================================
+2025-10-26 12:07:54,729 - INFO - Processing 2022-08
+2025-10-26 12:07:54,729 - INFO - ============================================================
+2025-10-26 12:07:54,730 - INFO - Collecting August 2022 data from r/Saskatoon
+2025-10-26 12:09:41,385 - INFO -   Collected 27 unique posts from August 2022
+2025-10-26 12:09:41,386 - INFO -   r/Saskatoon: 27 collected, 24 relevant
+2025-10-26 12:09:44,432 - INFO - Collecting August 2022 data from r/Regina
+2025-10-26 12:11:23,035 - INFO -   Collected 19 unique posts from August 2022
+2025-10-26 12:11:23,036 - INFO -   r/Regina: 19 collected, 14 relevant
+2025-10-26 12:11:26,068 - INFO - Collecting August 2022 data from r/Winnipeg
+2025-10-26 12:13:14,994 - INFO -   Collected 32 unique posts from August 2022
+2025-10-26 12:13:14,995 - INFO -   r/Winnipeg: 32 collected, 30 relevant
+2025-10-26 12:13:18,028 - INFO - Collecting August 2022 data from r/Edmonton
+2025-10-26 12:15:11,398 - INFO -   Collected 21 unique posts from August 2022
+2025-10-26 12:15:11,399 - INFO -   r/Edmonton: 21 collected, 18 relevant
+2025-10-26 12:15:14,447 - INFO - Collecting August 2022 data from r/saskatchewan
+2025-10-26 12:16:51,191 - INFO -   Collected 8 unique posts from August 2022
+2025-10-26 12:16:51,192 - INFO -   r/saskatchewan: 8 collected, 4 relevant
+2025-10-26 12:16:54,214 - INFO - Collecting August 2022 data from r/manitoba
+2025-10-26 12:18:23,482 - INFO -   Collected 7 unique posts from August 2022
+2025-10-26 12:18:23,483 - INFO -   r/manitoba: 7 collected, 4 relevant
+2025-10-26 12:18:26,513 - INFO - Collecting August 2022 data from r/alberta
+2025-10-26 12:20:16,605 - INFO -   Collected 27 unique posts from August 2022
+2025-10-26 12:20:16,608 - INFO -   r/alberta: 27 collected, 21 relevant
+2025-10-26 12:20:19,691 - INFO - Saved: reddit_2022_2023_2022-08.csv (115 posts)
+2025-10-26 12:20:19,691 - INFO - 
+============================================================
+2025-10-26 12:20:19,691 - INFO - Processing 2022-09
+2025-10-26 12:20:19,691 - INFO - ============================================================
+2025-10-26 12:20:19,692 - INFO - Collecting September 2022 data from r/Saskatoon
+2025-10-26 12:22:06,902 - INFO -   Collected 19 unique posts from September 2022
+2025-10-26 12:22:06,903 - INFO -   r/Saskatoon: 19 collected, 14 relevant
+2025-10-26 12:22:09,935 - INFO - Collecting September 2022 data from r/Regina
+2025-10-26 12:23:46,962 - INFO -   Collected 30 unique posts from September 2022
+2025-10-26 12:23:46,964 - INFO -   r/Regina: 30 collected, 24 relevant
+2025-10-26 12:23:50,002 - INFO - Collecting September 2022 data from r/Winnipeg
+2025-10-26 12:25:41,109 - INFO -   Collected 25 unique posts from September 2022
+2025-10-26 12:25:41,111 - INFO -   r/Winnipeg: 25 collected, 22 relevant
+2025-10-26 12:25:44,142 - INFO - Collecting September 2022 data from r/Edmonton
+2025-10-26 12:27:35,951 - INFO -   Collected 24 unique posts from September 2022
+2025-10-26 12:27:35,952 - INFO -   r/Edmonton: 24 collected, 20 relevant
+2025-10-26 12:27:38,989 - INFO - Collecting September 2022 data from r/saskatchewan
+2025-10-26 12:29:16,692 - INFO -   Collected 22 unique posts from September 2022
+2025-10-26 12:29:16,695 - INFO -   r/saskatchewan: 22 collected, 14 relevant
+2025-10-26 12:29:19,760 - INFO - Collecting September 2022 data from r/manitoba
+2025-10-26 12:30:51,373 - INFO -   Collected 5 unique posts from September 2022
+2025-10-26 12:30:51,374 - INFO -   r/manitoba: 5 collected, 4 relevant
+2025-10-26 12:30:54,417 - INFO - Collecting September 2022 data from r/alberta
+2025-10-26 12:32:48,446 - INFO -   Collected 20 unique posts from September 2022
+2025-10-26 12:32:48,448 - INFO -   r/alberta: 20 collected, 16 relevant
+2025-10-26 12:32:51,497 - INFO - Saved: reddit_2022_2023_2022-09.csv (114 posts)
+2025-10-26 12:32:51,497 - INFO - 
+============================================================
+2025-10-26 12:32:51,497 - INFO - Processing 2022-10
+2025-10-26 12:32:51,497 - INFO - ============================================================
+2025-10-26 12:32:51,498 - INFO - Collecting October 2022 data from r/Saskatoon
+2025-10-26 12:34:37,943 - INFO -   Collected 14 unique posts from October 2022
+2025-10-26 12:34:37,944 - INFO -   r/Saskatoon: 14 collected, 14 relevant
+2025-10-26 12:34:40,979 - INFO - Collecting October 2022 data from r/Regina
+2025-10-26 12:36:19,669 - INFO -   Collected 23 unique posts from October 2022
+2025-10-26 12:36:19,671 - INFO -   r/Regina: 23 collected, 15 relevant
+2025-10-26 12:36:22,706 - INFO - Collecting October 2022 data from r/Winnipeg
+2025-10-26 12:38:13,408 - INFO -   Collected 23 unique posts from October 2022
+2025-10-26 12:38:13,409 - INFO -   r/Winnipeg: 23 collected, 23 relevant
+2025-10-26 12:38:16,429 - INFO - Collecting October 2022 data from r/Edmonton
+2025-10-26 12:40:11,356 - INFO -   Collected 21 unique posts from October 2022
+2025-10-26 12:40:11,358 - INFO -   r/Edmonton: 21 collected, 21 relevant
+2025-10-26 12:40:14,395 - INFO - Collecting October 2022 data from r/saskatchewan
+2025-10-26 12:41:54,226 - INFO -   Collected 14 unique posts from October 2022
+2025-10-26 12:41:54,228 - INFO -   r/saskatchewan: 14 collected, 12 relevant
+2025-10-26 12:41:57,249 - INFO - Collecting October 2022 data from r/manitoba
+2025-10-26 12:43:27,914 - INFO -   Collected 8 unique posts from October 2022
+2025-10-26 12:43:27,915 - INFO -   r/manitoba: 8 collected, 6 relevant
+2025-10-26 12:43:30,939 - INFO - Collecting October 2022 data from r/alberta
+2025-10-26 12:45:19,684 - INFO -   Collected 22 unique posts from October 2022
+2025-10-26 12:45:19,687 - INFO -   r/alberta: 22 collected, 18 relevant
+2025-10-26 12:45:22,765 - INFO - Saved: reddit_2022_2023_2022-10.csv (109 posts)
+2025-10-26 12:45:22,766 - INFO - 
+============================================================
+2025-10-26 12:45:22,766 - INFO - Processing 2022-11
+2025-10-26 12:45:22,766 - INFO - ============================================================
+2025-10-26 12:45:22,766 - INFO - Collecting November 2022 data from r/Saskatoon
+2025-10-26 12:47:11,311 - INFO -   Collected 28 unique posts from November 2022
+2025-10-26 12:47:11,312 - INFO -   r/Saskatoon: 28 collected, 27 relevant
+2025-10-26 12:47:14,343 - INFO - Collecting November 2022 data from r/Regina
+2025-10-26 12:48:53,679 - INFO -   Collected 26 unique posts from November 2022
+2025-10-26 12:48:53,681 - INFO -   r/Regina: 26 collected, 23 relevant
+2025-10-26 12:48:56,725 - INFO - Collecting November 2022 data from r/Winnipeg
+2025-10-26 12:50:49,898 - INFO -   Collected 30 unique posts from November 2022
+2025-10-26 12:50:49,899 - INFO -   r/Winnipeg: 30 collected, 28 relevant
+2025-10-26 12:50:52,925 - INFO - Collecting November 2022 data from r/Edmonton
+2025-10-26 12:52:46,866 - INFO -   Collected 24 unique posts from November 2022
+2025-10-26 12:52:46,867 - INFO -   r/Edmonton: 24 collected, 22 relevant
+2025-10-26 12:52:49,890 - INFO - Collecting November 2022 data from r/saskatchewan
+2025-10-26 12:54:27,803 - INFO -   Collected 25 unique posts from November 2022
+2025-10-26 12:54:27,805 - INFO -   r/saskatchewan: 25 collected, 22 relevant
+2025-10-26 12:54:30,837 - INFO - Collecting November 2022 data from r/manitoba
+2025-10-26 12:56:02,498 - INFO -   Collected 12 unique posts from November 2022
+2025-10-26 12:56:02,499 - INFO -   r/manitoba: 12 collected, 11 relevant
+2025-10-26 12:56:05,523 - INFO - Collecting November 2022 data from r/alberta
+2025-10-26 12:57:57,915 - INFO -   Collected 25 unique posts from November 2022
+2025-10-26 12:57:57,917 - INFO -   r/alberta: 25 collected, 17 relevant
+2025-10-26 12:58:00,955 - INFO - Saved: reddit_2022_2023_2022-11.csv (150 posts)
+2025-10-26 12:58:00,955 - INFO - 
+============================================================
+2025-10-26 12:58:00,955 - INFO - Processing 2022-12
+2025-10-26 12:58:00,955 - INFO - ============================================================
+2025-10-26 12:58:00,956 - INFO - Collecting December 2022 data from r/Saskatoon
+2025-10-26 12:59:47,579 - INFO -   Collected 34 unique posts from December 2022
+2025-10-26 12:59:47,580 - INFO -   r/Saskatoon: 34 collected, 34 relevant
+2025-10-26 12:59:50,884 - INFO - Collecting December 2022 data from r/Regina
+2025-10-26 13:01:38,131 - INFO -   Collected 22 unique posts from December 2022
+2025-10-26 13:01:38,136 - INFO -   r/Regina: 22 collected, 15 relevant
+2025-10-26 13:01:41,162 - INFO - Collecting December 2022 data from r/Winnipeg
+2025-10-26 13:03:32,510 - INFO -   Collected 34 unique posts from December 2022
+2025-10-26 13:03:32,513 - INFO -   r/Winnipeg: 34 collected, 33 relevant
+2025-10-26 13:03:35,553 - INFO - Collecting December 2022 data from r/Edmonton
+2025-10-26 13:05:29,408 - INFO -   Collected 39 unique posts from December 2022
+2025-10-26 13:05:29,410 - INFO -   r/Edmonton: 39 collected, 36 relevant
+2025-10-26 13:05:32,455 - INFO - Collecting December 2022 data from r/saskatchewan
+2025-10-26 13:07:09,678 - INFO -   Collected 24 unique posts from December 2022
+2025-10-26 13:07:09,680 - INFO -   r/saskatchewan: 24 collected, 22 relevant
+2025-10-26 13:07:12,764 - INFO - Collecting December 2022 data from r/manitoba
+2025-10-26 13:08:42,938 - INFO -   Collected 14 unique posts from December 2022
+2025-10-26 13:08:42,940 - INFO -   r/manitoba: 14 collected, 13 relevant
+2025-10-26 13:08:45,988 - INFO - Collecting December 2022 data from r/alberta
+2025-10-26 13:10:35,227 - INFO -   Collected 35 unique posts from December 2022
+2025-10-26 13:10:35,229 - INFO -   r/alberta: 35 collected, 27 relevant
+2025-10-26 13:10:38,298 - INFO - Saved: reddit_2022_2023_2022-12.csv (180 posts)
+2025-10-26 13:10:38,299 - INFO - 
+============================================================
+2025-10-26 13:10:38,299 - INFO - Processing 2023-01
+2025-10-26 13:10:38,299 - INFO - ============================================================
+2025-10-26 13:10:38,299 - INFO - Collecting January 2023 data from r/Saskatoon
+2025-10-26 13:12:25,922 - INFO -   Collected 25 unique posts from January 2023
+2025-10-26 13:12:25,924 - INFO -   r/Saskatoon: 25 collected, 20 relevant
+2025-10-26 13:12:28,975 - INFO - Collecting January 2023 data from r/Regina
+2025-10-26 13:14:07,392 - INFO -   Collected 18 unique posts from January 2023
+2025-10-26 13:14:07,394 - INFO -   r/Regina: 18 collected, 14 relevant
+2025-10-26 13:14:10,420 - INFO - Collecting January 2023 data from r/Winnipeg
+2025-10-26 13:16:01,037 - INFO -   Collected 23 unique posts from January 2023
+2025-10-26 13:16:01,039 - INFO -   r/Winnipeg: 23 collected, 17 relevant
+2025-10-26 13:16:04,064 - INFO - Collecting January 2023 data from r/Edmonton
+2025-10-26 13:17:59,050 - INFO -   Collected 31 unique posts from January 2023
+2025-10-26 13:17:59,053 - INFO -   r/Edmonton: 31 collected, 29 relevant
+2025-10-26 13:18:02,147 - INFO - Collecting January 2023 data from r/saskatchewan
+2025-10-26 13:19:38,202 - INFO -   Collected 16 unique posts from January 2023
+2025-10-26 13:19:38,204 - INFO -   r/saskatchewan: 16 collected, 14 relevant
+2025-10-26 13:19:41,238 - INFO - Collecting January 2023 data from r/manitoba
+2025-10-26 13:21:13,357 - INFO -   Collected 12 unique posts from January 2023
+2025-10-26 13:21:13,358 - INFO -   r/manitoba: 12 collected, 9 relevant
+2025-10-26 13:21:16,417 - INFO - Collecting January 2023 data from r/alberta
+2025-10-26 13:23:05,541 - INFO -   Collected 25 unique posts from January 2023
+2025-10-26 13:23:05,543 - INFO -   r/alberta: 25 collected, 20 relevant
+2025-10-26 13:23:08,580 - INFO - Saved: reddit_2022_2023_2023-01.csv (123 posts)
+2025-10-26 13:23:08,581 - INFO - 
+============================================================
+2025-10-26 13:23:08,581 - INFO - Processing 2023-02
+2025-10-26 13:23:08,581 - INFO - ============================================================
+2025-10-26 13:23:08,581 - INFO - Collecting February 2023 data from r/Saskatoon
+2025-10-26 13:24:55,052 - INFO -   Collected 13 unique posts from February 2023
+2025-10-26 13:24:55,053 - INFO -   r/Saskatoon: 13 collected, 12 relevant
+2025-10-26 13:24:58,087 - INFO - Collecting February 2023 data from r/Regina
+2025-10-26 13:26:37,171 - INFO -   Collected 24 unique posts from February 2023
+2025-10-26 13:26:37,173 - INFO -   r/Regina: 24 collected, 17 relevant
+2025-10-26 13:26:40,201 - INFO - Collecting February 2023 data from r/Winnipeg
+2025-10-26 13:28:28,987 - INFO -   Collected 22 unique posts from February 2023
+2025-10-26 13:28:28,989 - INFO -   r/Winnipeg: 22 collected, 20 relevant
+2025-10-26 13:28:32,036 - INFO - Collecting February 2023 data from r/Edmonton
+2025-10-26 13:30:25,594 - INFO -   Collected 20 unique posts from February 2023
+2025-10-26 13:30:25,595 - INFO -   r/Edmonton: 20 collected, 16 relevant
+2025-10-26 13:30:28,625 - INFO - Collecting February 2023 data from r/saskatchewan
+2025-10-26 13:32:06,800 - INFO -   Collected 16 unique posts from February 2023
+2025-10-26 13:32:06,801 - INFO -   r/saskatchewan: 16 collected, 14 relevant
+2025-10-26 13:32:09,830 - INFO - Collecting February 2023 data from r/manitoba
+2025-10-26 13:33:41,009 - INFO -   Collected 12 unique posts from February 2023
+2025-10-26 13:33:41,010 - INFO -   r/manitoba: 12 collected, 10 relevant
+2025-10-26 13:33:44,036 - INFO - Collecting February 2023 data from r/alberta
+2025-10-26 13:35:34,125 - INFO -   Collected 11 unique posts from February 2023
+2025-10-26 13:35:34,126 - INFO -   r/alberta: 11 collected, 8 relevant
+2025-10-26 13:35:37,201 - INFO - Saved: reddit_2022_2023_2023-02.csv (97 posts)
+2025-10-26 13:35:37,201 - INFO - 
+============================================================
+2025-10-26 13:35:37,201 - INFO - Processing 2023-03
+2025-10-26 13:35:37,201 - INFO - ============================================================
+2025-10-26 13:35:37,202 - INFO - Collecting March 2023 data from r/Saskatoon
+2025-10-26 13:37:23,344 - INFO -   Collected 11 unique posts from March 2023
+2025-10-26 13:37:23,346 - INFO -   r/Saskatoon: 11 collected, 9 relevant
+2025-10-26 13:37:26,412 - INFO - Collecting March 2023 data from r/Regina
+2025-10-26 13:39:06,676 - INFO -   Collected 20 unique posts from March 2023
+2025-10-26 13:39:06,677 - INFO -   r/Regina: 20 collected, 15 relevant
+2025-10-26 13:39:09,746 - INFO - Collecting March 2023 data from r/Winnipeg
+2025-10-26 13:40:59,856 - INFO -   Collected 29 unique posts from March 2023
+2025-10-26 13:40:59,857 - INFO -   r/Winnipeg: 29 collected, 27 relevant
+2025-10-26 13:41:02,916 - INFO - Collecting March 2023 data from r/Edmonton
+2025-10-26 13:43:01,990 - INFO -   Collected 18 unique posts from March 2023
+2025-10-26 13:43:01,993 - INFO -   r/Edmonton: 18 collected, 17 relevant
+2025-10-26 13:43:05,112 - INFO - Collecting March 2023 data from r/saskatchewan
+2025-10-26 13:44:43,027 - INFO -   Collected 33 unique posts from March 2023
+2025-10-26 13:44:43,038 - INFO -   r/saskatchewan: 33 collected, 24 relevant
+2025-10-26 13:44:48,099 - INFO - Collecting March 2023 data from r/manitoba
+2025-10-26 13:46:20,253 - INFO -   Collected 6 unique posts from March 2023
+2025-10-26 13:46:20,254 - INFO -   r/manitoba: 6 collected, 5 relevant
+2025-10-26 13:46:23,314 - INFO - Collecting March 2023 data from r/alberta
+2025-10-26 13:48:17,762 - INFO -   Collected 13 unique posts from March 2023
+2025-10-26 13:48:17,763 - INFO -   r/alberta: 13 collected, 9 relevant
+2025-10-26 13:48:20,880 - INFO - Saved: reddit_2022_2023_2023-03.csv (106 posts)
+2025-10-26 13:48:20,880 - INFO - 
+============================================================
+2025-10-26 13:48:20,880 - INFO - Processing 2023-04
+2025-10-26 13:48:20,880 - INFO - ============================================================
+2025-10-26 13:48:20,881 - INFO - Collecting April 2023 data from r/Saskatoon
+2025-10-26 13:50:10,923 - INFO -   Collected 27 unique posts from April 2023
+2025-10-26 13:50:10,924 - INFO -   r/Saskatoon: 27 collected, 21 relevant
+2025-10-26 13:50:13,981 - INFO - Collecting April 2023 data from r/Regina
+2025-10-26 13:51:55,289 - INFO -   Collected 17 unique posts from April 2023
+2025-10-26 13:51:55,291 - INFO -   r/Regina: 17 collected, 14 relevant
+2025-10-26 13:51:58,331 - INFO - Collecting April 2023 data from r/Winnipeg
+2025-10-26 13:53:51,402 - INFO -   Collected 21 unique posts from April 2023
+2025-10-26 13:53:51,404 - INFO -   r/Winnipeg: 21 collected, 21 relevant
+2025-10-26 13:53:54,470 - INFO - Collecting April 2023 data from r/Edmonton
+2025-10-26 13:55:49,673 - INFO -   Collected 30 unique posts from April 2023
+2025-10-26 13:55:49,676 - INFO -   r/Edmonton: 30 collected, 28 relevant
+2025-10-26 13:55:52,877 - INFO - Collecting April 2023 data from r/saskatchewan
+2025-10-26 13:57:30,969 - INFO -   Collected 12 unique posts from April 2023
+2025-10-26 13:57:30,970 - INFO -   r/saskatchewan: 12 collected, 12 relevant
+2025-10-26 13:57:33,989 - INFO - Collecting April 2023 data from r/manitoba
+2025-10-26 13:59:04,239 - INFO -   Collected 10 unique posts from April 2023
+2025-10-26 13:59:04,240 - INFO -   r/manitoba: 10 collected, 8 relevant
+2025-10-26 13:59:07,288 - INFO - Collecting April 2023 data from r/alberta
+2025-10-26 14:01:03,561 - INFO -   Collected 28 unique posts from April 2023
+2025-10-26 14:01:03,563 - INFO -   r/alberta: 28 collected, 21 relevant
+2025-10-26 14:01:06,620 - INFO - Saved: reddit_2022_2023_2023-04.csv (125 posts)
+2025-10-26 14:01:06,620 - INFO - 
+============================================================
+2025-10-26 14:01:06,620 - INFO - Processing 2023-05
+2025-10-26 14:01:06,620 - INFO - ============================================================
+2025-10-26 14:01:06,620 - INFO - Collecting May 2023 data from r/Saskatoon
+2025-10-26 14:02:56,114 - INFO -   Collected 14 unique posts from May 2023
+2025-10-26 14:02:56,116 - INFO -   r/Saskatoon: 14 collected, 11 relevant
+2025-10-26 14:02:59,143 - INFO - Collecting May 2023 data from r/Regina
+2025-10-26 14:04:39,652 - INFO -   Collected 21 unique posts from May 2023
+2025-10-26 14:04:39,654 - INFO -   r/Regina: 21 collected, 13 relevant
+2025-10-26 14:04:42,678 - INFO - Collecting May 2023 data from r/Winnipeg
+2025-10-26 14:06:33,612 - INFO -   Collected 34 unique posts from May 2023
+2025-10-26 14:06:33,614 - INFO -   r/Winnipeg: 34 collected, 31 relevant
+2025-10-26 14:06:36,650 - INFO - Collecting May 2023 data from r/Edmonton
+2025-10-26 14:08:32,468 - INFO -   Collected 33 unique posts from May 2023
+2025-10-26 14:08:32,471 - INFO -   r/Edmonton: 33 collected, 27 relevant
+2025-10-26 14:08:35,546 - INFO - Collecting May 2023 data from r/saskatchewan
+2025-10-26 14:10:13,608 - INFO -   Collected 20 unique posts from May 2023
+2025-10-26 14:10:13,609 - INFO -   r/saskatchewan: 20 collected, 17 relevant
+2025-10-26 14:10:16,659 - INFO - Collecting May 2023 data from r/manitoba
+2025-10-26 14:11:46,271 - INFO -   Collected 11 unique posts from May 2023
+2025-10-26 14:11:46,272 - INFO -   r/manitoba: 11 collected, 8 relevant
+2025-10-26 14:11:49,291 - INFO - Collecting May 2023 data from r/alberta
+2025-10-26 14:13:41,588 - INFO -   Collected 48 unique posts from May 2023
+2025-10-26 14:13:41,594 - INFO -   r/alberta: 48 collected, 37 relevant
+2025-10-26 14:13:44,883 - INFO - Saved: reddit_2022_2023_2023-05.csv (144 posts)
+2025-10-26 14:13:44,884 - INFO - 
+============================================================
+2025-10-26 14:13:44,884 - INFO - Processing 2023-06
+2025-10-26 14:13:44,884 - INFO - ============================================================
+2025-10-26 14:13:44,884 - INFO - Collecting June 2023 data from r/Saskatoon
+2025-10-26 14:15:31,840 - INFO -   Collected 13 unique posts from June 2023
+2025-10-26 14:15:31,842 - INFO -   r/Saskatoon: 13 collected, 10 relevant
+2025-10-26 14:15:34,867 - INFO - Collecting June 2023 data from r/Regina
+2025-10-26 14:17:14,644 - INFO -   Collected 36 unique posts from June 2023
+2025-10-26 14:17:14,647 - INFO -   r/Regina: 36 collected, 24 relevant
+2025-10-26 14:17:17,675 - INFO - Collecting June 2023 data from r/Winnipeg
+2025-10-26 14:19:09,126 - INFO -   Collected 25 unique posts from June 2023
+2025-10-26 14:19:09,127 - INFO -   r/Winnipeg: 25 collected, 20 relevant
+2025-10-26 14:19:12,152 - INFO - Collecting June 2023 data from r/Edmonton
+2025-10-26 14:21:07,652 - INFO -   Collected 31 unique posts from June 2023
+2025-10-26 14:21:07,654 - INFO -   r/Edmonton: 31 collected, 27 relevant
+2025-10-26 14:21:10,685 - INFO - Collecting June 2023 data from r/saskatchewan
+2025-10-26 14:22:48,050 - INFO -   Collected 19 unique posts from June 2023
+2025-10-26 14:22:48,051 - INFO -   r/saskatchewan: 19 collected, 13 relevant
+2025-10-26 14:22:51,081 - INFO - Collecting June 2023 data from r/manitoba
+2025-10-26 14:24:23,558 - INFO -   Collected 17 unique posts from June 2023
+2025-10-26 14:24:23,561 - INFO -   r/manitoba: 17 collected, 10 relevant
+2025-10-26 14:24:26,606 - INFO - Collecting June 2023 data from r/alberta
+2025-10-26 14:26:17,074 - INFO -   Collected 24 unique posts from June 2023
+2025-10-26 14:26:17,075 - INFO -   r/alberta: 24 collected, 16 relevant
+2025-10-26 14:26:20,127 - INFO - Saved: reddit_2022_2023_2023-06.csv (120 posts)
+2025-10-26 14:26:20,128 - INFO - 
+============================================================
+2025-10-26 14:26:20,128 - INFO - Processing 2023-07
+2025-10-26 14:26:20,128 - INFO - ============================================================
+2025-10-26 14:26:20,128 - INFO - Collecting July 2023 data from r/Saskatoon
+2025-10-26 14:28:06,093 - INFO -   Collected 20 unique posts from July 2023
+2025-10-26 14:28:06,095 - INFO -   r/Saskatoon: 20 collected, 16 relevant
+2025-10-26 14:28:09,117 - INFO - Collecting July 2023 data from r/Regina
+2025-10-26 14:29:48,517 - INFO -   Collected 31 unique posts from July 2023
+2025-10-26 14:29:48,521 - INFO -   r/Regina: 31 collected, 24 relevant
+2025-10-26 14:29:51,589 - INFO - Collecting July 2023 data from r/Winnipeg
+2025-10-26 14:31:43,966 - INFO -   Collected 37 unique posts from July 2023
+2025-10-26 14:31:43,970 - INFO -   r/Winnipeg: 37 collected, 35 relevant
+2025-10-26 14:31:47,017 - INFO - Collecting July 2023 data from r/Edmonton
+2025-10-26 14:33:40,637 - INFO -   Collected 36 unique posts from July 2023
+2025-10-26 14:33:40,639 - INFO -   r/Edmonton: 36 collected, 32 relevant
+2025-10-26 14:33:43,667 - INFO - Collecting July 2023 data from r/saskatchewan
+2025-10-26 14:35:23,679 - INFO -   Collected 17 unique posts from July 2023
+2025-10-26 14:35:23,681 - INFO -   r/saskatchewan: 17 collected, 13 relevant
+2025-10-26 14:35:26,708 - INFO - Collecting July 2023 data from r/manitoba
+2025-10-26 14:36:55,994 - INFO -   Collected 10 unique posts from July 2023
+2025-10-26 14:36:55,995 - INFO -   r/manitoba: 10 collected, 5 relevant
+2025-10-26 14:36:59,017 - INFO - Collecting July 2023 data from r/alberta
+2025-10-26 14:38:50,403 - INFO -   Collected 29 unique posts from July 2023
+2025-10-26 14:38:50,407 - INFO -   r/alberta: 29 collected, 22 relevant
+2025-10-26 14:38:53,469 - INFO - Saved: reddit_2022_2023_2023-07.csv (147 posts)
+2025-10-26 14:38:53,469 - INFO - 
+============================================================
+2025-10-26 14:38:53,469 - INFO - Processing 2023-08
+2025-10-26 14:38:53,469 - INFO - ============================================================
+2025-10-26 14:38:53,470 - INFO - Collecting August 2023 data from r/Saskatoon
+2025-10-26 14:40:43,002 - INFO -   Collected 20 unique posts from August 2023
+2025-10-26 14:40:43,004 - INFO -   r/Saskatoon: 20 collected, 18 relevant
+2025-10-26 14:40:46,073 - INFO - Collecting August 2023 data from r/Regina
+2025-10-26 14:42:26,828 - INFO -   Collected 19 unique posts from August 2023
+2025-10-26 14:42:26,830 - INFO -   r/Regina: 19 collected, 15 relevant
+2025-10-26 14:42:29,862 - INFO - Collecting August 2023 data from r/Winnipeg
+2025-10-26 14:44:21,283 - INFO -   Collected 27 unique posts from August 2023
+2025-10-26 14:44:21,285 - INFO -   r/Winnipeg: 27 collected, 25 relevant
+2025-10-26 14:44:24,311 - INFO - Collecting August 2023 data from r/Edmonton
+2025-10-26 14:46:20,374 - INFO -   Collected 32 unique posts from August 2023
+2025-10-26 14:46:20,377 - INFO -   r/Edmonton: 32 collected, 29 relevant
+2025-10-26 14:46:23,488 - INFO - Collecting August 2023 data from r/saskatchewan
+2025-10-26 14:48:01,670 - INFO -   Collected 26 unique posts from August 2023
+2025-10-26 14:48:01,670 - INFO -   r/saskatchewan: 26 collected, 18 relevant
+2025-10-26 14:48:04,692 - INFO - Collecting August 2023 data from r/manitoba
+2025-10-26 14:49:36,099 - INFO -   Collected 13 unique posts from August 2023
+2025-10-26 14:49:36,100 - INFO -   r/manitoba: 13 collected, 12 relevant
+2025-10-26 14:49:39,120 - INFO - Collecting August 2023 data from r/alberta
+2025-10-26 14:51:32,297 - INFO -   Collected 29 unique posts from August 2023
+2025-10-26 14:51:32,299 - INFO -   r/alberta: 29 collected, 23 relevant
+2025-10-26 14:51:35,343 - INFO - Saved: reddit_2022_2023_2023-08.csv (140 posts)
+2025-10-26 14:51:35,343 - INFO - 
+============================================================
+2025-10-26 14:51:35,343 - INFO - Processing 2023-09
+2025-10-26 14:51:35,343 - INFO - ============================================================
+2025-10-26 14:51:35,344 - INFO - Collecting September 2023 data from r/Saskatoon
+2025-10-26 14:53:23,028 - INFO -   Collected 33 unique posts from September 2023
+2025-10-26 14:53:23,031 - INFO -   r/Saskatoon: 33 collected, 18 relevant
+2025-10-26 14:53:26,056 - INFO - Collecting September 2023 data from r/Regina
+2025-10-26 14:55:05,378 - INFO -   Collected 21 unique posts from September 2023
+2025-10-26 14:55:05,378 - INFO -   r/Regina: 21 collected, 14 relevant
+2025-10-26 14:55:08,402 - INFO - Collecting September 2023 data from r/Winnipeg
+2025-10-26 14:57:01,733 - INFO -   Collected 27 unique posts from September 2023
+2025-10-26 14:57:01,736 - INFO -   r/Winnipeg: 27 collected, 26 relevant
+2025-10-26 14:57:04,831 - INFO - Collecting September 2023 data from r/Edmonton
+2025-10-26 14:59:01,274 - INFO -   Collected 31 unique posts from September 2023
+2025-10-26 14:59:01,276 - INFO -   r/Edmonton: 31 collected, 29 relevant
+2025-10-26 14:59:04,326 - INFO - Collecting September 2023 data from r/saskatchewan
+2025-10-26 15:00:48,535 - INFO -   Collected 17 unique posts from September 2023
+2025-10-26 15:00:48,537 - INFO -   r/saskatchewan: 17 collected, 13 relevant
+2025-10-26 15:00:51,577 - INFO - Collecting September 2023 data from r/manitoba
+2025-10-26 15:02:22,906 - INFO -   Collected 17 unique posts from September 2023
+2025-10-26 15:02:22,908 - INFO -   r/manitoba: 17 collected, 10 relevant
+2025-10-26 15:02:25,955 - INFO - Collecting September 2023 data from r/alberta
+2025-10-26 15:04:16,824 - INFO -   Collected 12 unique posts from September 2023
+2025-10-26 15:04:16,825 - INFO -   r/alberta: 12 collected, 8 relevant
+2025-10-26 15:04:19,867 - INFO - Saved: reddit_2022_2023_2023-09.csv (118 posts)
+2025-10-26 15:04:19,868 - INFO - 
+============================================================
+2025-10-26 15:04:19,868 - INFO - Processing 2023-10
+2025-10-26 15:04:19,868 - INFO - ============================================================
+2025-10-26 15:04:19,868 - INFO - Collecting October 2023 data from r/Saskatoon
+2025-10-26 15:06:09,984 - INFO -   Collected 22 unique posts from October 2023
+2025-10-26 15:06:09,984 - INFO -   r/Saskatoon: 22 collected, 18 relevant
+2025-10-26 15:06:13,005 - INFO - Collecting October 2023 data from r/Regina
+2025-10-26 15:07:54,502 - INFO -   Collected 23 unique posts from October 2023
+2025-10-26 15:07:54,503 - INFO -   r/Regina: 23 collected, 22 relevant
+2025-10-26 15:07:57,533 - INFO - Collecting October 2023 data from r/Winnipeg
+2025-10-26 15:09:47,786 - INFO -   Collected 38 unique posts from October 2023
+2025-10-26 15:09:47,789 - INFO -   r/Winnipeg: 38 collected, 38 relevant
+2025-10-26 15:09:50,826 - INFO - Collecting October 2023 data from r/Edmonton
+2025-10-26 15:11:46,478 - INFO -   Collected 19 unique posts from October 2023
+2025-10-26 15:11:46,479 - INFO -   r/Edmonton: 19 collected, 18 relevant
+2025-10-26 15:11:49,525 - INFO - Collecting October 2023 data from r/saskatchewan
+2025-10-26 15:13:27,841 - INFO -   Collected 29 unique posts from October 2023
+2025-10-26 15:13:27,842 - INFO -   r/saskatchewan: 29 collected, 19 relevant
+2025-10-26 15:13:30,884 - INFO - Collecting October 2023 data from r/manitoba
+2025-10-26 15:15:01,483 - INFO -   Collected 14 unique posts from October 2023
+2025-10-26 15:15:01,484 - INFO -   r/manitoba: 14 collected, 7 relevant
+2025-10-26 15:15:04,570 - INFO - Collecting October 2023 data from r/alberta
+2025-10-26 15:16:56,779 - INFO -   Collected 21 unique posts from October 2023
+2025-10-26 15:16:56,779 - INFO -   r/alberta: 21 collected, 13 relevant
+2025-10-26 15:16:59,818 - INFO - Saved: reddit_2022_2023_2023-10.csv (135 posts)
+2025-10-26 15:16:59,818 - INFO - 
+============================================================
+2025-10-26 15:16:59,818 - INFO - Processing 2023-11
+2025-10-26 15:16:59,818 - INFO - ============================================================
+2025-10-26 15:16:59,818 - INFO - Collecting November 2023 data from r/Saskatoon
+2025-10-26 15:18:46,881 - INFO -   Collected 30 unique posts from November 2023
+2025-10-26 15:18:46,883 - INFO -   r/Saskatoon: 30 collected, 21 relevant
+2025-10-26 15:18:49,912 - INFO - Collecting November 2023 data from r/Regina
+2025-10-26 15:20:29,716 - INFO -   Collected 21 unique posts from November 2023
+2025-10-26 15:20:29,719 - INFO -   r/Regina: 21 collected, 21 relevant
+2025-10-26 15:20:32,763 - INFO - Collecting November 2023 data from r/Winnipeg
+2025-10-26 15:22:24,709 - INFO -   Collected 30 unique posts from November 2023
+2025-10-26 15:22:24,711 - INFO -   r/Winnipeg: 30 collected, 26 relevant
+2025-10-26 15:22:27,738 - INFO - Collecting November 2023 data from r/Edmonton
+2025-10-26 15:24:22,357 - INFO -   Collected 41 unique posts from November 2023
+2025-10-26 15:24:22,359 - INFO -   r/Edmonton: 41 collected, 38 relevant
+2025-10-26 15:24:25,426 - INFO - Collecting November 2023 data from r/saskatchewan
+2025-10-26 15:26:03,301 - INFO -   Collected 21 unique posts from November 2023
+2025-10-26 15:26:03,302 - INFO -   r/saskatchewan: 21 collected, 8 relevant
+2025-10-26 15:26:06,324 - INFO - Collecting November 2023 data from r/manitoba
+2025-10-26 15:27:37,902 - INFO -   Collected 14 unique posts from November 2023
+2025-10-26 15:27:37,903 - INFO -   r/manitoba: 14 collected, 11 relevant
+2025-10-26 15:27:40,960 - INFO - Collecting November 2023 data from r/alberta
+2025-10-26 15:29:31,633 - INFO -   Collected 16 unique posts from November 2023
+2025-10-26 15:29:31,634 - INFO -   r/alberta: 16 collected, 12 relevant
+2025-10-26 15:29:34,756 - INFO - Saved: reddit_2022_2023_2023-11.csv (137 posts)
+2025-10-26 15:29:34,756 - INFO - 
+============================================================
+2025-10-26 15:29:34,756 - INFO - Processing 2023-12
+2025-10-26 15:29:34,757 - INFO - ============================================================
+2025-10-26 15:29:34,758 - INFO - Collecting December 2023 data from r/Saskatoon
+2025-10-26 15:31:24,644 - INFO -   Collected 16 unique posts from December 2023
+2025-10-26 15:31:24,645 - INFO -   r/Saskatoon: 16 collected, 11 relevant
+2025-10-26 15:31:27,725 - INFO - Collecting December 2023 data from r/Regina
+2025-10-26 15:33:09,423 - INFO -   Collected 24 unique posts from December 2023
+2025-10-26 15:33:09,426 - INFO -   r/Regina: 24 collected, 17 relevant
+2025-10-26 15:33:12,519 - INFO - Collecting December 2023 data from r/Winnipeg
+2025-10-26 15:35:07,513 - INFO -   Collected 26 unique posts from December 2023
+2025-10-26 15:35:07,515 - INFO -   r/Winnipeg: 26 collected, 25 relevant
+2025-10-26 15:35:10,557 - INFO - Collecting December 2023 data from r/Edmonton
+2025-10-26 15:37:05,036 - INFO -   Collected 50 unique posts from December 2023
+2025-10-26 15:37:05,037 - INFO -   r/Edmonton: 50 collected, 46 relevant
+2025-10-26 15:37:08,098 - INFO - Collecting December 2023 data from r/saskatchewan
+2025-10-26 15:38:45,940 - INFO -   Collected 26 unique posts from December 2023
+2025-10-26 15:38:45,943 - INFO -   r/saskatchewan: 26 collected, 20 relevant
+2025-10-26 15:38:48,998 - INFO - Collecting December 2023 data from r/manitoba
+2025-10-26 15:40:19,497 - INFO -   Collected 21 unique posts from December 2023
+2025-10-26 15:40:19,498 - INFO -   r/manitoba: 21 collected, 17 relevant
+2025-10-26 15:40:22,526 - INFO - Collecting December 2023 data from r/alberta
+2025-10-26 15:42:15,378 - INFO -   Collected 29 unique posts from December 2023
+2025-10-26 15:42:15,380 - INFO -   r/alberta: 29 collected, 18 relevant
+2025-10-26 15:42:18,444 - INFO - Saved: reddit_2022_2023_2023-12.csv (154 posts)
+2025-10-26 15:42:18,465 - INFO - 
+============================================================
+2025-10-26 15:42:18,465 - INFO - COLLECTION COMPLETE - 2022-2023 DATASET
+2025-10-26 15:42:18,465 - INFO - ============================================================
+2025-10-26 15:42:18,465 - INFO - Total posts collected: 3032
+2025-10-26 15:42:18,465 - INFO - Date range: 2022-01-01 05:06:29+00:00 to 2023-12-31 23:22:53+00:00
+2025-10-26 15:42:18,465 - INFO - Months covered: 24
+2025-10-26 15:42:18,551 - INFO - 
+Final dataset saved: reddit_climate_crime_2022_2023.csv
+2025-10-26 15:42:18,551 - INFO - Shape: (3032, 46)
+2025-10-26 15:42:18,560 - INFO - Metadata saved: reddit_climate_crime_2022_2023_metadata.json
+2025-10-26 15:42:18,560 - INFO - 
+======================================================================
+2025-10-26 15:42:18,560 - INFO - 2022-2023 DATASET SUMMARY
+2025-10-26 15:42:18,560 - INFO - ======================================================================
+2025-10-26 15:42:18,560 - INFO - 
+Total Posts: 3032
+2025-10-26 15:42:18,561 - INFO - Date Range: 2022-01-01 05:06:29+00:00 to 2023-12-31 23:22:53+00:00
+2025-10-26 15:42:18,561 - INFO - 
+--- Posts by Subreddit ---
+2025-10-26 15:42:18,562 - INFO -   r/Winnipeg: 670 (22.1%)
+2025-10-26 15:42:18,562 - INFO -   r/Edmonton: 607 (20.0%)
+2025-10-26 15:42:18,562 - INFO -   r/alberta: 447 (14.7%)
+2025-10-26 15:42:18,562 - INFO -   r/Saskatoon: 378 (12.5%)
+2025-10-26 15:42:18,562 - INFO -   r/Regina: 364 (12.0%)
+2025-10-26 15:42:18,562 - INFO -   r/saskatchewan: 336 (11.1%)
+2025-10-26 15:42:18,562 - INFO -   r/manitoba: 230 (7.6%)
+2025-10-26 15:42:18,562 - INFO - 
+--- Posts by Year ---
+2025-10-26 15:42:18,563 - INFO -   2022: 1486
+2025-10-26 15:42:18,563 - INFO -   2023: 1546
+2025-10-26 15:42:18,563 - INFO - 
+--- Posts by Quarter ---
+2025-10-26 15:42:18,564 - INFO -   2022_Q1: 389
+2025-10-26 15:42:18,565 - INFO -   2022_Q2: 315
+2025-10-26 15:42:18,565 - INFO -   2022_Q3: 343
+2025-10-26 15:42:18,565 - INFO -   2022_Q4: 439
+2025-10-26 15:42:18,565 - INFO -   2023_Q1: 326
+2025-10-26 15:42:18,565 - INFO -   2023_Q2: 389
+2025-10-26 15:42:18,565 - INFO -   2023_Q3: 405
+2025-10-26 15:42:18,565 - INFO -   2023_Q4: 426
+2025-10-26 15:42:18,565 - INFO - 
+--- Posts by Season ---
+2025-10-26 15:42:18,565 - INFO -   winter: 837
+2025-10-26 15:42:18,566 - INFO -   fall: 763
+2025-10-26 15:42:18,566 - INFO -   summer: 722
+2025-10-26 15:42:18,566 - INFO -   spring: 710
+2025-10-26 15:42:18,566 - INFO - 
+--- Content Analysis ---
+2025-10-26 15:42:18,567 - INFO - Crime-related posts: 1522 (50.2%)
+2025-10-26 15:42:18,567 - INFO - Weather-related posts: 1735 (57.2%)
+2025-10-26 15:42:18,567 - INFO - Both crime AND weather: 225 (7.4%)
+2025-10-26 15:42:18,568 - INFO - 
+--- API Crisis Timeline ---
+2025-10-26 15:42:18,568 - INFO - Pre-API announcement: 1889
+2025-10-26 15:42:18,568 - INFO - Post-API announcement: 1143
+2025-10-26 15:42:18,568 - INFO - During blackout (Jun 12–14, 2023): 1
+2025-10-26 15:42:18,568 - INFO - Pre-API changes: 2201
+2025-10-26 15:42:18,568 - INFO - Post-API changes (July 1+): 831
+2025-10-26 15:42:18,568 - INFO - 
+--- Sentiment Summary ---
+2025-10-26 15:42:18,569 - INFO -   negative: 1362 (44.9%)
+2025-10-26 15:42:18,569 - INFO -   positive: 1167 (38.5%)
+2025-10-26 15:42:18,569 - INFO -   neutral: 503 (16.6%)
+2025-10-26 15:42:18,570 - INFO - Average compound sentiment: -0.026
+2025-10-26 15:42:18,570 - INFO - 
+--- Engagement Statistics ---
+2025-10-26 15:42:18,570 - INFO - Average score: 123.7
+2025-10-26 15:42:18,570 - INFO - Average comments: 60.1
+2025-10-26 15:42:18,571 - INFO - Average upvote ratio: 0.822
+2025-10-26 15:42:18,571 - INFO - Average engagement rate: 3.352
+2025-10-26 15:42:18,571 - INFO - Average controversy score: 0.178
+2025-10-26 15:42:18,571 - INFO - 
+======================================================================
+2025-10-26 15:42:18,571 - INFO - SUMMARY COMPLETE
+2025-10-26 15:42:18,571 - INFO - ======================================================================
+2025-10-26 15:42:18,607 - INFO - Research summary saved: research_questions_3_4_summary.txt
+2025-10-26 15:42:18,642 - INFO - GIS-ready dataset saved: reddit_2022_2023_for_gis.csv
+2025-10-26 15:42:18,643 - INFO -   Includes lat/lon coordinates for mapping
+2025-10-26 15:42:18,643 - INFO -   Ready for ArcGIS StoryMaps integration
+2025-10-26 15:42:18,643 - INFO - 
+======================================================================
+2025-10-26 15:42:18,643 - INFO - COLLECTION SUCCESSFUL
+2025-10-26 15:42:18,643 - INFO - ======================================================================
+2025-10-26 15:42:18,643 - INFO - Main dataset: reddit_climate_crime_2022_2023.csv
+2025-10-26 15:42:18,643 - INFO - Metadata: reddit_climate_crime_2022_2023_metadata.json
+2025-10-26 15:42:18,643 - INFO - Research summary: research_questions_3_4_summary.txt
+2025-10-26 15:42:18,643 - INFO - GIS dataset: reddit_2022_2023_for_gis.csv
+2025-10-26 15:42:18,643 - INFO - Individual monthly files: reddit_2022_2023_YYYY-MM.csv
+2025-10-26 15:42:18,643 - INFO - Log file: reddit_2022_2023_scraper.log
+2025-10-26 15:42:18,643 - INFO - 
+======================================================================
+2025-10-26 15:42:18,644 - INFO - RESEARCH QUESTIONS 3 & 4 - KEY INSIGHTS
+2025-10-26 15:42:18,644 - INFO - ======================================================================
+2025-10-26 15:42:18,644 - INFO - 
+Question 3: Public perceptions and discussions variation
+2025-10-26 15:42:18,644 - INFO - Dataset includes temporal markers for:
+2025-10-26 15:42:18,644 - INFO - - Seasonal variations (winter/spring/summer/fall)
+2025-10-26 15:42:18,644 - INFO - - API crisis timeline (pre/during/post blackout)
+2025-10-26 15:42:18,644 - INFO - - Sentiment analysis for each post
+2025-10-26 15:42:18,644 - INFO - - Day of week, hour, and quarterly breakdowns
+2025-10-26 15:42:18,644 - INFO - 
+Question 4: Spatial patterns
+2025-10-26 15:42:18,644 - INFO - Dataset covers 4 cities + 3 provincial subreddits:
+2025-10-26 15:42:18,646 - INFO - - r/Saskatoon: 378 posts
+2025-10-26 15:42:18,647 - INFO - - r/Regina: 364 posts
+2025-10-26 15:42:18,648 - INFO - - r/Winnipeg: 670 posts
+2025-10-26 15:42:18,651 - INFO - - r/Edmonton: 607 posts
+2025-10-26 15:42:18,652 - INFO - - r/saskatchewan: 336 posts
+2025-10-26 15:42:18,654 - INFO - - r/manitoba: 230 posts
+2025-10-26 15:42:18,655 - INFO - - r/alberta: 447 posts
+2025-10-26 15:42:18,655 - INFO - 
+Next steps for analysis:
+2025-10-26 15:42:18,655 - INFO - 1. Merge with climate data (Environment Canada)
+2025-10-26 15:42:18,655 - INFO - 2. Merge with crime data (municipal police services)
+2025-10-26 15:42:18,655 - INFO - 3. Perform temporal correlation analysis
+2025-10-26 15:42:18,655 - INFO - 4. Create spatial visualizations (GIS/StoryMaps)
+2025-10-26 15:42:18,655 - INFO - 5. Analyze sentiment variations by season/weather
+2025-10-26 15:42:18,655 - INFO - 6. Statistical testing (regression, time-series)
+2025-10-26 15:42:18,655 - INFO - 
+======================================================================
+2025-10-26 15:42:18,656 - INFO - FILES GENERATED:
+2025-10-26 15:42:18,656 - INFO - ======================================================================

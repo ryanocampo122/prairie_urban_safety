@@ -1,0 +1,766 @@
+2025-10-26 15:47:29,294 - INFO - ======================================================================
+2025-10-26 15:47:29,294 - INFO - Reddit 2020-2021 Historical Data Collection
+2025-10-26 15:47:29,294 - INFO - Prairie Cities Climate-Crime-Pandemic Research
+2025-10-26 15:47:29,295 - INFO - Focus: COVID-19 Pandemic Era
+2025-10-26 15:47:29,295 - INFO - ======================================================================
+2025-10-26 15:47:29,295 - INFO - 
+Initializing collector...
+2025-10-26 15:47:29,815 - INFO - PRAW initialized for 2020-2021 historical collection
+2025-10-26 15:47:29,825 - INFO - VADER sentiment analyzer initialized
+2025-10-26 15:47:29,825 - INFO - 
+Starting data collection for 2020-2021 period...
+2025-10-26 15:47:29,825 - INFO - This will collect 24 months of historical data
+2025-10-26 15:47:29,825 - INFO - Estimated time: 30-60 minutes depending on data volume
+
+2025-10-26 15:47:29,825 - INFO - ======================================================================
+2025-10-26 15:47:29,825 - INFO - Starting 2020-2021 Historical Data Collection
+2025-10-26 15:47:29,825 - INFO - Target Period: COVID-19 Pandemic Era
+2025-10-26 15:47:29,825 - INFO - ======================================================================
+2025-10-26 15:47:29,825 - INFO - Generated 24 months from 2020-01 to 2021-12
+2025-10-26 15:47:29,825 - INFO - 
+============================================================
+2025-10-26 15:47:29,825 - INFO - Processing 2020-01
+2025-10-26 15:47:29,826 - INFO - ============================================================
+2025-10-26 15:47:29,826 - INFO - Collecting January 2020 data from r/Saskatoon
+2025-10-26 15:48:48,278 - INFO -   Collected 3 unique posts from January 2020
+2025-10-26 15:48:48,279 - INFO -   r/Saskatoon: 3 collected, 3 relevant
+2025-10-26 15:48:51,307 - INFO - Collecting January 2020 data from r/Regina
+2025-10-26 15:50:06,593 - INFO -   Collected 8 unique posts from January 2020
+2025-10-26 15:50:06,593 - INFO -   r/Regina: 8 collected, 7 relevant
+2025-10-26 15:50:09,614 - INFO - Collecting January 2020 data from r/Winnipeg
+2025-10-26 15:51:33,625 - INFO -   Collected 5 unique posts from January 2020
+2025-10-26 15:51:33,626 - INFO -   r/Winnipeg: 5 collected, 5 relevant
+2025-10-26 15:51:36,650 - INFO - Collecting January 2020 data from r/Edmonton
+2025-10-26 15:53:00,990 - INFO -   Collected 20 unique posts from January 2020
+2025-10-26 15:53:00,991 - INFO -   r/Edmonton: 20 collected, 20 relevant
+2025-10-26 15:53:04,022 - INFO - Collecting January 2020 data from r/saskatchewan
+2025-10-26 15:54:21,879 - INFO -   Collected 3 unique posts from January 2020
+2025-10-26 15:54:21,880 - INFO -   r/saskatchewan: 3 collected, 3 relevant
+2025-10-26 15:54:24,906 - INFO - Collecting January 2020 data from r/manitoba
+2025-10-26 15:55:36,996 - INFO -   Collected 1 unique posts from January 2020
+2025-10-26 15:55:36,996 - INFO -   r/manitoba: 1 collected, 1 relevant
+2025-10-26 15:55:40,026 - INFO - Collecting January 2020 data from r/alberta
+2025-10-26 15:57:00,701 - INFO -   Collected 15 unique posts from January 2020
+2025-10-26 15:57:00,702 - INFO -   r/alberta: 15 collected, 13 relevant
+2025-10-26 15:57:03,761 - INFO - Saved: reddit_2020_2021_2020-01.csv (52 posts)
+2025-10-26 15:57:03,761 - INFO - 
+============================================================
+2025-10-26 15:57:03,761 - INFO - Processing 2020-02
+2025-10-26 15:57:03,762 - INFO - ============================================================
+2025-10-26 15:57:03,762 - INFO - Collecting February 2020 data from r/Saskatoon
+2025-10-26 15:58:20,372 - INFO -   Collected 7 unique posts from February 2020
+2025-10-26 15:58:20,374 - INFO -   r/Saskatoon: 7 collected, 7 relevant
+2025-10-26 15:58:23,410 - INFO - Collecting February 2020 data from r/Regina
+2025-10-26 15:59:39,575 - INFO -   Collected 6 unique posts from February 2020
+2025-10-26 15:59:39,576 - INFO -   r/Regina: 6 collected, 6 relevant
+2025-10-26 15:59:42,599 - INFO - Collecting February 2020 data from r/Winnipeg
+2025-10-26 16:01:05,300 - INFO -   Collected 1 unique posts from February 2020
+2025-10-26 16:01:05,300 - INFO -   r/Winnipeg: 1 collected, 1 relevant
+2025-10-26 16:01:08,319 - INFO - Collecting February 2020 data from r/Edmonton
+2025-10-26 16:02:29,901 - INFO -   Collected 7 unique posts from February 2020
+2025-10-26 16:02:29,902 - INFO -   r/Edmonton: 7 collected, 7 relevant
+2025-10-26 16:02:32,921 - INFO - Collecting February 2020 data from r/saskatchewan
+2025-10-26 16:03:52,044 - INFO -   Collected 4 unique posts from February 2020
+2025-10-26 16:03:52,045 - INFO -   r/saskatchewan: 4 collected, 4 relevant
+2025-10-26 16:03:55,069 - INFO - Collecting February 2020 data from r/manitoba
+2025-10-26 16:05:05,976 - INFO -   Collected 2 unique posts from February 2020
+2025-10-26 16:05:05,977 - INFO -   r/manitoba: 2 collected, 0 relevant
+2025-10-26 16:05:08,977 - INFO - Collecting February 2020 data from r/alberta
+2025-10-26 16:06:28,676 - INFO -   Collected 5 unique posts from February 2020
+2025-10-26 16:06:28,677 - INFO -   r/alberta: 5 collected, 4 relevant
+2025-10-26 16:06:31,728 - INFO - Saved: reddit_2020_2021_2020-02.csv (29 posts)
+2025-10-26 16:06:31,728 - INFO - 
+============================================================
+2025-10-26 16:06:31,728 - INFO - Processing 2020-03
+2025-10-26 16:06:31,729 - INFO - ============================================================
+2025-10-26 16:06:31,730 - INFO - Collecting March 2020 data from r/Saskatoon
+2025-10-26 16:07:46,583 - INFO -   Collected 7 unique posts from March 2020
+2025-10-26 16:07:46,584 - INFO -   r/Saskatoon: 7 collected, 7 relevant
+2025-10-26 16:07:49,651 - INFO - Collecting March 2020 data from r/Regina
+2025-10-26 16:09:05,171 - INFO -   Collected 11 unique posts from March 2020
+2025-10-26 16:09:05,172 - INFO -   r/Regina: 11 collected, 10 relevant
+2025-10-26 16:09:08,250 - INFO - Collecting March 2020 data from r/Winnipeg
+2025-10-26 16:10:29,445 - INFO -   Collected 8 unique posts from March 2020
+2025-10-26 16:10:29,447 - INFO -   r/Winnipeg: 8 collected, 8 relevant
+2025-10-26 16:10:32,509 - INFO - Collecting March 2020 data from r/Edmonton
+2025-10-26 16:11:57,504 - INFO -   Collected 8 unique posts from March 2020
+2025-10-26 16:11:57,507 - INFO -   r/Edmonton: 8 collected, 8 relevant
+2025-10-26 16:12:01,026 - INFO - Collecting March 2020 data from r/saskatchewan
+2025-10-26 16:13:17,126 - INFO -   Collected 1 unique posts from March 2020
+2025-10-26 16:13:17,127 - INFO -   r/saskatchewan: 1 collected, 0 relevant
+2025-10-26 16:13:20,128 - INFO - Collecting March 2020 data from r/manitoba
+2025-10-26 16:14:31,995 - INFO -   Collected 7 unique posts from March 2020
+2025-10-26 16:14:31,996 - INFO -   r/manitoba: 7 collected, 6 relevant
+2025-10-26 16:14:35,033 - INFO - Collecting March 2020 data from r/alberta
+2025-10-26 16:15:57,785 - INFO -   Collected 7 unique posts from March 2020
+2025-10-26 16:15:57,786 - INFO -   r/alberta: 7 collected, 6 relevant
+2025-10-26 16:16:00,876 - INFO - Saved: reddit_2020_2021_2020-03.csv (45 posts)
+2025-10-26 16:16:00,877 - INFO - 
+============================================================
+2025-10-26 16:16:00,877 - INFO - Processing 2020-04
+2025-10-26 16:16:00,877 - INFO - ============================================================
+2025-10-26 16:16:00,877 - INFO - Collecting April 2020 data from r/Saskatoon
+2025-10-26 16:17:19,608 - INFO -   Collected 16 unique posts from April 2020
+2025-10-26 16:17:19,611 - INFO -   r/Saskatoon: 16 collected, 16 relevant
+2025-10-26 16:17:22,699 - INFO - Collecting April 2020 data from r/Regina
+2025-10-26 16:18:39,555 - INFO -   Collected 6 unique posts from April 2020
+2025-10-26 16:18:39,556 - INFO -   r/Regina: 6 collected, 6 relevant
+2025-10-26 16:18:42,596 - INFO - Collecting April 2020 data from r/Winnipeg
+2025-10-26 16:20:01,137 - INFO -   Collected 10 unique posts from April 2020
+2025-10-26 16:20:01,138 - INFO -   r/Winnipeg: 10 collected, 9 relevant
+2025-10-26 16:20:04,175 - INFO - Collecting April 2020 data from r/Edmonton
+2025-10-26 16:21:28,599 - INFO -   Collected 11 unique posts from April 2020
+2025-10-26 16:21:28,601 - INFO -   r/Edmonton: 11 collected, 11 relevant
+2025-10-26 16:21:31,797 - INFO - Collecting April 2020 data from r/saskatchewan
+2025-10-26 16:22:47,149 - INFO -   Collected 7 unique posts from April 2020
+2025-10-26 16:22:47,150 - INFO -   r/saskatchewan: 7 collected, 7 relevant
+2025-10-26 16:22:50,211 - INFO - Collecting April 2020 data from r/manitoba
+2025-10-26 16:23:59,908 - INFO -   Collected 12 unique posts from April 2020
+2025-10-26 16:23:59,911 - INFO -   r/manitoba: 12 collected, 11 relevant
+2025-10-26 16:24:02,964 - INFO - Collecting April 2020 data from r/alberta
+2025-10-26 16:25:22,324 - INFO -   Collected 11 unique posts from April 2020
+2025-10-26 16:25:22,326 - INFO -   r/alberta: 11 collected, 11 relevant
+2025-10-26 16:25:25,416 - INFO - Saved: reddit_2020_2021_2020-04.csv (71 posts)
+2025-10-26 16:25:25,416 - INFO - 
+============================================================
+2025-10-26 16:25:25,416 - INFO - Processing 2020-05
+2025-10-26 16:25:25,416 - INFO - ============================================================
+2025-10-26 16:25:25,417 - INFO - Collecting May 2020 data from r/Saskatoon
+2025-10-26 16:26:42,021 - INFO -   Collected 11 unique posts from May 2020
+2025-10-26 16:26:42,023 - INFO -   r/Saskatoon: 11 collected, 11 relevant
+2025-10-26 16:26:45,085 - INFO - Collecting May 2020 data from r/Regina
+2025-10-26 16:28:00,763 - INFO -   Collected 7 unique posts from May 2020
+2025-10-26 16:28:00,765 - INFO -   r/Regina: 7 collected, 7 relevant
+2025-10-26 16:28:03,817 - INFO - Collecting May 2020 data from r/Winnipeg
+2025-10-26 16:29:26,203 - INFO -   Collected 11 unique posts from May 2020
+2025-10-26 16:29:26,204 - INFO -   r/Winnipeg: 11 collected, 11 relevant
+2025-10-26 16:29:29,244 - INFO - Collecting May 2020 data from r/Edmonton
+2025-10-26 16:30:55,435 - INFO -   Collected 13 unique posts from May 2020
+2025-10-26 16:30:55,436 - INFO -   r/Edmonton: 13 collected, 12 relevant
+2025-10-26 16:30:58,490 - INFO - Collecting May 2020 data from r/saskatchewan
+2025-10-26 16:32:17,308 - INFO -   Collected 5 unique posts from May 2020
+2025-10-26 16:32:17,309 - INFO -   r/saskatchewan: 5 collected, 4 relevant
+2025-10-26 16:32:20,361 - INFO - Collecting May 2020 data from r/manitoba
+2025-10-26 16:33:32,764 - INFO -   Collected 4 unique posts from May 2020
+2025-10-26 16:33:32,765 - INFO -   r/manitoba: 4 collected, 4 relevant
+2025-10-26 16:33:35,809 - INFO - Collecting May 2020 data from r/alberta
+2025-10-26 16:34:57,322 - INFO -   Collected 12 unique posts from May 2020
+2025-10-26 16:34:57,324 - INFO -   r/alberta: 12 collected, 12 relevant
+2025-10-26 16:35:00,405 - INFO - Saved: reddit_2020_2021_2020-05.csv (61 posts)
+2025-10-26 16:35:00,405 - INFO - 
+============================================================
+2025-10-26 16:35:00,405 - INFO - Processing 2020-06
+2025-10-26 16:35:00,405 - INFO - ============================================================
+2025-10-26 16:35:00,406 - INFO - Collecting June 2020 data from r/Saskatoon
+2025-10-26 16:36:16,816 - INFO -   Collected 5 unique posts from June 2020
+2025-10-26 16:36:16,818 - INFO -   r/Saskatoon: 5 collected, 4 relevant
+2025-10-26 16:36:19,874 - INFO - Collecting June 2020 data from r/Regina
+2025-10-26 16:37:35,658 - INFO -   Collected 11 unique posts from June 2020
+2025-10-26 16:37:35,659 - INFO -   r/Regina: 11 collected, 8 relevant
+2025-10-26 16:37:38,709 - INFO - Collecting June 2020 data from r/Winnipeg
+2025-10-26 16:38:58,088 - INFO -   Collected 2 unique posts from June 2020
+2025-10-26 16:38:58,089 - INFO -   r/Winnipeg: 2 collected, 2 relevant
+2025-10-26 16:39:01,120 - INFO - Collecting June 2020 data from r/Edmonton
+2025-10-26 16:40:22,266 - INFO -   Collected 11 unique posts from June 2020
+2025-10-26 16:40:22,267 - INFO -   r/Edmonton: 11 collected, 10 relevant
+2025-10-26 16:40:25,323 - INFO - Collecting June 2020 data from r/saskatchewan
+2025-10-26 16:41:43,613 - INFO -   Collected 5 unique posts from June 2020
+2025-10-26 16:41:43,614 - INFO -   r/saskatchewan: 5 collected, 5 relevant
+2025-10-26 16:41:46,664 - INFO - Collecting June 2020 data from r/manitoba
+2025-10-26 16:42:57,696 - INFO -   Collected 1 unique posts from June 2020
+2025-10-26 16:42:57,697 - INFO -   r/manitoba: 1 collected, 1 relevant
+2025-10-26 16:43:00,734 - INFO - Collecting June 2020 data from r/alberta
+2025-10-26 16:44:20,168 - INFO -   Collected 7 unique posts from June 2020
+2025-10-26 16:44:20,170 - INFO -   r/alberta: 7 collected, 5 relevant
+2025-10-26 16:44:23,382 - INFO - Saved: reddit_2020_2021_2020-06.csv (35 posts)
+2025-10-26 16:44:23,382 - INFO - 
+============================================================
+2025-10-26 16:44:23,382 - INFO - Processing 2020-07
+2025-10-26 16:44:23,382 - INFO - ============================================================
+2025-10-26 16:44:23,384 - INFO - Collecting July 2020 data from r/Saskatoon
+2025-10-26 16:45:39,188 - INFO -   Collected 7 unique posts from July 2020
+2025-10-26 16:45:39,188 - INFO -   r/Saskatoon: 7 collected, 7 relevant
+2025-10-26 16:45:42,216 - INFO - Collecting July 2020 data from r/Regina
+2025-10-26 16:46:57,551 - INFO -   Collected 9 unique posts from July 2020
+2025-10-26 16:46:57,554 - INFO -   r/Regina: 9 collected, 7 relevant
+2025-10-26 16:47:00,608 - INFO - Collecting July 2020 data from r/Winnipeg
+2025-10-26 16:48:19,635 - INFO -   Collected 5 unique posts from July 2020
+2025-10-26 16:48:19,636 - INFO -   r/Winnipeg: 5 collected, 5 relevant
+2025-10-26 16:48:22,683 - INFO - Collecting July 2020 data from r/Edmonton
+2025-10-26 16:49:44,880 - INFO -   Collected 6 unique posts from July 2020
+2025-10-26 16:49:44,881 - INFO -   r/Edmonton: 6 collected, 6 relevant
+2025-10-26 16:49:47,918 - INFO - Collecting July 2020 data from r/saskatchewan
+2025-10-26 16:51:06,395 - INFO -   Collected 5 unique posts from July 2020
+2025-10-26 16:51:06,395 - INFO -   r/saskatchewan: 5 collected, 5 relevant
+2025-10-26 16:51:09,449 - INFO - Collecting July 2020 data from r/manitoba
+2025-10-26 16:52:22,925 - INFO -   Collected 5 unique posts from July 2020
+2025-10-26 16:52:22,926 - INFO -   r/manitoba: 5 collected, 5 relevant
+2025-10-26 16:52:25,952 - INFO - Collecting July 2020 data from r/alberta
+2025-10-26 16:53:45,899 - INFO -   Collected 9 unique posts from July 2020
+2025-10-26 16:53:45,901 - INFO -   r/alberta: 9 collected, 9 relevant
+2025-10-26 16:53:48,966 - INFO - Saved: reddit_2020_2021_2020-07.csv (44 posts)
+2025-10-26 16:53:48,967 - INFO - 
+============================================================
+2025-10-26 16:53:48,967 - INFO - Processing 2020-08
+2025-10-26 16:53:48,967 - INFO - ============================================================
+2025-10-26 16:53:48,968 - INFO - Collecting August 2020 data from r/Saskatoon
+2025-10-26 16:55:03,992 - INFO -   Collected 4 unique posts from August 2020
+2025-10-26 16:55:03,993 - INFO -   r/Saskatoon: 4 collected, 3 relevant
+2025-10-26 16:55:07,039 - INFO - Collecting August 2020 data from r/Regina
+2025-10-26 16:56:25,295 - INFO -   Collected 11 unique posts from August 2020
+2025-10-26 16:56:25,297 - INFO -   r/Regina: 11 collected, 10 relevant
+2025-10-26 16:56:28,316 - INFO - Collecting August 2020 data from r/Winnipeg
+2025-10-26 16:57:46,996 - INFO -   Collected 11 unique posts from August 2020
+2025-10-26 16:57:46,998 - INFO -   r/Winnipeg: 11 collected, 11 relevant
+2025-10-26 16:57:50,017 - INFO - Collecting August 2020 data from r/Edmonton
+2025-10-26 16:59:11,385 - INFO -   Collected 16 unique posts from August 2020
+2025-10-26 16:59:11,386 - INFO -   r/Edmonton: 16 collected, 16 relevant
+2025-10-26 16:59:14,410 - INFO - Collecting August 2020 data from r/saskatchewan
+2025-10-26 17:00:32,925 - INFO -   Collected 3 unique posts from August 2020
+2025-10-26 17:00:32,925 - INFO -   r/saskatchewan: 3 collected, 1 relevant
+2025-10-26 17:00:35,943 - INFO - Collecting August 2020 data from r/manitoba
+2025-10-26 17:01:47,922 - INFO -   Collected 3 unique posts from August 2020
+2025-10-26 17:01:47,923 - INFO -   r/manitoba: 3 collected, 3 relevant
+2025-10-26 17:01:50,941 - INFO - Collecting August 2020 data from r/alberta
+2025-10-26 17:03:09,943 - INFO -   Collected 3 unique posts from August 2020
+2025-10-26 17:03:09,943 - INFO -   r/alberta: 3 collected, 3 relevant
+2025-10-26 17:03:12,966 - INFO - Saved: reddit_2020_2021_2020-08.csv (47 posts)
+2025-10-26 17:03:12,967 - INFO - 
+============================================================
+2025-10-26 17:03:12,967 - INFO - Processing 2020-09
+2025-10-26 17:03:12,967 - INFO - ============================================================
+2025-10-26 17:03:12,967 - INFO - Collecting September 2020 data from r/Saskatoon
+2025-10-26 17:04:28,563 - INFO -   Collected 8 unique posts from September 2020
+2025-10-26 17:04:28,564 - INFO -   r/Saskatoon: 8 collected, 8 relevant
+2025-10-26 17:04:31,587 - INFO - Collecting September 2020 data from r/Regina
+2025-10-26 17:05:47,505 - INFO -   Collected 6 unique posts from September 2020
+2025-10-26 17:05:47,506 - INFO -   r/Regina: 6 collected, 6 relevant
+2025-10-26 17:05:50,524 - INFO - Collecting September 2020 data from r/Winnipeg
+2025-10-26 17:07:08,930 - INFO -   Collected 13 unique posts from September 2020
+2025-10-26 17:07:08,930 - INFO -   r/Winnipeg: 13 collected, 13 relevant
+2025-10-26 17:07:11,950 - INFO - Collecting September 2020 data from r/Edmonton
+2025-10-26 17:08:33,741 - INFO -   Collected 12 unique posts from September 2020
+2025-10-26 17:08:33,742 - INFO -   r/Edmonton: 12 collected, 11 relevant
+2025-10-26 17:08:36,761 - INFO - Collecting September 2020 data from r/saskatchewan
+2025-10-26 17:09:51,427 - INFO -   Collected 3 unique posts from September 2020
+2025-10-26 17:09:51,428 - INFO -   r/saskatchewan: 3 collected, 3 relevant
+2025-10-26 17:09:54,456 - INFO - Collecting September 2020 data from r/manitoba
+2025-10-26 17:11:07,777 - INFO -   Collected 6 unique posts from September 2020
+2025-10-26 17:11:07,777 - INFO -   r/manitoba: 6 collected, 5 relevant
+2025-10-26 17:11:10,799 - INFO - Collecting September 2020 data from r/alberta
+2025-10-26 17:12:30,818 - INFO -   Collected 8 unique posts from September 2020
+2025-10-26 17:12:30,819 - INFO -   r/alberta: 8 collected, 8 relevant
+2025-10-26 17:12:33,853 - INFO - Saved: reddit_2020_2021_2020-09.csv (54 posts)
+2025-10-26 17:12:33,853 - INFO - 
+============================================================
+2025-10-26 17:12:33,854 - INFO - Processing 2020-10
+2025-10-26 17:12:33,854 - INFO - ============================================================
+2025-10-26 17:12:33,854 - INFO - Collecting October 2020 data from r/Saskatoon
+2025-10-26 17:13:48,896 - INFO -   Collected 10 unique posts from October 2020
+2025-10-26 17:13:48,898 - INFO -   r/Saskatoon: 10 collected, 8 relevant
+2025-10-26 17:13:51,927 - INFO - Collecting October 2020 data from r/Regina
+2025-10-26 17:15:05,298 - INFO -   Collected 13 unique posts from October 2020
+2025-10-26 17:15:05,299 - INFO -   r/Regina: 13 collected, 13 relevant
+2025-10-26 17:15:08,320 - INFO - Collecting October 2020 data from r/Winnipeg
+2025-10-26 17:16:26,585 - INFO -   Collected 18 unique posts from October 2020
+2025-10-26 17:16:26,587 - INFO -   r/Winnipeg: 18 collected, 17 relevant
+2025-10-26 17:16:29,615 - INFO - Collecting October 2020 data from r/Edmonton
+2025-10-26 17:17:51,189 - INFO -   Collected 20 unique posts from October 2020
+2025-10-26 17:17:51,190 - INFO -   r/Edmonton: 20 collected, 20 relevant
+2025-10-26 17:17:54,210 - INFO - Collecting October 2020 data from r/saskatchewan
+2025-10-26 17:19:09,492 - INFO -   Collected 8 unique posts from October 2020
+2025-10-26 17:19:09,494 - INFO -   r/saskatchewan: 8 collected, 8 relevant
+2025-10-26 17:19:12,513 - INFO - Collecting October 2020 data from r/manitoba
+2025-10-26 17:20:24,076 - INFO -   Collected 7 unique posts from October 2020
+2025-10-26 17:20:24,077 - INFO -   r/manitoba: 7 collected, 7 relevant
+2025-10-26 17:20:27,099 - INFO - Collecting October 2020 data from r/alberta
+2025-10-26 17:21:46,501 - INFO -   Collected 12 unique posts from October 2020
+2025-10-26 17:21:46,503 - INFO -   r/alberta: 12 collected, 12 relevant
+2025-10-26 17:21:49,533 - INFO - Saved: reddit_2020_2021_2020-10.csv (85 posts)
+2025-10-26 17:21:49,533 - INFO - 
+============================================================
+2025-10-26 17:21:49,533 - INFO - Processing 2020-11
+2025-10-26 17:21:49,533 - INFO - ============================================================
+2025-10-26 17:21:49,534 - INFO - Collecting November 2020 data from r/Saskatoon
+2025-10-26 17:23:06,410 - INFO -   Collected 47 unique posts from November 2020
+2025-10-26 17:23:06,415 - INFO -   r/Saskatoon: 47 collected, 41 relevant
+2025-10-26 17:23:09,457 - INFO - Collecting November 2020 data from r/Regina
+2025-10-26 17:24:24,601 - INFO -   Collected 20 unique posts from November 2020
+2025-10-26 17:24:24,602 - INFO -   r/Regina: 20 collected, 20 relevant
+2025-10-26 17:24:27,626 - INFO - Collecting November 2020 data from r/Winnipeg
+2025-10-26 17:25:46,184 - INFO -   Collected 33 unique posts from November 2020
+2025-10-26 17:25:46,187 - INFO -   r/Winnipeg: 33 collected, 29 relevant
+2025-10-26 17:25:49,232 - INFO - Collecting November 2020 data from r/Edmonton
+2025-10-26 17:27:11,162 - INFO -   Collected 41 unique posts from November 2020
+2025-10-26 17:27:11,166 - INFO -   r/Edmonton: 41 collected, 35 relevant
+2025-10-26 17:27:14,198 - INFO - Collecting November 2020 data from r/saskatchewan
+2025-10-26 17:28:29,058 - INFO -   Collected 27 unique posts from November 2020
+2025-10-26 17:28:29,060 - INFO -   r/saskatchewan: 27 collected, 23 relevant
+2025-10-26 17:28:32,082 - INFO - Collecting November 2020 data from r/manitoba
+2025-10-26 17:29:43,662 - INFO -   Collected 19 unique posts from November 2020
+2025-10-26 17:29:43,664 - INFO -   r/manitoba: 19 collected, 18 relevant
+2025-10-26 17:29:46,720 - INFO - Collecting November 2020 data from r/alberta
+2025-10-26 17:31:07,564 - INFO -   Collected 48 unique posts from November 2020
+2025-10-26 17:31:07,569 - INFO -   r/alberta: 48 collected, 45 relevant
+2025-10-26 17:31:10,642 - INFO - Saved: reddit_2020_2021_2020-11.csv (211 posts)
+2025-10-26 17:31:10,642 - INFO - 
+============================================================
+2025-10-26 17:31:10,642 - INFO - Processing 2020-12
+2025-10-26 17:31:10,642 - INFO - ============================================================
+2025-10-26 17:31:10,642 - INFO - Collecting December 2020 data from r/Saskatoon
+2025-10-26 17:32:25,705 - INFO -   Collected 13 unique posts from December 2020
+2025-10-26 17:32:25,706 - INFO -   r/Saskatoon: 13 collected, 12 relevant
+2025-10-26 17:32:28,729 - INFO - Collecting December 2020 data from r/Regina
+2025-10-26 17:33:42,670 - INFO -   Collected 14 unique posts from December 2020
+2025-10-26 17:33:42,671 - INFO -   r/Regina: 14 collected, 11 relevant
+2025-10-26 17:33:45,692 - INFO - Collecting December 2020 data from r/Winnipeg
+2025-10-26 17:35:05,324 - INFO -   Collected 22 unique posts from December 2020
+2025-10-26 17:35:05,326 - INFO -   r/Winnipeg: 22 collected, 20 relevant
+2025-10-26 17:35:08,349 - INFO - Collecting December 2020 data from r/Edmonton
+2025-10-26 17:36:33,488 - INFO -   Collected 31 unique posts from December 2020
+2025-10-26 17:36:33,489 - INFO -   r/Edmonton: 31 collected, 29 relevant
+2025-10-26 17:36:36,514 - INFO - Collecting December 2020 data from r/saskatchewan
+2025-10-26 17:37:52,853 - INFO -   Collected 13 unique posts from December 2020
+2025-10-26 17:37:52,854 - INFO -   r/saskatchewan: 13 collected, 11 relevant
+2025-10-26 17:37:55,874 - INFO - Collecting December 2020 data from r/manitoba
+2025-10-26 17:39:05,618 - INFO -   Collected 11 unique posts from December 2020
+2025-10-26 17:39:05,619 - INFO -   r/manitoba: 11 collected, 8 relevant
+2025-10-26 17:39:08,654 - INFO - Collecting December 2020 data from r/alberta
+2025-10-26 17:40:27,073 - INFO -   Collected 30 unique posts from December 2020
+2025-10-26 17:40:27,077 - INFO -   r/alberta: 30 collected, 28 relevant
+2025-10-26 17:40:30,157 - INFO - Saved: reddit_2020_2021_2020-12.csv (119 posts)
+2025-10-26 17:40:30,158 - INFO - 
+============================================================
+2025-10-26 17:40:30,158 - INFO - Processing 2021-01
+2025-10-26 17:40:30,158 - INFO - ============================================================
+2025-10-26 17:40:30,158 - INFO - Collecting January 2021 data from r/Saskatoon
+2025-10-26 17:41:46,183 - INFO -   Collected 19 unique posts from January 2021
+2025-10-26 17:41:46,184 - INFO -   r/Saskatoon: 19 collected, 13 relevant
+2025-10-26 17:41:49,210 - INFO - Collecting January 2021 data from r/Regina
+2025-10-26 17:43:05,361 - INFO -   Collected 10 unique posts from January 2021
+2025-10-26 17:43:05,362 - INFO -   r/Regina: 10 collected, 8 relevant
+2025-10-26 17:43:08,379 - INFO - Collecting January 2021 data from r/Winnipeg
+2025-10-26 17:44:28,069 - INFO -   Collected 15 unique posts from January 2021
+2025-10-26 17:44:28,070 - INFO -   r/Winnipeg: 15 collected, 14 relevant
+2025-10-26 17:44:31,104 - INFO - Collecting January 2021 data from r/Edmonton
+2025-10-26 17:45:53,228 - INFO -   Collected 17 unique posts from January 2021
+2025-10-26 17:45:53,230 - INFO -   r/Edmonton: 17 collected, 15 relevant
+2025-10-26 17:45:56,252 - INFO - Collecting January 2021 data from r/saskatchewan
+2025-10-26 17:47:11,067 - INFO -   Collected 10 unique posts from January 2021
+2025-10-26 17:47:11,068 - INFO -   r/saskatchewan: 10 collected, 8 relevant
+2025-10-26 17:47:14,085 - INFO - Collecting January 2021 data from r/manitoba
+2025-10-26 17:48:26,530 - INFO -   Collected 11 unique posts from January 2021
+2025-10-26 17:48:26,532 - INFO -   r/manitoba: 11 collected, 11 relevant
+2025-10-26 17:48:29,557 - INFO - Collecting January 2021 data from r/alberta
+2025-10-26 17:49:48,847 - INFO -   Collected 14 unique posts from January 2021
+2025-10-26 17:49:48,849 - INFO -   r/alberta: 14 collected, 14 relevant
+2025-10-26 17:49:51,889 - INFO - Saved: reddit_2020_2021_2021-01.csv (83 posts)
+2025-10-26 17:49:51,890 - INFO - 
+============================================================
+2025-10-26 17:49:51,890 - INFO - Processing 2021-02
+2025-10-26 17:49:51,890 - INFO - ============================================================
+2025-10-26 17:49:51,890 - INFO - Collecting February 2021 data from r/Saskatoon
+2025-10-26 17:51:07,809 - INFO -   Collected 16 unique posts from February 2021
+2025-10-26 17:51:07,812 - INFO -   r/Saskatoon: 16 collected, 16 relevant
+2025-10-26 17:51:10,853 - INFO - Collecting February 2021 data from r/Regina
+2025-10-26 17:52:25,561 - INFO -   Collected 15 unique posts from February 2021
+2025-10-26 17:52:25,562 - INFO -   r/Regina: 15 collected, 13 relevant
+2025-10-26 17:52:28,582 - INFO - Collecting February 2021 data from r/Winnipeg
+2025-10-26 17:53:49,475 - INFO -   Collected 16 unique posts from February 2021
+2025-10-26 17:53:49,477 - INFO -   r/Winnipeg: 16 collected, 16 relevant
+2025-10-26 17:53:52,498 - INFO - Collecting February 2021 data from r/Edmonton
+2025-10-26 17:55:12,958 - INFO -   Collected 27 unique posts from February 2021
+2025-10-26 17:55:12,960 - INFO -   r/Edmonton: 27 collected, 27 relevant
+2025-10-26 17:55:15,988 - INFO - Collecting February 2021 data from r/saskatchewan
+2025-10-26 17:56:30,558 - INFO -   Collected 15 unique posts from February 2021
+2025-10-26 17:56:30,559 - INFO -   r/saskatchewan: 15 collected, 12 relevant
+2025-10-26 17:56:33,583 - INFO - Collecting February 2021 data from r/manitoba
+2025-10-26 17:57:44,749 - INFO -   Collected 13 unique posts from February 2021
+2025-10-26 17:57:44,751 - INFO -   r/manitoba: 13 collected, 9 relevant
+2025-10-26 17:57:47,776 - INFO - Collecting February 2021 data from r/alberta
+2025-10-26 17:59:06,813 - INFO -   Collected 21 unique posts from February 2021
+2025-10-26 17:59:06,816 - INFO -   r/alberta: 21 collected, 21 relevant
+2025-10-26 17:59:09,887 - INFO - Saved: reddit_2020_2021_2021-02.csv (114 posts)
+2025-10-26 17:59:09,887 - INFO - 
+============================================================
+2025-10-26 17:59:09,887 - INFO - Processing 2021-03
+2025-10-26 17:59:09,887 - INFO - ============================================================
+2025-10-26 17:59:09,888 - INFO - Collecting March 2021 data from r/Saskatoon
+2025-10-26 18:00:25,903 - INFO -   Collected 12 unique posts from March 2021
+2025-10-26 18:00:25,905 - INFO -   r/Saskatoon: 12 collected, 12 relevant
+2025-10-26 18:00:28,924 - INFO - Collecting March 2021 data from r/Regina
+2025-10-26 18:01:47,762 - INFO -   Collected 27 unique posts from March 2021
+2025-10-26 18:01:47,763 - INFO -   r/Regina: 27 collected, 15 relevant
+2025-10-26 18:01:50,782 - INFO - Collecting March 2021 data from r/Winnipeg
+2025-10-26 18:03:12,953 - INFO -   Collected 15 unique posts from March 2021
+2025-10-26 18:03:12,954 - INFO -   r/Winnipeg: 15 collected, 13 relevant
+2025-10-26 18:03:16,023 - INFO - Collecting March 2021 data from r/Edmonton
+2025-10-26 18:04:35,844 - INFO -   Collected 19 unique posts from March 2021
+2025-10-26 18:04:35,846 - INFO -   r/Edmonton: 19 collected, 19 relevant
+2025-10-26 18:04:38,867 - INFO - Collecting March 2021 data from r/saskatchewan
+2025-10-26 18:05:54,844 - INFO -   Collected 8 unique posts from March 2021
+2025-10-26 18:05:54,845 - INFO -   r/saskatchewan: 8 collected, 4 relevant
+2025-10-26 18:05:57,868 - INFO - Collecting March 2021 data from r/manitoba
+2025-10-26 18:07:07,624 - INFO -   Collected 9 unique posts from March 2021
+2025-10-26 18:07:07,625 - INFO -   r/manitoba: 9 collected, 8 relevant
+2025-10-26 18:07:10,765 - INFO - Collecting March 2021 data from r/alberta
+2025-10-26 18:08:29,541 - INFO -   Collected 17 unique posts from March 2021
+2025-10-26 18:08:29,544 - INFO -   r/alberta: 17 collected, 16 relevant
+2025-10-26 18:08:32,608 - INFO - Saved: reddit_2020_2021_2021-03.csv (87 posts)
+2025-10-26 18:08:32,608 - INFO - 
+============================================================
+2025-10-26 18:08:32,608 - INFO - Processing 2021-04
+2025-10-26 18:08:32,608 - INFO - ============================================================
+2025-10-26 18:08:32,608 - INFO - Collecting April 2021 data from r/Saskatoon
+2025-10-26 18:09:45,828 - INFO -   Collected 24 unique posts from April 2021
+2025-10-26 18:09:45,829 - INFO -   r/Saskatoon: 24 collected, 19 relevant
+2025-10-26 18:09:48,857 - INFO - Collecting April 2021 data from r/Regina
+2025-10-26 18:11:02,946 - INFO -   Collected 36 unique posts from April 2021
+2025-10-26 18:11:02,949 - INFO -   r/Regina: 36 collected, 34 relevant
+2025-10-26 18:11:05,975 - INFO - Collecting April 2021 data from r/Winnipeg
+2025-10-26 18:12:24,268 - INFO -   Collected 25 unique posts from April 2021
+2025-10-26 18:12:24,271 - INFO -   r/Winnipeg: 25 collected, 22 relevant
+2025-10-26 18:12:27,295 - INFO - Collecting April 2021 data from r/Edmonton
+2025-10-26 18:13:48,527 - INFO -   Collected 36 unique posts from April 2021
+2025-10-26 18:13:48,530 - INFO -   r/Edmonton: 36 collected, 32 relevant
+2025-10-26 18:13:51,564 - INFO - Collecting April 2021 data from r/saskatchewan
+2025-10-26 18:15:05,658 - INFO -   Collected 16 unique posts from April 2021
+2025-10-26 18:15:05,660 - INFO -   r/saskatchewan: 16 collected, 13 relevant
+2025-10-26 18:15:08,678 - INFO - Collecting April 2021 data from r/manitoba
+2025-10-26 18:16:20,343 - INFO -   Collected 12 unique posts from April 2021
+2025-10-26 18:16:20,345 - INFO -   r/manitoba: 12 collected, 9 relevant
+2025-10-26 18:16:23,369 - INFO - Collecting April 2021 data from r/alberta
+2025-10-26 18:17:42,260 - INFO -   Collected 25 unique posts from April 2021
+2025-10-26 18:17:42,263 - INFO -   r/alberta: 25 collected, 22 relevant
+2025-10-26 18:17:45,549 - INFO - Saved: reddit_2020_2021_2021-04.csv (151 posts)
+2025-10-26 18:17:45,549 - INFO - 
+============================================================
+2025-10-26 18:17:45,549 - INFO - Processing 2021-05
+2025-10-26 18:17:45,549 - INFO - ============================================================
+2025-10-26 18:17:45,550 - INFO - Collecting May 2021 data from r/Saskatoon
+2025-10-26 18:18:59,967 - INFO -   Collected 19 unique posts from May 2021
+2025-10-26 18:18:59,971 - INFO -   r/Saskatoon: 19 collected, 19 relevant
+2025-10-26 18:19:03,163 - INFO - Collecting May 2021 data from r/Regina
+2025-10-26 18:20:18,541 - INFO -   Collected 24 unique posts from May 2021
+2025-10-26 18:20:18,543 - INFO -   r/Regina: 24 collected, 23 relevant
+2025-10-26 18:20:21,568 - INFO - Collecting May 2021 data from r/Winnipeg
+2025-10-26 18:21:39,799 - INFO -   Collected 47 unique posts from May 2021
+2025-10-26 18:21:39,803 - INFO -   r/Winnipeg: 47 collected, 45 relevant
+2025-10-26 18:21:42,854 - INFO - Collecting May 2021 data from r/Edmonton
+2025-10-26 18:23:04,453 - INFO -   Collected 42 unique posts from May 2021
+2025-10-26 18:23:04,457 - INFO -   r/Edmonton: 42 collected, 39 relevant
+2025-10-26 18:23:07,505 - INFO - Collecting May 2021 data from r/saskatchewan
+2025-10-26 18:24:22,405 - INFO -   Collected 9 unique posts from May 2021
+2025-10-26 18:24:22,406 - INFO -   r/saskatchewan: 9 collected, 8 relevant
+2025-10-26 18:24:25,425 - INFO - Collecting May 2021 data from r/manitoba
+2025-10-26 18:25:36,018 - INFO -   Collected 36 unique posts from May 2021
+2025-10-26 18:25:36,021 - INFO -   r/manitoba: 36 collected, 30 relevant
+2025-10-26 18:25:39,072 - INFO - Collecting May 2021 data from r/alberta
+2025-10-26 18:26:57,496 - INFO -   Collected 35 unique posts from May 2021
+2025-10-26 18:26:57,501 - INFO -   r/alberta: 35 collected, 31 relevant
+2025-10-26 18:27:00,687 - INFO - Saved: reddit_2020_2021_2021-05.csv (195 posts)
+2025-10-26 18:27:00,687 - INFO - 
+============================================================
+2025-10-26 18:27:00,687 - INFO - Processing 2021-06
+2025-10-26 18:27:00,687 - INFO - ============================================================
+2025-10-26 18:27:00,688 - INFO - Collecting June 2021 data from r/Saskatoon
+2025-10-26 18:28:13,851 - INFO -   Collected 18 unique posts from June 2021
+2025-10-26 18:28:13,852 - INFO -   r/Saskatoon: 18 collected, 16 relevant
+2025-10-26 18:28:16,877 - INFO - Collecting June 2021 data from r/Regina
+2025-10-26 18:29:32,201 - INFO -   Collected 17 unique posts from June 2021
+2025-10-26 18:29:32,203 - INFO -   r/Regina: 17 collected, 17 relevant
+2025-10-26 18:29:35,223 - INFO - Collecting June 2021 data from r/Winnipeg
+2025-10-26 18:31:00,226 - INFO -   Collected 24 unique posts from June 2021
+2025-10-26 18:31:00,227 - INFO -   r/Winnipeg: 24 collected, 23 relevant
+2025-10-26 18:31:03,288 - INFO - Collecting June 2021 data from r/Edmonton
+2025-10-26 18:32:25,590 - INFO -   Collected 13 unique posts from June 2021
+2025-10-26 18:32:25,590 - INFO -   r/Edmonton: 13 collected, 11 relevant
+2025-10-26 18:32:28,622 - INFO - Collecting June 2021 data from r/saskatchewan
+2025-10-26 18:33:43,772 - INFO -   Collected 7 unique posts from June 2021
+2025-10-26 18:33:43,772 - INFO -   r/saskatchewan: 7 collected, 6 relevant
+2025-10-26 18:33:46,788 - INFO - Collecting June 2021 data from r/manitoba
+2025-10-26 18:34:57,970 - INFO -   Collected 24 unique posts from June 2021
+2025-10-26 18:34:57,972 - INFO -   r/manitoba: 24 collected, 20 relevant
+2025-10-26 18:35:00,999 - INFO - Collecting June 2021 data from r/alberta
+2025-10-26 18:36:22,143 - INFO -   Collected 16 unique posts from June 2021
+2025-10-26 18:36:22,143 - INFO -   r/alberta: 16 collected, 15 relevant
+2025-10-26 18:36:25,289 - INFO - Saved: reddit_2020_2021_2021-06.csv (108 posts)
+2025-10-26 18:36:25,289 - INFO - 
+============================================================
+2025-10-26 18:36:25,289 - INFO - Processing 2021-07
+2025-10-26 18:36:25,289 - INFO - ============================================================
+2025-10-26 18:36:25,289 - INFO - Collecting July 2021 data from r/Saskatoon
+2025-10-26 18:37:42,983 - INFO -   Collected 11 unique posts from July 2021
+2025-10-26 18:37:42,985 - INFO -   r/Saskatoon: 11 collected, 11 relevant
+2025-10-26 18:37:46,016 - INFO - Collecting July 2021 data from r/Regina
+2025-10-26 18:39:02,388 - INFO -   Collected 13 unique posts from July 2021
+2025-10-26 18:39:02,390 - INFO -   r/Regina: 13 collected, 12 relevant
+2025-10-26 18:39:05,412 - INFO - Collecting July 2021 data from r/Winnipeg
+2025-10-26 18:40:23,115 - INFO -   Collected 20 unique posts from July 2021
+2025-10-26 18:40:23,115 - INFO -   r/Winnipeg: 20 collected, 17 relevant
+2025-10-26 18:40:26,137 - INFO - Collecting July 2021 data from r/Edmonton
+2025-10-26 18:41:49,761 - INFO -   Collected 7 unique posts from July 2021
+2025-10-26 18:41:49,762 - INFO -   r/Edmonton: 7 collected, 6 relevant
+2025-10-26 18:41:52,779 - INFO - Collecting July 2021 data from r/saskatchewan
+2025-10-26 18:43:09,990 - INFO -   Collected 8 unique posts from July 2021
+2025-10-26 18:43:09,991 - INFO -   r/saskatchewan: 8 collected, 6 relevant
+2025-10-26 18:43:13,008 - INFO - Collecting July 2021 data from r/manitoba
+2025-10-26 18:44:24,986 - INFO -   Collected 14 unique posts from July 2021
+2025-10-26 18:44:24,988 - INFO -   r/manitoba: 14 collected, 12 relevant
+2025-10-26 18:44:28,014 - INFO - Collecting July 2021 data from r/alberta
+2025-10-26 18:45:47,115 - INFO -   Collected 19 unique posts from July 2021
+2025-10-26 18:45:47,117 - INFO -   r/alberta: 19 collected, 16 relevant
+2025-10-26 18:45:50,164 - INFO - Saved: reddit_2020_2021_2021-07.csv (80 posts)
+2025-10-26 18:45:50,165 - INFO - 
+============================================================
+2025-10-26 18:45:50,165 - INFO - Processing 2021-08
+2025-10-26 18:45:50,165 - INFO - ============================================================
+2025-10-26 18:45:50,165 - INFO - Collecting August 2021 data from r/Saskatoon
+2025-10-26 18:47:06,471 - INFO -   Collected 31 unique posts from August 2021
+2025-10-26 18:47:06,474 - INFO -   r/Saskatoon: 31 collected, 29 relevant
+2025-10-26 18:47:09,497 - INFO - Collecting August 2021 data from r/Regina
+2025-10-26 18:48:24,745 - INFO -   Collected 25 unique posts from August 2021
+2025-10-26 18:48:24,747 - INFO -   r/Regina: 25 collected, 23 relevant
+2025-10-26 18:48:27,765 - INFO - Collecting August 2021 data from r/Winnipeg
+2025-10-26 18:49:47,054 - INFO -   Collected 28 unique posts from August 2021
+2025-10-26 18:49:47,057 - INFO -   r/Winnipeg: 28 collected, 26 relevant
+2025-10-26 18:49:50,085 - INFO - Collecting August 2021 data from r/Edmonton
+2025-10-26 18:51:17,665 - INFO -   Collected 24 unique posts from August 2021
+2025-10-26 18:51:17,668 - INFO -   r/Edmonton: 24 collected, 22 relevant
+2025-10-26 18:51:20,709 - INFO - Collecting August 2021 data from r/saskatchewan
+2025-10-26 18:52:35,888 - INFO -   Collected 28 unique posts from August 2021
+2025-10-26 18:52:35,890 - INFO -   r/saskatchewan: 28 collected, 27 relevant
+2025-10-26 18:52:38,950 - INFO - Collecting August 2021 data from r/manitoba
+2025-10-26 18:53:51,822 - INFO -   Collected 15 unique posts from August 2021
+2025-10-26 18:53:51,823 - INFO -   r/manitoba: 15 collected, 12 relevant
+2025-10-26 18:53:54,978 - INFO - Collecting August 2021 data from r/alberta
+2025-10-26 18:55:12,818 - INFO -   Collected 26 unique posts from August 2021
+2025-10-26 18:55:12,823 - INFO -   r/alberta: 26 collected, 25 relevant
+2025-10-26 18:55:15,947 - INFO - Saved: reddit_2020_2021_2021-08.csv (164 posts)
+2025-10-26 18:55:15,947 - INFO - 
+============================================================
+2025-10-26 18:55:15,947 - INFO - Processing 2021-09
+2025-10-26 18:55:15,947 - INFO - ============================================================
+2025-10-26 18:55:15,947 - INFO - Collecting September 2021 data from r/Saskatoon
+2025-10-26 18:56:30,695 - INFO -   Collected 37 unique posts from September 2021
+2025-10-26 18:56:30,700 - INFO -   r/Saskatoon: 37 collected, 36 relevant
+2025-10-26 18:56:33,751 - INFO - Collecting September 2021 data from r/Regina
+2025-10-26 18:57:47,287 - INFO -   Collected 35 unique posts from September 2021
+2025-10-26 18:57:47,289 - INFO -   r/Regina: 35 collected, 35 relevant
+2025-10-26 18:57:50,318 - INFO - Collecting September 2021 data from r/Winnipeg
+2025-10-26 18:59:09,308 - INFO -   Collected 24 unique posts from September 2021
+2025-10-26 18:59:09,311 - INFO -   r/Winnipeg: 24 collected, 22 relevant
+2025-10-26 18:59:12,364 - INFO - Collecting September 2021 data from r/Edmonton
+2025-10-26 19:00:40,298 - INFO -   Collected 43 unique posts from September 2021
+2025-10-26 19:00:40,301 - INFO -   r/Edmonton: 43 collected, 41 relevant
+2025-10-26 19:00:43,333 - INFO - Collecting September 2021 data from r/saskatchewan
+2025-10-26 19:01:59,760 - INFO -   Collected 45 unique posts from September 2021
+2025-10-26 19:01:59,763 - INFO -   r/saskatchewan: 45 collected, 44 relevant
+2025-10-26 19:02:02,788 - INFO - Collecting September 2021 data from r/manitoba
+2025-10-26 19:03:14,050 - INFO -   Collected 17 unique posts from September 2021
+2025-10-26 19:03:14,051 - INFO -   r/manitoba: 17 collected, 14 relevant
+2025-10-26 19:03:17,085 - INFO - Collecting September 2021 data from r/alberta
+2025-10-26 19:04:35,221 - INFO -   Collected 48 unique posts from September 2021
+2025-10-26 19:04:35,229 - INFO -   r/alberta: 48 collected, 44 relevant
+2025-10-26 19:04:38,581 - INFO - Saved: reddit_2020_2021_2021-09.csv (236 posts)
+2025-10-26 19:04:38,581 - INFO - 
+============================================================
+2025-10-26 19:04:38,582 - INFO - Processing 2021-10
+2025-10-26 19:04:38,582 - INFO - ============================================================
+2025-10-26 19:04:38,582 - INFO - Collecting October 2021 data from r/Saskatoon
+2025-10-26 19:05:52,374 - INFO -   Collected 42 unique posts from October 2021
+2025-10-26 19:05:52,377 - INFO -   r/Saskatoon: 42 collected, 39 relevant
+2025-10-26 19:05:55,406 - INFO - Collecting October 2021 data from r/Regina
+2025-10-26 19:07:11,548 - INFO -   Collected 29 unique posts from October 2021
+2025-10-26 19:07:11,551 - INFO -   r/Regina: 29 collected, 28 relevant
+2025-10-26 19:07:14,623 - INFO - Collecting October 2021 data from r/Winnipeg
+2025-10-26 19:08:31,739 - INFO -   Collected 12 unique posts from October 2021
+2025-10-26 19:08:31,740 - INFO -   r/Winnipeg: 12 collected, 10 relevant
+2025-10-26 19:08:34,780 - INFO - Collecting October 2021 data from r/Edmonton
+2025-10-26 19:09:55,111 - INFO -   Collected 4 unique posts from October 2021
+2025-10-26 19:09:55,111 - INFO -   r/Edmonton: 4 collected, 4 relevant
+2025-10-26 19:09:58,146 - INFO - Collecting October 2021 data from r/saskatchewan
+2025-10-26 19:11:12,526 - INFO -   Collected 42 unique posts from October 2021
+2025-10-26 19:11:12,529 - INFO -   r/saskatchewan: 42 collected, 42 relevant
+2025-10-26 19:11:15,569 - INFO - Collecting October 2021 data from r/manitoba
+2025-10-26 19:12:26,028 - INFO -   Collected 10 unique posts from October 2021
+2025-10-26 19:12:26,029 - INFO -   r/manitoba: 10 collected, 8 relevant
+2025-10-26 19:12:29,092 - INFO - Collecting October 2021 data from r/alberta
+2025-10-26 19:13:47,141 - INFO -   Collected 22 unique posts from October 2021
+2025-10-26 19:13:47,144 - INFO -   r/alberta: 22 collected, 19 relevant
+2025-10-26 19:13:50,214 - INFO - Saved: reddit_2020_2021_2021-10.csv (149 posts)
+2025-10-26 19:13:50,214 - INFO - 
+============================================================
+2025-10-26 19:13:50,214 - INFO - Processing 2021-11
+2025-10-26 19:13:50,214 - INFO - ============================================================
+2025-10-26 19:13:50,215 - INFO - Collecting November 2021 data from r/Saskatoon
+2025-10-26 19:15:06,309 - INFO -   Collected 23 unique posts from November 2021
+2025-10-26 19:15:06,311 - INFO -   r/Saskatoon: 23 collected, 21 relevant
+2025-10-26 19:15:09,352 - INFO - Collecting November 2021 data from r/Regina
+2025-10-26 19:16:25,499 - INFO -   Collected 16 unique posts from November 2021
+2025-10-26 19:16:25,501 - INFO -   r/Regina: 16 collected, 16 relevant
+2025-10-26 19:16:28,531 - INFO - Collecting November 2021 data from r/Winnipeg
+2025-10-26 19:17:47,239 - INFO -   Collected 25 unique posts from November 2021
+2025-10-26 19:17:47,242 - INFO -   r/Winnipeg: 25 collected, 20 relevant
+2025-10-26 19:17:50,276 - INFO - Collecting November 2021 data from r/Edmonton
+2025-10-26 19:19:14,769 - INFO -   Collected 12 unique posts from November 2021
+2025-10-26 19:19:14,770 - INFO -   r/Edmonton: 12 collected, 12 relevant
+2025-10-26 19:19:17,806 - INFO - Collecting November 2021 data from r/saskatchewan
+2025-10-26 19:20:31,740 - INFO -   Collected 19 unique posts from November 2021
+2025-10-26 19:20:31,740 - INFO -   r/saskatchewan: 19 collected, 17 relevant
+2025-10-26 19:20:34,772 - INFO - Collecting November 2021 data from r/manitoba
+2025-10-26 19:21:46,614 - INFO -   Collected 17 unique posts from November 2021
+2025-10-26 19:21:46,616 - INFO -   r/manitoba: 17 collected, 16 relevant
+2025-10-26 19:21:49,724 - INFO - Collecting November 2021 data from r/alberta
+2025-10-26 19:23:08,420 - INFO -   Collected 13 unique posts from November 2021
+2025-10-26 19:23:08,421 - INFO -   r/alberta: 13 collected, 11 relevant
+2025-10-26 19:23:11,462 - INFO - Saved: reddit_2020_2021_2021-11.csv (113 posts)
+2025-10-26 19:23:11,463 - INFO - 
+============================================================
+2025-10-26 19:23:11,463 - INFO - Processing 2021-12
+2025-10-26 19:23:11,463 - INFO - ============================================================
+2025-10-26 19:23:11,464 - INFO - Collecting December 2021 data from r/Saskatoon
+2025-10-26 19:24:26,317 - INFO -   Collected 15 unique posts from December 2021
+2025-10-26 19:24:26,319 - INFO -   r/Saskatoon: 15 collected, 14 relevant
+2025-10-26 19:24:29,365 - INFO - Collecting December 2021 data from r/Regina
+2025-10-26 19:25:44,485 - INFO -   Collected 17 unique posts from December 2021
+2025-10-26 19:25:44,487 - INFO -   r/Regina: 17 collected, 16 relevant
+2025-10-26 19:25:47,523 - INFO - Collecting December 2021 data from r/Winnipeg
+2025-10-26 19:27:04,107 - INFO -   Collected 25 unique posts from December 2021
+2025-10-26 19:27:04,110 - INFO -   r/Winnipeg: 25 collected, 23 relevant
+2025-10-26 19:27:07,160 - INFO - Collecting December 2021 data from r/Edmonton
+2025-10-26 19:28:28,392 - INFO -   Collected 18 unique posts from December 2021
+2025-10-26 19:28:28,395 - INFO -   r/Edmonton: 18 collected, 18 relevant
+2025-10-26 19:28:31,445 - INFO - Collecting December 2021 data from r/saskatchewan
+2025-10-26 19:29:46,099 - INFO -   Collected 27 unique posts from December 2021
+2025-10-26 19:29:46,101 - INFO -   r/saskatchewan: 27 collected, 22 relevant
+2025-10-26 19:29:49,152 - INFO - Collecting December 2021 data from r/manitoba
+2025-10-26 19:31:03,639 - INFO -   Collected 14 unique posts from December 2021
+2025-10-26 19:31:03,639 - INFO -   r/manitoba: 14 collected, 10 relevant
+2025-10-26 19:31:06,667 - INFO - Collecting December 2021 data from r/alberta
+2025-10-26 19:32:26,516 - INFO -   Collected 23 unique posts from December 2021
+2025-10-26 19:32:26,518 - INFO -   r/alberta: 23 collected, 17 relevant
+2025-10-26 19:32:29,571 - INFO - Saved: reddit_2020_2021_2021-12.csv (120 posts)
+2025-10-26 19:32:29,584 - INFO - 
+============================================================
+2025-10-26 19:32:29,585 - INFO - COLLECTION COMPLETE - 2020-2021 DATASET
+2025-10-26 19:32:29,585 - INFO - ============================================================
+2025-10-26 19:32:29,585 - INFO - Total posts collected: 2453
+2025-10-26 19:32:29,585 - INFO - Date range: 2020-01-01 16:54:52+00:00 to 2021-12-31 23:59:23+00:00
+2025-10-26 19:32:29,585 - INFO - Months covered: 24
+2025-10-26 19:32:29,662 - INFO - 
+Final dataset saved: reddit_climate_crime_pandemic_2020_2021.csv
+2025-10-26 19:32:29,662 - INFO - Shape: (2453, 47)
+2025-10-26 19:32:29,666 - INFO - Metadata saved: reddit_climate_crime_pandemic_2020_2021_metadata.json
+2025-10-26 19:32:29,667 - INFO - 
+======================================================================
+2025-10-26 19:32:29,667 - INFO - 2020-2021 PANDEMIC DATASET SUMMARY
+2025-10-26 19:32:29,667 - INFO - ======================================================================
+2025-10-26 19:32:29,667 - INFO - 
+Total Posts: 2453
+2025-10-26 19:32:29,667 - INFO - Date Range: 2020-01-01 16:54:52+00:00 to 2021-12-31 23:59:23+00:00
+2025-10-26 19:32:29,668 - INFO - 
+--- Posts by Subreddit ---
+2025-10-26 19:32:29,668 - INFO -   r/Edmonton: 431 (17.6%)
+2025-10-26 19:32:29,669 - INFO -   r/alberta: 406 (16.6%)
+2025-10-26 19:32:29,669 - INFO -   r/Winnipeg: 382 (15.6%)
+2025-10-26 19:32:29,669 - INFO -   r/Saskatoon: 372 (15.2%)
+2025-10-26 19:32:29,669 - INFO -   r/Regina: 351 (14.3%)
+2025-10-26 19:32:29,669 - INFO -   r/saskatchewan: 283 (11.5%)
+2025-10-26 19:32:29,669 - INFO -   r/manitoba: 228 (9.3%)
+2025-10-26 19:32:29,669 - INFO - 
+--- Posts by Year ---
+2025-10-26 19:32:29,670 - INFO -   2020: 853
+2025-10-26 19:32:29,670 - INFO -   2021: 1600
+2025-10-26 19:32:29,670 - INFO - 
+--- Posts by Quarter ---
+2025-10-26 19:32:29,670 - INFO -   2020_Q1: 126
+2025-10-26 19:32:29,670 - INFO -   2020_Q2: 167
+2025-10-26 19:32:29,671 - INFO -   2020_Q3: 145
+2025-10-26 19:32:29,671 - INFO -   2020_Q4: 415
+2025-10-26 19:32:29,671 - INFO -   2021_Q1: 284
+2025-10-26 19:32:29,671 - INFO -   2021_Q2: 454
+2025-10-26 19:32:29,671 - INFO -   2021_Q3: 480
+2025-10-26 19:32:29,671 - INFO -   2021_Q4: 382
+2025-10-26 19:32:29,671 - INFO - 
+--- Posts by Season ---
+2025-10-26 19:32:29,671 - INFO -   fall: 848
+2025-10-26 19:32:29,672 - INFO -   spring: 610
+2025-10-26 19:32:29,672 - INFO -   winter: 517
+2025-10-26 19:32:29,672 - INFO -   summer: 478
+2025-10-26 19:32:29,672 - INFO - 
+--- Content Analysis ---
+2025-10-26 19:32:29,673 - INFO - Crime-related posts: 444 (18.1%)
+2025-10-26 19:32:29,674 - INFO - Weather-related posts: 693 (28.3%)
+2025-10-26 19:32:29,674 - INFO - Pandemic-related posts: 1709 (69.7%)
+2025-10-26 19:32:29,674 - INFO - Crime AND Weather AND Pandemic: 29 (1.2%)
+2025-10-26 19:32:29,674 - INFO - 
+--- Pandemic Timeline ---
+2025-10-26 19:32:29,674 - INFO - Pre-pandemic declared (before Mar 11, 2020): 88
+2025-10-26 19:32:29,674 - INFO - Post-pandemic declared: 2365
+2025-10-26 19:32:29,675 - INFO - During vaccine rollout (Dec 2020+): 1719
+2025-10-26 19:32:29,675 - INFO - During major 2021 variant wave (Jun 2021+): 970
+2025-10-26 19:32:29,675 - INFO - 
+--- Sentiment Summary ---
+2025-10-26 19:32:29,676 - INFO -   positive: 993 (40.5%)
+2025-10-26 19:32:29,676 - INFO -   negative: 767 (31.3%)
+2025-10-26 19:32:29,676 - INFO -   neutral: 693 (28.3%)
+2025-10-26 19:32:29,676 - INFO - Average compound sentiment: 0.069
+2025-10-26 19:32:29,676 - INFO - 
+--- Engagement Statistics ---
+2025-10-26 19:32:29,676 - INFO - Average score: 179.6
+2025-10-26 19:32:29,676 - INFO - Average comments: 75.1
+2025-10-26 19:32:29,677 - INFO - Average upvote ratio: 0.850
+2025-10-26 19:32:29,677 - INFO - Average engagement rate: 2.718
+2025-10-26 19:32:29,677 - INFO - Average controversy score: 0.150
+2025-10-26 19:32:29,677 - INFO - 
+======================================================================
+2025-10-26 19:32:29,677 - INFO - SUMMARY COMPLETE
+2025-10-26 19:32:29,677 - INFO - ======================================================================
+2025-10-26 19:32:29,711 - INFO - Research summary saved: research_questions_3_4_pandemic_summary.txt
+2025-10-26 19:32:29,746 - INFO - GIS-ready dataset saved: reddit_2020_2021_for_gis.csv
+2025-10-26 19:32:29,746 - INFO -   Includes lat/lon coordinates for mapping
+2025-10-26 19:32:29,746 - INFO -   Ready for ArcGIS StoryMaps integration
+2025-10-26 19:32:29,747 - INFO - 
+======================================================================
+2025-10-26 19:32:29,747 - INFO - COLLECTION SUCCESSFUL
+2025-10-26 19:32:29,747 - INFO - ======================================================================
+2025-10-26 19:32:29,747 - INFO - Main dataset: reddit_climate_crime_pandemic_2020_2021.csv
+2025-10-26 19:32:29,747 - INFO - Metadata: reddit_climate_crime_pandemic_2020_2021_metadata.json
+2025-10-26 19:32:29,747 - INFO - Research summary: research_questions_3_4_pandemic_summary.txt
+2025-10-26 19:32:29,747 - INFO - GIS dataset: reddit_2020_2021_for_gis.csv
+2025-10-26 19:32:29,747 - INFO - Individual monthly files: reddit_2020_2021_YYYY-MM.csv
+2025-10-26 19:32:29,747 - INFO - Log file: reddit_2020_2021_scraper.log
+2025-10-26 19:32:29,747 - INFO - 
+======================================================================
+2025-10-26 19:32:29,747 - INFO - RESEARCH QUESTIONS 3 & 4 - KEY INSIGHTS (Pandemic Era)
+2025-10-26 19:32:29,747 - INFO - ======================================================================
+2025-10-26 19:32:29,747 - INFO - 
+Question 3: Public perceptions and discussions variation during the pandemic
+2025-10-26 19:32:29,747 - INFO - Dataset includes temporal markers for:
+2025-10-26 19:32:29,747 - INFO - - Seasonal variations (winter/spring/summer/fall)
+2025-10-26 19:32:29,748 - INFO - - Pandemic timeline (pre/post declared, vaccine rollout, major variant wave)
+2025-10-26 19:32:29,748 - INFO - - Sentiment analysis for each post
+2025-10-26 19:32:29,748 - INFO - - Day of week, hour, and quarterly breakdowns
+2025-10-26 19:32:29,748 - INFO - 
+Question 4: Spatial patterns
+2025-10-26 19:32:29,748 - INFO - Dataset covers 4 cities + 3 provincial subreddits:
+2025-10-26 19:32:29,749 - INFO - - r/Saskatoon: 372 posts
+2025-10-26 19:32:29,751 - INFO - - r/Regina: 351 posts
+2025-10-26 19:32:29,752 - INFO - - r/Winnipeg: 382 posts
+2025-10-26 19:32:29,753 - INFO - - r/Edmonton: 431 posts
+2025-10-26 19:32:29,753 - INFO - - r/saskatchewan: 283 posts
+2025-10-26 19:32:29,754 - INFO - - r/manitoba: 228 posts
+2025-10-26 19:32:29,755 - INFO - - r/alberta: 406 posts
+2025-10-26 19:32:29,755 - INFO - 
+Next steps for analysis:
+2025-10-26 19:32:29,755 - INFO - 1. Merge with climate data (Environment Canada)
+2025-10-26 19:32:29,755 - INFO - 2. Merge with crime data (municipal police services)
+2025-10-26 19:32:29,755 - INFO - 3. Perform temporal correlation analysis (e.g., crime vs. lockdown)
+2025-10-26 19:32:29,755 - INFO - 4. Create spatial visualizations (GIS/StoryMaps)
+2025-10-26 19:32:29,755 - INFO - 5. Analyze sentiment variations by season/weather and pandemic phase
+2025-10-26 19:32:29,755 - INFO - 6. Statistical testing (regression, time-series)
+2025-10-26 19:32:29,756 - INFO - 
+======================================================================
+2025-10-26 19:32:29,756 - INFO - FILES GENERATED:
+2025-10-26 19:32:29,756 - INFO - ======================================================================

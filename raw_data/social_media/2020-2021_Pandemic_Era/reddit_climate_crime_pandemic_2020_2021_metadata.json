@@ -1,0 +1,42 @@
+{
+  "collection_date": "2025-10-26T19:32:29.662547",
+  "time_period": "2020-2021 (COVID-19 Pandemic Era)",
+  "total_posts": 2453,
+  "date_range": {
+    "start": "2020-01-01 16:54:52+00:00",
+    "end": "2021-12-31 23:59:23+00:00"
+  },
+  "subreddits": {
+    "Edmonton": 431,
+    "alberta": 406,
+    "Winnipeg": 382,
+    "Saskatoon": 372,
+    "Regina": 351,
+    "saskatchewan": 283,
+    "manitoba": 228
+  },
+  "posts_by_year": {
+    "2020": 853,
+    "2021": 1600
+  },
+  "posts_by_quarter": {
+    "2020_Q1": 126,
+    "2020_Q2": 167,
+    "2020_Q3": 145,
+    "2020_Q4": 415,
+    "2021_Q1": 284,
+    "2021_Q2": 454,
+    "2021_Q3": 480,
+    "2021_Q4": 382
+  },
+  "crime_related": 444,
+  "weather_related": 693,
+  "pandemic_related": 1709,
+  "crime_and_weather_and_pandemic": 29,
+  "pandemic_timeline_breakdown": {
+    "pre_declared": 88,
+    "post_declared": 2365,
+    "vaccine_rollout": 1719,
+    "major_variant_wave": 970
+  }
+}

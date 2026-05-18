@@ -1,0 +1,121 @@
+======================================================================
+RESEARCH QUESTIONS 3 & 4 - ANALYSIS SUMMARY
+2014-2019 PRE-PANDEMIC REDDIT DATA COLLECTION
+======================================================================
+
+QUESTION 3: How did public discussions of crime and climate on social media
+(Reddit) vary during the pre-pandemic baseline period?
+----------------------------------------------------------------------
+
+SENTIMENT BY SEASON (OVERALL):
+  Winter: -0.061 (n=314 posts)
+  Spring: -0.017 (n=237 posts)
+  Summer: -0.044 (n=358 posts)
+  Fall: -0.039 (n=313 posts)
+
+CRIME DISCUSSIONS BY YEAR:
+  Total crime posts: 532
+  2014: 14 posts
+  2015: 27 posts
+  2016: 67 posts
+  2017: 85 posts
+  2018: 122 posts
+  2019: 217 posts
+
+WEATHER DISCUSSIONS BY YEAR:
+  Total weather posts: 763
+  2014: 48 posts
+  2015: 57 posts
+  2016: 81 posts
+  2017: 98 posts
+  2018: 166 posts
+  2019: 313 posts
+
+CRIME DISCUSSIONS BY REDDIT GROWTH PERIOD:
+  initial_phase: 10 posts
+  early_growth: 49 posts
+  mid_growth: 134 posts
+  mature_growth: 339 posts
+
+======================================================================
+
+QUESTION 4: What spatial patterns emerge when mapping climate trends, crime,
+and social media sentiment in Prairie cities?
+----------------------------------------------------------------------
+
+POSTS BY CITY/REGION:
+  r/Saskatoon: 265 posts
+    - Crime mentions: 49.1%
+    - Weather mentions: 55.5%
+    - Avg sentiment: -0.118
+  r/alberta: 215 posts
+    - Crime mentions: 46.5%
+    - Weather mentions: 60.9%
+    - Avg sentiment: -0.070
+  r/Winnipeg: 184 posts
+    - Crime mentions: 47.3%
+    - Weather mentions: 56.5%
+    - Avg sentiment: -0.069
+  r/Edmonton: 165 posts
+    - Crime mentions: 40.0%
+    - Weather mentions: 68.5%
+    - Avg sentiment: -0.043
+  r/Regina: 165 posts
+    - Crime mentions: 36.4%
+    - Weather mentions: 71.5%
+    - Avg sentiment: 0.122
+  r/saskatchewan: 164 posts
+    - Crime mentions: 43.3%
+    - Weather mentions: 62.8%
+    - Avg sentiment: -0.040
+  r/manitoba: 64 posts
+    - Crime mentions: 28.1%
+    - Weather mentions: 73.4%
+    - Avg sentiment: 0.025
+
+CRIME-WEATHER CORRELATION BY CITY:
+  r/Saskatoon: 12 posts mention both (4.5%)
+  r/alberta: 16 posts mention both (7.4%)
+  r/Winnipeg: 7 posts mention both (3.8%)
+  r/Edmonton: 14 posts mention both (8.5%)
+  r/Regina: 13 posts mention both (7.9%)
+  r/saskatchewan: 10 posts mention both (6.1%)
+  r/manitoba: 1 posts mention both (1.6%)
+
+SENTIMENT TRENDS BY YEAR:
+  2014: 0.187
+  2015: 0.069
+  2016: -0.125
+  2017: -0.035
+  2018: -0.081
+  2019: -0.043
+
+======================================================================
+
+TEMPORAL ANALYSIS:
+----------------------------------------------------------------------
+
+POSTS BY YEAR:
+  2014: 58 posts
+  2015: 80 posts
+  2016: 146 posts
+  2017: 172 posts
+  2018: 263 posts
+  2019: 503 posts
+
+POSTS BY REDDIT GROWTH PERIOD:
+  early_growth: 143 posts
+  initial_phase: 40 posts
+  mature_growth: 766 posts
+  mid_growth: 273 posts
+
+======================================================================
+BASELINE DATA READY FOR:
+1. Comparison with 2020-2021 pandemic data
+2. Correlation analysis with climate data (Environment Canada)
+3. Correlation analysis with crime data (municipal databases)
+4. Geospatial mapping of discussion patterns (ArcGIS StoryMaps)
+5. Time-series analysis of crime/weather sentiment trends
+6. Statistical testing for temporal changes (2014-2019 vs 2020-2021)
+7. Platform bias analysis (Reddit growth impact on sentiment)
+======================================================================

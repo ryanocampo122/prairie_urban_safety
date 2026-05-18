@@ -1,0 +1,256 @@
+id,title,selftext,created_utc,score,num_comments,link_flair_text,upvote_ratio,permalink,url,is_self,over_18,spoiler,stickied,locked,subreddit,full_text,created_date,year,month,day,day_of_week,day_name,week_of_year,hour,season,platform_period,cleaned_text,text_length,word_count,contains_crime_keywords,contains_weather_keywords,contains_pandemic_keywords,crime_keyword_count,weather_keyword_count,pandemic_keyword_count,crime_and_weather_and_pandemic,engagement_rate,controversy_score,is_2020,is_2021,pre_pandemic_declared,post_pandemic_declared,vaccine_rollout,major_variant_wave,quarter,author_hash,sentiment_compound,sentiment_positive,sentiment_neutral,sentiment_negative,sentiment_category
+iho7ij,Age stats on Saskatchewan COVID-19 deaths,"TL;DR:
+
+1 person in their 20s
+
+2 in their 50s 
+
+6 in their 60s
+
+8 in their 70s
+
+6 in their 80s
+
+1 in their 90s
+
+Sources:
+
+1st & 2nd - both 70s https://regina.ctvnews.ca/first-2-deaths-from-covid-19-in-sask-20-new-cases-1.4874009
+
+3rd - 80s https://regina.ctvnews.ca/sask-records-3rd-death-related-to-covid-19-9-new-cases-1.4877334
+
+4th - 60s https://regina.ctvnews.ca/1-new-covid-19-related-death-in-sask-4-new-cases-announced-1.4892310
+
+5th - 80s https://regina.ctvnews.ca/5th-covid-19-related-death-in-sask-majority-of-12-new-cases-in-far-north-1.4913232
+
+6th - 80s https://regina.ctvnews.ca/sask-reports-6th-covid-19-death-17-new-cases-1.4916870
+
+7th - 60s https://regina.ctvnews.ca/sask-records-7th-covid-19-related-death-21-new-cases-1.4946442
+
+8th - 50s https://regina.ctvnews.ca/sask-reports-8th-covid-19-death-zero-new-cases-1.4954893
+
+9th - 80s https://regina.ctvnews.ca/2-more-die-from-covid-19-complications-in-sask-3-new-cases-1.4956629
+
+10th - 60s https://regina.ctvnews.ca/2-more-die-from-covid-19-complications-in-sask-3-new-cases-1.4956629
+
+11th - 70s https://regina.ctvnews.ca/sask-reports-11th-death-related-to-covid-19-1-new-case-1.4962560
+
+12th - 60s https://regina.ctvnews.ca/2-more-covid-19-deaths-reported-in-sask-4-new-cases-1.4974205
+
+13th - 70s https://regina.ctvnews.ca/2-more-covid-19-deaths-reported-in-sask-4-new-cases-1.4974205
+
+14th - 70s https://regina.ctvnews.ca/sask-reports-14th-covid-19-death-10-new-cases-1.5008035
+
+15th - 20s https://regina.ctvnews.ca/15th-sask-covid-19-death-person-in-their-20s-1.5013746
+
+16th - 60s https://regina.ctvnews.ca/sask-reports-42-new-covid-19-cases-16th-death-1.5035891
+
+17th - 70s https://regina.ctvnews.ca/sask-reports-17th-covid-19-death-9-new-cases-1.5042043
+
+18th - 90s https://regina.ctvnews.ca/18th-covid-19-related-death-in-sask-as-province-reports-38-new-cases-1.5045169
+
+19th - 70s https://regina.ctvnews.ca/sask-reports-19th-covid-19-related-death-1.5053454
+
+20th - 60s https://regina.ctvnews.ca/20th-covid-19-death-reported-in-sask-23-new-cases-1.5055233
+
+21st - 80s https://www.ckom.com/2020/08/15/21st-covid-19-death-announced-in-saskatchewan-25-new-cases/
+
+22nd - 80s https://regina.ctvnews.ca/one-more-person-dies-of-covid-19-15-new-cases-in-sask-1.5066566
+
+23rd - 70s https://globalnews.ca/news/7297438/coronavirus-covid-19-saskatchewan-update-aug-25/
+
+24th - 50s https://regina.ctvnews.ca/1-new-covid-19-death-reported-in-sask-active-cases-drop-to-60-1.5079844",1598545687.0,42,61,COVID-19,0.93,/r/saskatoon/comments/iho7ij/age_stats_on_saskatchewan_covid19_deaths/,https://www.reddit.com/r/saskatoon/comments/iho7ij/age_stats_on_saskatchewan_covid19_deaths/,True,False,False,False,False,Saskatoon,"Age stats on Saskatchewan COVID-19 deaths TL;DR:
+
+1 person in their 20s
+
+2 in their 50s 
+
+6 in their 60s
+
+8 in their 70s
+
+6 in their 80s
+
+1 in their 90s
+
+Sources:
+
+1st & 2nd - both 70s https://regina.ctvnews.ca/first-2-deaths-from-covid-19-in-sask-20-new-cases-1.4874009
+
+3rd - 80s https://regina.ctvnews.ca/sask-records-3rd-death-related-to-covid-19-9-new-cases-1.4877334
+
+4th - 60s https://regina.ctvnews.ca/1-new-covid-19-related-death-in-sask-4-new-cases-announced-1.4892310
+
+5th - 80s https://regina.ctvnews.ca/5th-covid-19-related-death-in-sask-majority-of-12-new-cases-in-far-north-1.4913232
+
+6th - 80s https://regina.ctvnews.ca/sask-reports-6th-covid-19-death-17-new-cases-1.4916870
+
+7th - 60s https://regina.ctvnews.ca/sask-records-7th-covid-19-related-death-21-new-cases-1.4946442
+
+8th - 50s https://regina.ctvnews.ca/sask-reports-8th-covid-19-death-zero-new-cases-1.4954893
+
+9th - 80s https://regina.ctvnews.ca/2-more-die-from-covid-19-complications-in-sask-3-new-cases-1.4956629
+
+10th - 60s https://regina.ctvnews.ca/2-more-die-from-covid-19-complications-in-sask-3-new-cases-1.4956629
+
+11th - 70s https://regina.ctvnews.ca/sask-reports-11th-death-related-to-covid-19-1-new-case-1.4962560
+
+12th - 60s https://regina.ctvnews.ca/2-more-covid-19-deaths-reported-in-sask-4-new-cases-1.4974205
+
+13th - 70s https://regina.ctvnews.ca/2-more-covid-19-deaths-reported-in-sask-4-new-cases-1.4974205
+
+14th - 70s https://regina.ctvnews.ca/sask-reports-14th-covid-19-death-10-new-cases-1.5008035
+
+15th - 20s https://regina.ctvnews.ca/15th-sask-covid-19-death-person-in-their-20s-1.5013746
+
+16th - 60s https://regina.ctvnews.ca/sask-reports-42-new-covid-19-cases-16th-death-1.5035891
+
+17th - 70s https://regina.ctvnews.ca/sask-reports-17th-covid-19-death-9-new-cases-1.5042043
+
+18th - 90s https://regina.ctvnews.ca/18th-covid-19-related-death-in-sask-as-province-reports-38-new-cases-1.5045169
+
+19th - 70s https://regina.ctvnews.ca/sask-reports-19th-covid-19-related-death-1.5053454
+
+20th - 60s https://regina.ctvnews.ca/20th-covid-19-death-reported-in-sask-23-new-cases-1.5055233
+
+21st - 80s https://www.ckom.com/2020/08/15/21st-covid-19-death-announced-in-saskatchewan-25-new-cases/
+
+22nd - 80s https://regina.ctvnews.ca/one-more-person-dies-of-covid-19-15-new-cases-in-sask-1.5066566
+
+23rd - 70s https://globalnews.ca/news/7297438/coronavirus-covid-19-saskatchewan-update-aug-25/
+
+24th - 50s https://regina.ctvnews.ca/1-new-covid-19-death-reported-in-sask-active-cases-drop-to-60-1.5079844",2020-08-27 16:28:07+00:00,2020,8,27,3,Thursday,35,16,summer,2020-2021_pandemic_era,age stats on saskatchewan covid deaths tl dr person in their s in their s in their s in their s in their s in their s sources st nd both s rd s th s th s th s th s th s th s th s th s th s th s th s th s th s th s th s th s th s st s nd s rd s th s,248,76,False,False,True,0,0,3,False,1.4186046511627908,0.06999999999999995,True,False,False,True,False,False,2020_Q3,458552bb0e0747bb,0.0,0.0,1.0,0.0,neutral
+i4gz2d,Covid got another one.,,1596672127.0,91,52,COVID-19,0.93,/r/saskatoon/comments/i4gz2d/covid_got_another_one/,https://i.redd.it/9zivcq1hw9f51.jpg,False,False,False,False,False,Saskatoon,Covid got another one. ,2020-08-06 00:02:07+00:00,2020,8,6,3,Thursday,32,0,summer,2020-2021_pandemic_era,covid got another one.,22,4,False,False,True,0,0,1,False,0.5652173913043478,0.06999999999999995,True,False,False,True,False,False,2020_Q3,9045fcbf934fe37d,0.0,0.0,1.0,0.0,neutral
+ijpojh,"LOL 🙄, August 30th With An Overnight Low Weather Forecast Of 2 C, Risk Of Frost - Cover The Garden",,1598840552.0,32,10,None,0.94,/r/saskatoon/comments/ijpojh/lol_august_30th_with_an_overnight_low_weather/,https://i.redd.it/gutyrb9209k51.jpg,False,False,False,False,False,Saskatoon,"LOL 🙄, August 30th With An Overnight Low Weather Forecast Of 2 C, Risk Of Frost - Cover The Garden ",2020-08-31 02:22:32+00:00,2020,8,31,0,Monday,36,2,summer,2020-2021_pandemic_era,lol august th with an overnight low weather forecast of c risk of frost cover the garden,88,17,False,True,False,0,2,0,False,0.30303030303030304,0.06000000000000005,True,False,False,True,False,False,2020_Q3,f17ee5039b094195,-0.1027,0.133,0.667,0.2,negative
+ic6erx,Saskatchewan people are more likely to ignore Covid-19 safety protocols than residents of any other province.,,1597774574.0,108,78,None,0.9,/r/regina/comments/ic6erx/saskatchewan_people_are_more_likely_to_ignore/,https://thestarphoenix.com/news/local-news/sask-has-most-cynical-spreaders-in-canada-survey/wcm/ade2d6cd-0364-4d66-b314-9ce0eff7c7cf/,False,False,False,False,False,Regina,Saskatchewan people are more likely to ignore Covid-19 safety protocols than residents of any other province. ,2020-08-18 18:16:14+00:00,2020,8,18,1,Tuesday,34,18,summer,2020-2021_pandemic_era,saskatchewan people are more likely to ignore covid safety protocols than residents of any other province.,106,16,True,False,True,1,0,1,False,0.7155963302752294,0.09999999999999998,True,False,False,True,False,False,2020_Q3,c03e087cb9e79860,0.0094,0.143,0.716,0.141,neutral
+i8l2oa,"Today, we hit the highest number of active COVID cases in Regina. Please stay safe(r), Regina!",,1597262737.0,83,72,None,0.9,/r/regina/comments/i8l2oa/today_we_hit_the_highest_number_of_active_covid/,https://i.redd.it/2ytvukejomg51.png,False,False,False,False,False,Regina,"Today, we hit the highest number of active COVID cases in Regina. Please stay safe(r), Regina! ",2020-08-12 20:05:37+00:00,2020,8,12,2,Wednesday,33,20,summer,2020-2021_pandemic_era,today we hit the highest number of active covid cases in regina. please stay safe r regina!,91,17,False,False,True,0,0,1,False,0.8571428571428571,0.09999999999999998,True,False,False,True,False,False,2020_Q3,0839dbc7cd97cf33,0.8172,0.422,0.578,0.0,positive
+i8j1i1,What is the reluctance of the the Sask Party to mandate masks in the province when it is proven to be affective against the spread of covid 19?,,1597256474.0,48,67,None,0.79,/r/regina/comments/i8j1i1/what_is_the_reluctance_of_the_the_sask_party_to/,https://www.reddit.com/r/regina/comments/i8j1i1/what_is_the_reluctance_of_the_the_sask_party_to/,True,False,False,False,False,Regina,What is the reluctance of the the Sask Party to mandate masks in the province when it is proven to be affective against the spread of covid 19? ,2020-08-12 18:21:14+00:00,2020,8,12,2,Wednesday,33,18,summer,2020-2021_pandemic_era,what is the reluctance of the the sask party to mandate masks in the province when it is proven to be affective against the spread of covid ?,141,28,False,False,True,0,0,3,False,1.3673469387755102,0.20999999999999996,True,False,False,True,False,False,2020_Q3,9cd5012da6b59a67,0.0772,0.087,0.836,0.077,positive
+ijjcty,Sask. reports no new cases of COVID-19 today !,"REGINA -- The province said on Sunday there are no new cases of COVID-19 and that 42 cases are considered active. 
+
+&#x200B;
+
+https://preview.redd.it/nljt94v547k51.png?width=730&format=png&auto=webp&s=0a54a399f67f04d919509f7d5c7c1dc0b2f9992e",1598817642.0,76,32,News,0.94,/r/regina/comments/ijjcty/sask_reports_no_new_cases_of_covid19_today/,https://www.reddit.com/r/regina/comments/ijjcty/sask_reports_no_new_cases_of_covid19_today/,True,False,False,False,False,Regina,"Sask. reports no new cases of COVID-19 today ! REGINA -- The province said on Sunday there are no new cases of COVID-19 and that 42 cases are considered active. 
+
+&#x200B;
+
+https://preview.redd.it/nljt94v547k51.png?width=730&format=png&auto=webp&s=0a54a399f67f04d919509f7d5c7c1dc0b2f9992e",2020-08-30 20:00:42+00:00,2020,8,30,6,Sunday,35,20,summer,2020-2021_pandemic_era,sask. reports no new cases of covid today ! regina the province said on sunday there are no new cases of covid and that cases are considered active. x b,152,30,False,False,True,0,0,1,False,0.4155844155844156,0.06000000000000005,True,False,False,True,False,False,2020_Q3,ecde123834022841,-0.2481,0.079,0.785,0.136,negative
+i6bz7p,Wascana Park COVID Denier,"When I was at Wascana earlier this afternoon, there was a man walking around the lake carrying a sign that said, ""Corona is fake 100% Govt Lies Fake News"" and video taping with his phone. I didn't see any other protestors, so I'm wondering if he is a one man show that does this often? Did anyone else see him and know what his story is? He was white, shaved head, mid 40ish.",1596940986.0,15,30,None,0.8,/r/regina/comments/i6bz7p/wascana_park_covid_denier/,https://www.reddit.com/r/regina/comments/i6bz7p/wascana_park_covid_denier/,True,False,False,False,False,Regina,"Wascana Park COVID Denier When I was at Wascana earlier this afternoon, there was a man walking around the lake carrying a sign that said, ""Corona is fake 100% Govt Lies Fake News"" and video taping with his phone. I didn't see any other protestors, so I'm wondering if he is a one man show that does this often? Did anyone else see him and know what his story is? He was white, shaved head, mid 40ish.",2020-08-09 02:43:06+00:00,2020,8,9,6,Sunday,32,2,summer,2020-2021_pandemic_era,wascana park covid denier when i was at wascana earlier this afternoon there was a man walking around the lake carrying a sign that said corona is fake govt lies fake news and video taping with his phone. i didn t see any other protestors so i m wondering if he is a one man show that does this often? did anyone else see him and know what his story is? he was white shaved head mid ish.,387,78,False,False,True,0,0,1,False,1.875,0.19999999999999996,True,False,False,True,False,False,2020_Q3,0dde292da1da23c4,-0.897,0.0,0.862,0.138,negative
+i7h5cb,18 employees at K-Bro Linens test positive for COVID-19," [https://regina.ctvnews.ca/18-employees-at-k-bro-linens-test-positive-for-covid-19-1.5058809](https://regina.ctvnews.ca/18-employees-at-k-bro-linens-test-positive-for-covid-19-1.5058809) 
+
+&#x200B;
+
+ 
+
+REGINA -- The Saskatchewan Health Authority says 18 people who work at the K-Bro Linens facility in Regina have tested positive for COVID-19.
+
+Despite the numbers, it says all 150 employees have been tested and the risk of transmission is low.",1597104953.0,49,24,News,0.9,/r/regina/comments/i7h5cb/18_employees_at_kbro_linens_test_positive_for/,https://www.reddit.com/r/regina/comments/i7h5cb/18_employees_at_kbro_linens_test_positive_for/,True,False,False,False,False,Regina,"18 employees at K-Bro Linens test positive for COVID-19  [https://regina.ctvnews.ca/18-employees-at-k-bro-linens-test-positive-for-covid-19-1.5058809](https://regina.ctvnews.ca/18-employees-at-k-bro-linens-test-positive-for-covid-19-1.5058809) 
+
+&#x200B;
+
+ 
+
+REGINA -- The Saskatchewan Health Authority says 18 people who work at the K-Bro Linens facility in Regina have tested positive for COVID-19.
+
+Despite the numbers, it says all 150 employees have been tested and the risk of transmission is low.",2020-08-11 00:15:53+00:00,2020,8,11,1,Tuesday,33,0,summer,2020-2021_pandemic_era,employees at k bro linens test positive for covid x b regina the saskatchewan health authority says people who work at the k bro linens facility in regina have tested positive for covid . despite the numbers it says all employees have been tested and the risk of transmission is low.,283,51,False,False,True,0,0,1,False,0.48,0.09999999999999998,True,False,False,True,False,False,2020_Q3,ecde123834022841,0.6486,0.145,0.784,0.072,positive
+i6oshc,Golden Mile Superstore sees second COVID-19 exposure alert," **Aug. 7 from 7:30 p.m. to 8 p.m** 
+
+&#x200B;
+
+[https://regina.ctvnews.ca/golden-mile-superstore-sees-second-covid-19-exposure-alert-1.5057170](https://regina.ctvnews.ca/golden-mile-superstore-sees-second-covid-19-exposure-alert-1.5057170) 
+
+&#x200B;
+
+REGINA -- The Saskatchewan Health Authority is altering people that they may have been exposed to COVID-19 if they visited the Golden Mile Superstore on Friday.
+
+The SHA said the risk of transmission remains low, but people may have been exposed to the virus if they visited the location on Aug. 7 from 7:30 p.m. to 8 p.m.
+
+This is the second time there has been a recent exposure at the Golden Mile Superstore.",1596999258.0,31,20,News,0.83,/r/regina/comments/i6oshc/golden_mile_superstore_sees_second_covid19/,https://www.reddit.com/r/regina/comments/i6oshc/golden_mile_superstore_sees_second_covid19/,True,False,False,False,False,Regina,"Golden Mile Superstore sees second COVID-19 exposure alert  **Aug. 7 from 7:30 p.m. to 8 p.m** 
+
+&#x200B;
+
+[https://regina.ctvnews.ca/golden-mile-superstore-sees-second-covid-19-exposure-alert-1.5057170](https://regina.ctvnews.ca/golden-mile-superstore-sees-second-covid-19-exposure-alert-1.5057170) 
+
+&#x200B;
+
+REGINA -- The Saskatchewan Health Authority is altering people that they may have been exposed to COVID-19 if they visited the Golden Mile Superstore on Friday.
+
+The SHA said the risk of transmission remains low, but people may have been exposed to the virus if they visited the location on Aug. 7 from 7:30 p.m. to 8 p.m.
+
+This is the second time there has been a recent exposure at the Golden Mile Superstore.",2020-08-09 18:54:18+00:00,2020,8,9,6,Sunday,32,18,summer,2020-2021_pandemic_era,golden mile superstore sees second covid exposure alert aug. from p.m. to p.m x b x b regina the saskatchewan health authority is altering people that they may have been exposed to covid if they visited the golden mile superstore on friday. the sha said the risk of transmission remains low but people may have been exposed to the virus if they visited the location on aug. from p.m. to p.m. this is the second time there has been a recent exposure at the golden mile superstore.,479,87,False,False,True,0,0,3,False,0.625,0.17000000000000004,True,False,False,True,False,False,2020_Q3,ecde123834022841,-0.2382,0.031,0.906,0.064,negative
+i49eaw,How bad are the rural crimes around regina,"Hey guys, 
+
+I read a lot about the rural crimes in SK and how the number is the highest in Canada. For those of you who live in the rural area outside of Regina, how bad is it really? Are there a lot of property crimes or violent crimes?",1596647670.0,7,28,None,0.71,/r/regina/comments/i49eaw/how_bad_are_the_rural_crimes_around_regina/,https://www.reddit.com/r/regina/comments/i49eaw/how_bad_are_the_rural_crimes_around_regina/,True,False,False,False,False,Regina,"How bad are the rural crimes around regina Hey guys, 
+
+I read a lot about the rural crimes in SK and how the number is the highest in Canada. For those of you who live in the rural area outside of Regina, how bad is it really? Are there a lot of property crimes or violent crimes?",2020-08-05 17:14:30+00:00,2020,8,5,2,Wednesday,32,17,summer,2020-2021_pandemic_era,how bad are the rural crimes around regina hey guys i read a lot about the rural crimes in sk and how the number is the highest in canada. for those of you who live in the rural area outside of regina how bad is it really? are there a lot of property crimes or violent crimes?,276,57,True,False,False,1,0,0,False,3.5,0.29000000000000004,True,False,False,True,False,False,2020_Q3,28506f4d85dd3fc7,-0.8992,0.02,0.808,0.172,negative
+i3bi3b,Snow on fence,I am wondering if there is a bylaw regarding your neighbours shovelling snow against your fence. They pile the snow almost to the top of the fence and we own the fence.,1596510061.0,0,6,None,0.2,/r/regina/comments/i3bi3b/snow_on_fence/,https://www.reddit.com/r/regina/comments/i3bi3b/snow_on_fence/,True,False,False,False,False,Regina,Snow on fence I am wondering if there is a bylaw regarding your neighbours shovelling snow against your fence. They pile the snow almost to the top of the fence and we own the fence.,2020-08-04 03:01:01+00:00,2020,8,4,1,Tuesday,32,3,summer,2020-2021_pandemic_era,snow on fence i am wondering if there is a bylaw regarding your neighbours shovelling snow against your fence. they pile the snow almost to the top of the fence and we own the fence.,182,35,False,True,False,0,1,0,False,6.0,0.8,True,False,False,True,False,False,2020_Q3,222e952e611ab326,0.1372,0.043,0.957,0.0,positive
+i5ctbw,Today is peak warmth day. August 7th has the highest median maximum temperature of any day for Regina: (28.0°C).,,1596802955.0,27,4,None,0.89,/r/regina/comments/i5ctbw/today_is_peak_warmth_day_august_7th_has_the/,/r/ReginaWxRecords/comments/i5cssj/today_is_peak_warmth_day_august_7th_has_the/,False,False,False,False,False,Regina,Today is peak warmth day. August 7th has the highest median maximum temperature of any day for Regina: (28.0°C). ,2020-08-07 12:22:35+00:00,2020,8,7,4,Friday,32,12,summer,2020-2021_pandemic_era,today is peak warmth day. august th has the highest median maximum temperature of any day for regina . c .,106,21,False,True,False,0,2,0,False,0.14285714285714285,0.10999999999999999,True,False,False,True,False,False,2020_Q3,bdd9cecfabd99654,0.4588,0.13,0.87,0.0,positive
+if7s2o,72 new cases of COVID-19 in MB Sunday,,1598205449.0,351,349,COVID-19,0.96,/r/Winnipeg/comments/if7s2o/72_new_cases_of_covid19_in_mb_sunday/,https://www.reddit.com/r/Winnipeg/comments/if7s2o/72_new_cases_of_covid19_in_mb_sunday/,True,False,False,False,False,Winnipeg,72 new cases of COVID-19 in MB Sunday ,2020-08-23 17:57:29+00:00,2020,8,23,6,Sunday,34,17,summer,2020-2021_pandemic_era,new cases of covid in mb sunday,31,7,False,False,True,0,0,1,False,0.9914772727272727,0.040000000000000036,True,False,False,True,False,False,2020_Q3,89192d57c63ac044,0.0,0.0,1.0,0.0,neutral
+i9qufg,"40 new COVID cases in MB, 10 in Winnipeg", [https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771](https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771),1597427922.0,220,255,News,0.97,/r/Winnipeg/comments/i9qufg/40_new_covid_cases_in_mb_10_in_winnipeg/,https://www.reddit.com/r/Winnipeg/comments/i9qufg/40_new_covid_cases_in_mb_10_in_winnipeg/,True,False,False,False,False,Winnipeg,"40 new COVID cases in MB, 10 in Winnipeg  [https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771](https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771)",2020-08-14 17:58:42+00:00,2020,8,14,4,Friday,33,17,summer,2020-2021_pandemic_era,new covid cases in mb in winnipeg,33,7,False,False,True,0,0,1,False,1.1538461538461537,0.030000000000000027,True,False,False,True,False,False,2020_Q3,ddc6848e15b5c0fd,0.0,0.0,1.0,0.0,neutral
+ieob7i,I would like to give a special thank you to all the travellers who brought COVID-19 back to Manitoba.,"We would not be where we are today without you. Our second wave is so much more than our first wave was. We appreciate you illegally crossing the border and being a tourist in our province. 
+
+We also appreciate those who traveled to Alberta for a funeral and caused an outbreak here as well. 
+
+/s
+
+On a serious note, we had 42 new cases today. So stay safe, wear a mask and social distance. Have a good day.",1598123049.0,366,167,COVID-19,0.74,/r/Winnipeg/comments/ieob7i/i_would_like_to_give_a_special_thank_you_to_all/,https://www.reddit.com/r/Winnipeg/comments/ieob7i/i_would_like_to_give_a_special_thank_you_to_all/,True,False,False,False,False,Winnipeg,"I would like to give a special thank you to all the travellers who brought COVID-19 back to Manitoba. We would not be where we are today without you. Our second wave is so much more than our first wave was. We appreciate you illegally crossing the border and being a tourist in our province. 
+
+We also appreciate those who traveled to Alberta for a funeral and caused an outbreak here as well. 
+
+/s
+
+On a serious note, we had 42 new cases today. So stay safe, wear a mask and social distance. Have a good day.",2020-08-22 19:04:09+00:00,2020,8,22,5,Saturday,34,19,summer,2020-2021_pandemic_era,i would like to give a special thank you to all the travellers who brought covid back to manitoba. we would not be where we are today without you. our second wave is so much more than our first wave was. we appreciate you illegally crossing the border and being a tourist in our province. we also appreciate those who traveled to alberta for a funeral and caused an outbreak here as well. s on a serious note we had new cases today. so stay safe wear a mask and social distance. have a good day.,495,96,False,False,True,0,0,5,False,0.4550408719346049,0.26,True,False,False,True,False,False,2020_Q3,ddfb683b167d33df,0.9475,0.192,0.774,0.034,positive
+i6nuxe,35 new COVID cases in MB,7 from cluster in Brandon. More details incoming from press release.,1596996205.0,207,266,News,0.95,/r/Winnipeg/comments/i6nuxe/35_new_covid_cases_in_mb/,https://www.reddit.com/r/Winnipeg/comments/i6nuxe/35_new_covid_cases_in_mb/,True,False,False,False,False,Winnipeg,35 new COVID cases in MB 7 from cluster in Brandon. More details incoming from press release.,2020-08-09 18:03:25+00:00,2020,8,9,6,Sunday,32,18,summer,2020-2021_pandemic_era,new covid cases in mb from cluster in brandon. more details incoming from press release.,88,15,False,False,True,0,0,1,False,1.2788461538461537,0.050000000000000044,True,False,False,True,False,False,2020_Q3,ddc6848e15b5c0fd,0.0,0.0,1.0,0.0,neutral
+idfb6p,"33 new cases of COVID Thursday in MB, 1.9% positivity rate",,1597946407.0,249,197,COVID-19,0.96,/r/Winnipeg/comments/idfb6p/33_new_cases_of_covid_thursday_in_mb_19/,https://www.gov.mb.ca/covid19/updates/cases.html,False,False,False,False,False,Winnipeg,"33 new cases of COVID Thursday in MB, 1.9% positivity rate ",2020-08-20 18:00:07+00:00,2020,8,20,3,Thursday,34,18,summer,2020-2021_pandemic_era,new cases of covid thursday in mb . positivity rate,51,10,False,False,True,0,0,1,False,0.788,0.040000000000000036,True,False,False,True,False,False,2020_Q3,89192d57c63ac044,0.5106,0.268,0.732,0.0,positive
+ik6adr,Manitoba premier's approval rating drops as province sees rise in COVID-19: survey,,1598906959.0,423,84,News,0.96,/r/Winnipeg/comments/ik6adr/manitoba_premiers_approval_rating_drops_as/,https://winnipeg.ctvnews.ca/manitoba-premier-s-approval-rating-drops-as-province-sees-rise-in-covid-19-survey-1.5086286?www,False,False,False,False,False,Winnipeg,Manitoba premier's approval rating drops as province sees rise in COVID-19: survey ,2020-08-31 20:49:19+00:00,2020,8,31,0,Monday,36,20,summer,2020-2021_pandemic_era,manitoba premier s approval rating drops as province sees rise in covid survey,78,13,False,False,True,0,0,1,False,0.19811320754716982,0.040000000000000036,True,False,False,True,False,False,2020_Q3,147fe39a0473d395,0.4767,0.205,0.795,0.0,positive
+iabq82,Teacher gives Manitoba government failing grade on COVID-19 return-to-school plan,,1597513252.0,329,100,News,0.91,/r/Winnipeg/comments/iabq82/teacher_gives_manitoba_government_failing_grade/,https://www.cbc.ca/news/canada/manitoba/teacher-gives-manitoba-government-failing-grade-on-covid-19-return-to-school-plan-1.5686964,False,False,False,False,False,Winnipeg,Teacher gives Manitoba government failing grade on COVID-19 return-to-school plan ,2020-08-15 17:40:52+00:00,2020,8,15,5,Saturday,33,17,summer,2020-2021_pandemic_era,teacher gives manitoba government failing grade on covid return to school plan,78,12,False,False,True,0,0,1,False,0.30303030303030304,0.08999999999999997,True,False,False,True,False,False,2020_Q3,5861eba84721135e,-0.5106,0.0,0.769,0.231,negative
+iax32s,36 new COVID cases Sunday,,1597601000.0,113,173,COVID-19,0.95,/r/Winnipeg/comments/iax32s/36_new_covid_cases_sunday/,https://www.reddit.com/r/Winnipeg/comments/iax32s/36_new_covid_cases_sunday/,True,False,False,False,False,Winnipeg,36 new COVID cases Sunday ,2020-08-16 18:03:20+00:00,2020,8,16,6,Sunday,33,18,summer,2020-2021_pandemic_era,new covid cases sunday,22,4,False,False,True,0,0,1,False,1.5175438596491229,0.050000000000000044,True,False,False,True,False,False,2020_Q3,89192d57c63ac044,0.0,0.0,1.0,0.0,neutral
+igifc1,Manitoba now has the most cases of Covid-19 per 100k in all of Canada,,1598381377.0,300,88,COVID-19,0.96,/r/Winnipeg/comments/igifc1/manitoba_now_has_the_most_cases_of_covid19_per/,https://i.redd.it/u125o0vv27j51.png,False,False,False,False,False,Winnipeg,Manitoba now has the most cases of Covid-19 per 100k in all of Canada ,2020-08-25 18:49:37+00:00,2020,8,25,1,Tuesday,35,18,summer,2020-2021_pandemic_era,manitoba now has the most cases of covid per k in all of canada,63,14,False,False,True,0,0,1,False,0.292358803986711,0.040000000000000036,True,False,False,True,False,False,2020_Q3,e835e5f123453efd,0.0,0.0,1.0,0.0,neutral
+ij8ghq,Face Masks and Lockdown - Another interesting read,"A [good article](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2020.0376) to read thru that handles a variety of people's stances around transmission and masks.
+
+&#x200B;
+
+ Under certain conditions, when lock-down periods are implemented in combination with 100% facemask use, there is vastly less disease spread, secondary and tertiary waves are flattened and the epidemic is brought under control. The effect occurs even when it is assumed that facemasks are only 50% effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation.  
+
+
+...  
+
+
+ s. We conclude that facemask use by the public, when used in combination with physical distancing or periods of lock-down, may provide an acceptable way of managing the COVID19 pandemic and re-opening economic activity",1598770236.0,14,3,COVID-19,0.77,/r/Winnipeg/comments/ij8ghq/face_masks_and_lockdown_another_interesting_read/,https://www.reddit.com/r/Winnipeg/comments/ij8ghq/face_masks_and_lockdown_another_interesting_read/,True,False,False,False,False,Winnipeg,"Face Masks and Lockdown - Another interesting read A [good article](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2020.0376) to read thru that handles a variety of people's stances around transmission and masks.
+
+&#x200B;
+
+ Under certain conditions, when lock-down periods are implemented in combination with 100% facemask use, there is vastly less disease spread, secondary and tertiary waves are flattened and the epidemic is brought under control. The effect occurs even when it is assumed that facemasks are only 50% effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation.  
+
+
+...  
+
+
+ s. We conclude that facemask use by the public, when used in combination with physical distancing or periods of lock-down, may provide an acceptable way of managing the COVID19 pandemic and re-opening economic activity",2020-08-30 06:50:36+00:00,2020,8,30,6,Sunday,35,6,summer,2020-2021_pandemic_era,face masks and lockdown another interesting read a good article to read thru that handles a variety of people s stances around transmission and masks. x b under certain conditions when lock down periods are implemented in combination with facemask use there is vastly less disease spread secondary and tertiary waves are flattened and the epidemic is brought under control. the effect occurs even when it is assumed that facemasks are only effective at capturing exhaled virus inoculum with an equal or lower efficiency on inhalation. ... s. we conclude that facemask use by the public when used in combination with physical distancing or periods of lock down may provide an acceptable way of managing the covid pandemic and re opening economic activity,753,123,False,False,True,0,0,6,False,0.2,0.22999999999999998,True,False,False,True,False,False,2020_Q3,d064826741f7f340,0.9081,0.117,0.867,0.016,positive
+ihlhii,Today is Winnipeg-Airport's last day of 2020 with a median high temperature ≥25°C.,,1598536653.0,30,16,History,0.83,/r/Winnipeg/comments/ihlhii/today_is_winnipegairports_last_day_of_2020_with_a/,https://www.reddit.com/r/Winnipeg/comments/ihlhii/today_is_winnipegairports_last_day_of_2020_with_a/,True,False,False,False,False,Winnipeg,Today is Winnipeg-Airport's last day of 2020 with a median high temperature ≥25°C. ,2020-08-27 13:57:33+00:00,2020,8,27,3,Thursday,35,13,summer,2020-2021_pandemic_era,today is winnipeg airport s last day of with a median high temperature c.,73,14,False,True,False,0,1,0,False,0.5161290322580645,0.17000000000000004,True,False,False,True,False,False,2020_Q3,bdd9cecfabd99654,0.0,0.0,1.0,0.0,neutral
+ie6gzs,August 21 - Edmonton Cases of COVID-19,,1598047766.0,313,158,Covid-19 Coronavirus,0.98,/r/Edmonton/comments/ie6gzs/august_21_edmonton_cases_of_covid19/,https://i.redd.it/fqhcbgkrifi51.jpg,False,False,False,False,False,Edmonton,August 21 - Edmonton Cases of COVID-19 ,2020-08-21 22:09:26+00:00,2020,8,21,4,Friday,34,22,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.5031847133757962,0.020000000000000018,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+i8nfxv,August 12 - Edmonton Cases of COVID-19,,1597270245.0,217,161,Covid-19 Coronavirus,0.96,/r/Edmonton/comments/i8nfxv/august_12_edmonton_cases_of_covid19/,https://i.redd.it/ffyev0khang51.png,False,False,False,False,False,Edmonton,August 12 - Edmonton Cases of COVID-19 ,2020-08-12 22:10:45+00:00,2020,8,12,2,Wednesday,33,22,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.7385321100917431,0.040000000000000036,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+ih8cw0,August 26 - Edmonton Cases of COVID-19,,1598478821.0,295,119,Covid-19 Coronavirus,0.97,/r/Edmonton/comments/ih8cw0/august_26_edmonton_cases_of_covid19/,https://i.redd.it/1fths5ch4fj51.jpg,False,False,False,False,False,Edmonton,August 26 - Edmonton Cases of COVID-19 ,2020-08-26 21:53:41+00:00,2020,8,26,2,Wednesday,35,21,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.40202702702702703,0.030000000000000027,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+ibptgh,August 17 - Edmonton Cases of COVID-19,,1597707865.0,215,122,Covid-19 Coronavirus,0.97,/r/Edmonton/comments/ibptgh/august_17_edmonton_cases_of_covid19/,https://i.redd.it/h2mr52y1gnh51.jpg,False,False,False,False,False,Edmonton,August 17 - Edmonton Cases of COVID-19 ,2020-08-17 23:44:25+00:00,2020,8,17,0,Monday,34,23,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.5648148148148148,0.030000000000000027,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+i997fu,August 13 - Edmonton Cases of COVID-19,,1597355752.0,218,111,Covid-19 Coronavirus,0.96,/r/Edmonton/comments/i997fu/august_13_edmonton_cases_of_covid19/,https://i.redd.it/jvj4cckycug51.png,False,False,False,False,False,Edmonton,August 13 - Edmonton Cases of COVID-19 ,2020-08-13 21:55:52+00:00,2020,8,13,3,Thursday,33,21,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.5068493150684932,0.040000000000000036,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+ifz7n1,August 24 - Edmonton Cases of COVID-19,,1598307246.0,288,82,Covid-19 Coronavirus,0.97,/r/Edmonton/comments/ifz7n1/august_24_edmonton_cases_of_covid19/,https://i.redd.it/ahajgh57y0j51.jpg,False,False,False,False,False,Edmonton,August 24 - Edmonton Cases of COVID-19 ,2020-08-24 22:14:06+00:00,2020,8,24,0,Monday,35,22,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.2837370242214533,0.030000000000000027,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+icawx0,August 18 - Edmonton Cases of COVID-19,,1597788529.0,188,89,Covid-19 Coronavirus,0.96,/r/Edmonton/comments/icawx0/august_18_edmonton_cases_of_covid19/,https://i.redd.it/ic4x1b6p3uh51.jpg,False,False,False,False,False,Edmonton,August 18 - Edmonton Cases of COVID-19 ,2020-08-18 22:08:49+00:00,2020,8,18,1,Tuesday,34,22,summer,2020-2021_pandemic_era,august edmonton cases of covid,30,5,False,False,True,0,0,1,False,0.4708994708994709,0.040000000000000036,True,False,False,True,False,False,2020_Q3,257065bb11772fa3,0.0,0.0,1.0,0.0,neutral
+idfsiq,Why hasn't the Provence issued another lockdown for our city and closed public business like in March?,Why hasn't the Provence issued another lockdown for our city and closed public business like in March?,1597947893.0,0,42,Question,0.48,/r/Edmonton/comments/idfsiq/why_hasnt_the_provence_issued_another_lockdown/,https://www.reddit.com/r/Edmonton/comments/idfsiq/why_hasnt_the_provence_issued_another_lockdown/,True,False,False,False,False,Edmonton,Why hasn't the Provence issued another lockdown for our city and closed public business like in March? Why hasn't the Provence issued another lockdown for our city and closed public business like in March?,2020-08-20 18:24:53+00:00,2020,8,20,3,Thursday,34,18,summer,2020-2021_pandemic_era,why hasn t the provence issued another lockdown for our city and closed public business like in march? why hasn t the provence issued another lockdown for our city and closed public business like in march?,205,36,False,False,True,0,0,1,False,42.0,0.52,True,False,False,True,False,False,2020_Q3,5a55820be3813d26,0.6553,0.136,0.864,0.0,positive
+i55mdj,Nearby residents concerned about crime as Edmonton encampment reaches capacity,,1596767491.0,28,59,News,0.81,/r/Edmonton/comments/i55mdj/nearby_residents_concerned_about_crime_as/,https://globalnews.ca/news/7256381/nearby-residents-concerned-about-crime-as-edmonton-encampment-reaches-capacity/,False,False,False,False,False,Edmonton,Nearby residents concerned about crime as Edmonton encampment reaches capacity ,2020-08-07 02:31:31+00:00,2020,8,7,4,Friday,32,2,summer,2020-2021_pandemic_era,nearby residents concerned about crime as edmonton encampment reaches capacity,78,10,True,False,False,1,0,0,False,2.0344827586206895,0.18999999999999995,True,False,False,True,False,False,2020_Q3,70538cd63257fe8c,-0.5106,0.094,0.63,0.276,negative
+i5nqtw,Edmonton experiencing recent spike in violent crimes: police,,1596839817.0,27,29,News,0.91,/r/Edmonton/comments/i5nqtw/edmonton_experiencing_recent_spike_in_violent/,https://globalnews.ca/news/7258004/edmonton-violent-crime-increase/,False,False,False,False,False,Edmonton,Edmonton experiencing recent spike in violent crimes: police ,2020-08-07 22:36:57+00:00,2020,8,7,4,Friday,32,22,summer,2020-2021_pandemic_era,edmonton experiencing recent spike in violent crimes police,59,8,True,False,False,2,0,0,False,1.0357142857142858,0.08999999999999997,True,False,False,True,False,False,2020_Q3,b1912f2952b9e94e,-0.5994,0.0,0.642,0.358,negative
+ii6pzb,Mayor blasts police purchase of new armoured vehicle as 'tone deaf' | CBC News,,1598620149.0,505,248,News,0.93,/r/Edmonton/comments/ii6pzb/mayor_blasts_police_purchase_of_new_armoured/,https://www.cbc.ca/news/canada/edmonton/mayor-blasts-police-purchase-of-new-armoured-vehicle-as-tone-deaf-1.5703030,False,False,False,False,False,Edmonton,Mayor blasts police purchase of new armoured vehicle as 'tone deaf' | CBC News ,2020-08-28 13:09:09+00:00,2020,8,28,4,Friday,35,13,summer,2020-2021_pandemic_era,mayor blasts police purchase of new armoured vehicle as tone deaf cbc news,74,13,True,False,False,1,0,0,False,0.4901185770750988,0.06999999999999995,True,False,False,True,False,False,2020_Q3,04336ef6475e3f79,0.0,0.0,1.0,0.0,neutral
+ifs3h8,"Who would have guessed it a kid from Canada, Edmonton Alberta. Most people don’t even know where that. Where it snows I’m talking -40 weather, he’s now a champion league winner 😌💪🏾🙏🏾 #AD19⚡️",,1598285928.0,359,68,News,0.93,/r/Edmonton/comments/ifs3h8/who_would_have_guessed_it_a_kid_from_canada/,https://twitter.com/AlphonsoDavies/status/1297702339718062080?s=19,False,False,False,False,False,Edmonton,"Who would have guessed it a kid from Canada, Edmonton Alberta. Most people don’t even know where that. Where it snows I’m talking -40 weather, he’s now a champion league winner 😌💪🏾🙏🏾 #AD19⚡️ ",2020-08-24 16:18:48+00:00,2020,8,24,0,Monday,35,16,summer,2020-2021_pandemic_era,who would have guessed it a kid from canada edmonton alberta. most people don t even know where that. where it snows i m talking weather he s now a champion league winner ad,173,34,False,True,False,0,2,0,False,0.18888888888888888,0.06999999999999995,True,False,False,True,False,False,2020_Q3,0c19cb7bd4a7b2e2,0.8271,0.194,0.806,0.0,positive
+i481qg,"With all the snow, ice, hail cold temperatures in Alberta I'm wondering about redditors thoughts on the Ford trucks with the double sun roofs?","Not sure if  the sun roofs are a nuisance  or  do they seem to hold up to the weather,  the snow ice build up and snow",1596643458.0,0,6,Question,0.33,/r/Edmonton/comments/i481qg/with_all_the_snow_ice_hail_cold_temperatures_in/,https://www.reddit.com/r/Edmonton/comments/i481qg/with_all_the_snow_ice_hail_cold_temperatures_in/,True,False,False,False,False,Edmonton,"With all the snow, ice, hail cold temperatures in Alberta I'm wondering about redditors thoughts on the Ford trucks with the double sun roofs? Not sure if  the sun roofs are a nuisance  or  do they seem to hold up to the weather,  the snow ice build up and snow",2020-08-05 16:04:18+00:00,2020,8,5,2,Wednesday,32,16,summer,2020-2021_pandemic_era,with all the snow ice hail cold temperatures in alberta i m wondering about redditors thoughts on the ford trucks with the double sun roofs? not sure if the sun roofs are a nuisance or do they seem to hold up to the weather the snow ice build up and snow,254,51,False,True,False,0,4,0,False,6.0,0.6699999999999999,True,False,False,True,False,False,2020_Q3,0494b8bc67c8858b,-0.1685,0.025,0.938,0.038,negative
+iaeexf,“The power of KAREN compels you!” (Viewed from behind the safety of my mask),,1597521991.0,603,425,General,0.91,/r/Edmonton/comments/iaeexf/the_power_of_karen_compels_you_viewed_from_behind/,https://v.redd.it/iajwo9vb38h51,False,False,False,False,False,Edmonton,“The power of KAREN compels you!” (Viewed from behind the safety of my mask) ,2020-08-15 20:06:31+00:00,2020,8,15,5,Saturday,33,20,summer,2020-2021_pandemic_era,the power of karen compels you! viewed from behind the safety of my mask,72,14,True,False,True,1,0,1,False,0.7036423841059603,0.08999999999999997,True,False,False,True,False,False,2020_Q3,34517fa717684c86,0.4753,0.192,0.808,0.0,positive
+iau0vt,'For public and officer safety:' Edmonton city police mum on possibility of third armoured vehicle,,1597590881.0,2,52,News,0.53,/r/Edmonton/comments/iau0vt/for_public_and_officer_safety_edmonton_city/,https://edmontonjournal.com/news/local-news/for-public-and-officer-safety-edmonton-city-police-mum-on-possibility-of-third-armoured-vehicle/wcm/42a570bb-2acd-4fa5-b293-4818cc28e8e9/,False,False,False,False,False,Edmonton,'For public and officer safety:' Edmonton city police mum on possibility of third armoured vehicle ,2020-08-16 15:14:41+00:00,2020,8,16,6,Sunday,33,15,summer,2020-2021_pandemic_era,for public and officer safety edmonton city police mum on possibility of third armoured vehicle,95,15,True,False,False,2,0,0,False,17.333333333333332,0.47,True,False,False,True,False,False,2020_Q3,70538cd63257fe8c,0.4215,0.167,0.833,0.0,positive
+id2wjx,Alberta has more 'cynical spreaders' who ignote COVID-19 safety guidelines than many other provinces: poll,,1597894461.0,34,42,Covid-19 Coronavirus,0.75,/r/Edmonton/comments/id2wjx/alberta_has_more_cynical_spreaders_who_ignote/,https://www.cbc.ca/news/canada/calgary/covid-angus-reid-poll-cynical-spreaders-alberta-saskatchewan-manitoba-conservative-1.5692106,False,False,False,False,False,Edmonton,Alberta has more 'cynical spreaders' who ignote COVID-19 safety guidelines than many other provinces: poll ,2020-08-20 03:34:21+00:00,2020,8,20,3,Thursday,34,3,summer,2020-2021_pandemic_era,alberta has more cynical spreaders who ignote covid safety guidelines than many other provinces poll,100,15,True,False,True,1,0,1,False,1.2,0.25,True,False,False,True,False,False,2020_Q3,3cbf63a082f571e3,-0.024,0.15,0.695,0.155,neutral
+idsqz5,Saskatchewan Crop Report,"Warm temperatures have continued to rapidly develop and ripen crops, with some reports of premature ripening.
+
+[https://www.saskatchewan.ca/crop-report](https://www.saskatchewan.ca/crop-report).",1597997326.0,6,2,None,0.88,/r/saskatchewan/comments/idsqz5/saskatchewan_crop_report/,https://www.reddit.com/r/saskatchewan/comments/idsqz5/saskatchewan_crop_report/,True,False,False,False,False,saskatchewan,"Saskatchewan Crop Report Warm temperatures have continued to rapidly develop and ripen crops, with some reports of premature ripening.
+
+[https://www.saskatchewan.ca/crop-report](https://www.saskatchewan.ca/crop-report).",2020-08-21 08:08:46+00:00,2020,8,21,4,Friday,34,8,summer,2020-2021_pandemic_era,saskatchewan crop report warm temperatures have continued to rapidly develop and ripen crops with some reports of premature ripening.,133,19,False,True,False,0,2,0,False,0.2857142857142857,0.12,True,False,False,True,False,False,2020_Q3,8f2670a421847fc5,0.2263,0.095,0.905,0.0,positive
+if9boz,"72 New COVID Cases, Masks still not mandatory. No travel restrictions.",,1598210375.0,37,60,None,0.81,/r/Manitoba/comments/if9boz/72_new_covid_cases_masks_still_not_mandatory_no/,https://pembinavalleyonline.com/local/72-new-covid-cases-16-in-southern-health,False,False,False,False,False,manitoba,"72 New COVID Cases, Masks still not mandatory. No travel restrictions. ",2020-08-23 19:19:35+00:00,2020,8,23,6,Sunday,34,19,summer,2020-2021_pandemic_era,new covid cases masks still not mandatory. no travel restrictions.,66,10,False,False,True,0,0,3,False,1.5789473684210527,0.18999999999999995,True,False,False,True,False,False,2020_Q3,36e2f14c747d7d58,0.1695,0.17,0.72,0.11,positive
+ijm8t3,2 Employees at Garden City Canadian Tire test positive for covid-19,Just a heads up to anyone going to Garden City Canadian Tire in Winnipeg. 2 Employees have tested positive and the store has not closed for cleaning.,1598827144.0,12,34,None,0.72,/r/Manitoba/comments/ijm8t3/2_employees_at_garden_city_canadian_tire_test/,https://www.reddit.com/r/Manitoba/comments/ijm8t3/2_employees_at_garden_city_canadian_tire_test/,True,False,False,False,False,manitoba,2 Employees at Garden City Canadian Tire test positive for covid-19 Just a heads up to anyone going to Garden City Canadian Tire in Winnipeg. 2 Employees have tested positive and the store has not closed for cleaning.,2020-08-30 22:39:04+00:00,2020,8,30,6,Sunday,35,22,summer,2020-2021_pandemic_era,employees at garden city canadian tire test positive for covid just a heads up to anyone going to garden city canadian tire in winnipeg. ADDRESS ore has not closed for cleaning.,177,31,False,False,True,0,0,1,False,2.6153846153846154,0.28,True,False,False,True,False,False,2020_Q3,969ca2bf7a8c00a1,0.5574,0.107,0.893,0.0,positive
+i57pmt,Manitoba announces 2nd-highest daily jump in new COVID-19 cases since pandemic started | CBC News,,1596776310.0,8,6,None,0.79,/r/Manitoba/comments/i57pmt/manitoba_announces_2ndhighest_daily_jump_in_new/,https://www.cbc.ca/news/canada/manitoba/manitoba-covid-19-update-thursday-august-6-1.5676383,False,False,False,False,False,manitoba,Manitoba announces 2nd-highest daily jump in new COVID-19 cases since pandemic started | CBC News ,2020-08-07 04:58:30+00:00,2020,8,7,4,Friday,32,4,summer,2020-2021_pandemic_era,manitoba announces nd highest daily jump in new covid ADDRESS arted cbc news,76,13,False,False,True,0,0,2,False,0.6666666666666666,0.20999999999999996,True,False,False,True,False,False,2020_Q3,a56a41bd6ff46767,0.0,0.0,1.0,0.0,neutral
+idfccw,UCP believes COVID cannot be spread by being in the same room.,,1597946503.0,911,219,Politics,0.93,/r/alberta/comments/idfccw/ucp_believes_covid_cannot_be_spread_by_being_in/,https://i.imgur.com/mhuZ3SU.jpg,False,False,False,False,False,alberta,UCP believes COVID cannot be spread by being in the same room. ,2020-08-20 18:01:43+00:00,2020,8,20,3,Thursday,34,18,summer,2020-2021_pandemic_era,ucp believes covid cannot be spread by being in the same room.,62,12,False,False,True,0,0,1,False,0.24013157894736842,0.06999999999999995,True,False,False,True,False,False,2020_Q3,cb4fd6b6dbfd88c6,0.0,0.0,1.0,0.0,neutral
+i7xvvm,Alberta RCMP rolls out new tool to report crime online,,1597172787.0,7,6,News,0.72,/r/alberta/comments/i7xvvm/alberta_rcmp_rolls_out_new_tool_to_report_crime/,https://lethbridgenewsnow.com/2020/08/11/alberta-rcmp-rolls-out-new-tool-to-report-crime-online/,False,False,False,False,False,alberta,Alberta RCMP rolls out new tool to report crime online ,2020-08-11 19:06:27+00:00,2020,8,11,1,Tuesday,33,19,summer,2020-2021_pandemic_era,alberta rcmp rolls out new tool to report crime online,54,10,True,False,False,2,0,0,False,0.75,0.28,True,False,False,True,False,False,2020_Q3,5934a3910b77019b,-0.5423,0.0,0.72,0.28,negative
+i86nu4,Castle mountain behind Rockbound Lake (before snow hit last Saturday).,,1597203983.0,109,10,Pics,0.98,/r/alberta/comments/i86nu4/castle_mountain_behind_rockbound_lake_before_snow/,https://i.redd.it/fcb27vfxthg51.jpg,False,False,False,False,False,alberta,Castle mountain behind Rockbound Lake (before snow hit last Saturday). ,2020-08-12 03:46:23+00:00,2020,8,12,2,Wednesday,33,3,summer,2020-2021_pandemic_era,castle mountain behind rockbound lake before snow hit last saturday .,69,11,False,True,False,0,1,0,False,0.09090909090909091,0.020000000000000018,True,False,False,True,False,False,2020_Q3,05c04d3217aa98e6,0.0,0.0,1.0,0.0,neutral

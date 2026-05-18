@@ -1,0 +1,101 @@
+======================================================================
+RESEARCH QUESTIONS 3 & 4 - ANALYSIS SUMMARY
+2022-2023 Reddit Data Collection
+======================================================================
+
+QUESTION 3: How do public perceptions and discussions of crime on social media
+(Reddit) vary with climate and seasonal changes?
+----------------------------------------------------------------------
+
+SENTIMENT BY SEASON:
+  Winter: -0.002 (n=837 posts)
+  Spring: -0.020 (n=709 posts)
+  Summer: -0.044 (n=722 posts)
+  Fall: -0.038 (n=765 posts)
+
+CRIME DISCUSSIONS BY SEASON:
+  Winter: 361 posts (43.1%)
+  Spring: 351 posts (49.5%)
+  Summer: 397 posts (55.0%)
+  Fall: 415 posts (54.2%)
+
+WEATHER DISCUSSIONS BY SEASON:
+  Winter: 533 posts (63.7%)
+  Spring: 415 posts (58.5%)
+  Summer: 375 posts (51.9%)
+  Fall: 412 posts (53.9%)
+
+======================================================================
+
+QUESTION 4: What spatial patterns emerge when mapping climate trends,
+crime data, and social media sentiment in Prairie cities?
+----------------------------------------------------------------------
+
+POSTS BY CITY/REGION:
+  r/Winnipeg: 670 posts
+    - Crime mentions: 47.3%
+    - Weather mentions: 59.4%
+    - Avg sentiment: -0.084
+  r/Edmonton: 606 posts
+    - Crime mentions: 61.1%
+    - Weather mentions: 47.0%
+    - Avg sentiment: -0.087
+  r/alberta: 447 posts
+    - Crime mentions: 47.2%
+    - Weather mentions: 58.2%
+    - Avg sentiment: -0.058
+  r/Saskatoon: 378 posts
+    - Crime mentions: 47.6%
+    - Weather mentions: 59.3%
+    - Avg sentiment: -0.011
+  r/Regina: 364 posts
+    - Crime mentions: 45.1%
+    - Weather mentions: 63.2%
+    - Avg sentiment: 0.124
+  r/saskatchewan: 336 posts
+    - Crime mentions: 56.5%
+    - Weather mentions: 53.0%
+    - Avg sentiment: 0.001
+  r/manitoba: 232 posts
+    - Crime mentions: 39.7%
+    - Weather mentions: 69.0%
+    - Avg sentiment: 0.072
+
+CRIME-WEATHER CORRELATION BY CITY:
+  r/Winnipeg: 45 posts mention both (6.7%)
+  r/Edmonton: 49 posts mention both (8.1%)
+  r/alberta: 24 posts mention both (5.4%)
+  r/Saskatoon: 26 posts mention both (6.9%)
+  r/Regina: 30 posts mention both (8.2%)
+  r/saskatchewan: 32 posts mention both (9.5%)
+  r/manitoba: 20 posts mention both (8.6%)
+
+======================================================================
+
+TEMPORAL ANALYSIS:
+----------------------------------------------------------------------
+
+POSTS BY QUARTER:
+  2022_Q1: 388 posts
+  2022_Q2: 315 posts
+  2022_Q3: 343 posts
+  2022_Q4: 441 posts
+  2023_Q1: 326 posts
+  2023_Q2: 389 posts
+  2023_Q3: 405 posts
+  2023_Q4: 426 posts
+
+API CRISIS IMPACT:
+  Pre-API announcement: 1890 posts
+  Post-API announcement: 1143 posts
+  During blackout: 1 posts
+  Post-API changes: 831 posts
+
+======================================================================
+DATA READY FOR:
+1. Correlation analysis with climate data (Environment Canada)
+2. Correlation analysis with crime data (municipal databases)
+3. Geospatial mapping (ArcGIS StoryMaps)
+4. Time-series sentiment analysis
+5. Statistical testing (regression, ANOVA, etc.)
+======================================================================

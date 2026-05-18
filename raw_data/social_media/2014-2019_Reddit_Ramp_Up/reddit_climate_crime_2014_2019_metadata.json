@@ -1,0 +1,61 @@
+{
+  "collection_date": "2025-10-28T01:37:52.263187",
+  "time_period": "2014-2019 (Pre-Pandemic Baseline Era)",
+  "total_posts": 1222,
+  "date_range": {
+    "start": "2014-01-04 00:36:29+00:00",
+    "end": "2019-12-31 04:13:56+00:00"
+  },
+  "subreddits": {
+    "Saskatoon": 265,
+    "alberta": 215,
+    "Winnipeg": 184,
+    "Edmonton": 165,
+    "Regina": 165,
+    "saskatchewan": 164,
+    "manitoba": 64
+  },
+  "posts_by_year": {
+    "2014": 58,
+    "2015": 80,
+    "2016": 146,
+    "2017": 172,
+    "2018": 263,
+    "2019": 503
+  },
+  "posts_by_quarter": {
+    "2014_Q1": 18,
+    "2014_Q2": 12,
+    "2014_Q3": 14,
+    "2014_Q4": 14,
+    "2015_Q1": 17,
+    "2015_Q2": 21,
+    "2015_Q3": 19,
+    "2015_Q4": 23,
+    "2016_Q1": 27,
+    "2016_Q2": 35,
+    "2016_Q3": 50,
+    "2016_Q4": 34,
+    "2017_Q1": 27,
+    "2017_Q2": 34,
+    "2017_Q3": 54,
+    "2017_Q4": 57,
+    "2018_Q1": 55,
+    "2018_Q2": 53,
+    "2018_Q3": 88,
+    "2018_Q4": 67,
+    "2019_Q1": 119,
+    "2019_Q2": 97,
+    "2019_Q3": 145,
+    "2019_Q4": 142
+  },
+  "posts_by_reddit_growth_period": {
+    "mature_growth": 766,
+    "mid_growth": 273,
+    "early_growth": 143,
+    "initial_phase": 40
+  },
+  "crime_related": 532,
+  "weather_related": 763,
+  "crime_and_weather": 73
+}

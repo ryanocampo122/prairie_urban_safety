@@ -1,0 +1,108 @@
+======================================================================
+RESEARCH QUESTIONS 3 & 4 - ANALYSIS SUMMARY
+2020-2021 PANDEMIC REDDIT DATA COLLECTION
+======================================================================
+
+QUESTION 3: How did public discussions of crime and climate on social media
+(Reddit) change *during* the initial phases of the COVID-19 pandemic?
+----------------------------------------------------------------------
+
+SENTIMENT BY SEASON (OVERALL):
+  Winter: 0.047 (n=517 posts)
+  Spring: 0.067 (n=610 posts)
+  Summer: 0.086 (n=478 posts)
+  Fall: 0.075 (n=848 posts)
+
+CRIME DISCUSSIONS BY PANDEMIC PHASE:
+  Total crime posts: 444
+  Pre-Pandemic Declared: 38 
+  Post-Pandemic Declared: 406 
+  Vaccine Rollout (Dec 2020+): 285 
+
+WEATHER DISCUSSIONS BY PANDEMIC PHASE:
+  Total weather posts: 693
+  Pre-Pandemic Declared: 55 
+  Post-Pandemic Declared: 638 
+  Vaccine Rollout (Dec 2020+): 462 
+
+======================================================================
+
+QUESTION 4: What spatial patterns emerge when mapping climate trends, crime,
+and the prevalence/sentiment of *pandemic discussion* in Prairie cities?
+----------------------------------------------------------------------
+
+POSTS BY CITY/REGION:
+  r/Edmonton: 431 posts
+    - Crime mentions: 17.4%
+    - Weather mentions: 27.4%
+    - **Pandemic mentions**: 67.1%
+    - Avg sentiment: 0.036
+  r/alberta: 406 posts
+    - Crime mentions: 26.8%
+    - Weather mentions: 39.7%
+    - **Pandemic mentions**: 61.3%
+    - Avg sentiment: 0.065
+  r/Winnipeg: 382 posts
+    - Crime mentions: 14.9%
+    - Weather mentions: 30.1%
+    - **Pandemic mentions**: 71.5%
+    - Avg sentiment: 0.020
+  r/Saskatoon: 372 posts
+    - Crime mentions: 19.1%
+    - Weather mentions: 26.6%
+    - **Pandemic mentions**: 70.4%
+    - Avg sentiment: 0.130
+  r/Regina: 351 posts
+    - Crime mentions: 16.5%
+    - Weather mentions: 24.2%
+    - **Pandemic mentions**: 68.7%
+    - Avg sentiment: 0.107
+  r/saskatchewan: 283 posts
+    - Crime mentions: 15.5%
+    - Weather mentions: 23.3%
+    - **Pandemic mentions**: 73.5%
+    - Avg sentiment: 0.024
+  r/manitoba: 228 posts
+    - Crime mentions: 13.2%
+    - Weather mentions: 21.5%
+    - **Pandemic mentions**: 82.0%
+    - Avg sentiment: 0.118
+
+CRIME-WEATHER-PANDEMIC CORRELATION BY CITY:
+  r/Edmonton: 4 posts mention all three (0.9%)
+  r/alberta: 12 posts mention all three (3.0%)
+  r/Winnipeg: 1 posts mention all three (0.3%)
+  r/Saskatoon: 5 posts mention all three (1.3%)
+  r/Regina: 1 posts mention all three (0.3%)
+  r/saskatchewan: 3 posts mention all three (1.1%)
+  r/manitoba: 3 posts mention all three (1.3%)
+
+======================================================================
+
+TEMPORAL ANALYSIS:
+----------------------------------------------------------------------
+
+POSTS BY QUARTER:
+  2020_Q1: 126 posts
+  2020_Q2: 167 posts
+  2020_Q3: 145 posts
+  2020_Q4: 415 posts
+  2021_Q1: 284 posts
+  2021_Q2: 454 posts
+  2021_Q3: 480 posts
+  2021_Q4: 382 posts
+
+PANDEMIC PHASE POST COUNTS:
+  Pre-Pandemic declared: 88 posts
+  Post-Pandemic declared: 2365 posts
+  Vaccine Rollout (Dec 2020+): 1719 posts
+  Major 2021 Variant Wave (Jun 2021+): 970 posts
+
+======================================================================
+DATA READY FOR:
+1. Correlation analysis with climate data (Environment Canada)
+2. Correlation analysis with crime data (municipal databases)
+3. Geospatial mapping of combined discussion (ArcGIS StoryMaps)
+4. Time-series analysis of crime/weather sentiment vs. pandemic phases
+5. Statistical testing (regression, ANOVA, etc.)
+======================================================================
