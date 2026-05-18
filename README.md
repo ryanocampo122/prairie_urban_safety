@@ -86,6 +86,48 @@ prairie-urban-safety/
     ├── fig6_era_comparison.png
     ├── fig7_spatial_sentiment.png
     └── fig8_polar_seasonal.png
+├── raw_data/
+│   ├── Master_Data/
+│   │   ├── Actual_Incidents_Edmonton.csv
+│   │   ├── Actual_Incidents_Regina.csv
+│   │   ├── Actual_Incidents_Winnipeg.csv
+│   │   ├── Actual_Incidents_incidents Saskatoon.csv
+│   │   ├── Master_All_Cities_Daily_Climate_2010_to_2025_imputed.csv
+│   │   ├── Master_All_Cities_Monthly_Climate_2010_to_2025_imputed.csv
+│   │   ├── Master_All_Cities_Yearly_Climate_2010_to_2025_imputed.csv
+│   │   ├── reddit_2009_2013_for_gis.csv
+│   │   ├── reddit_2014_2019_for_gis.csv
+│   │   ├── reddit_2020_2021_for_gis.csv
+│   │   ├── reddit_2022_2023_for_gis.csv
+│   │   ├── reddit_2024_2025_for_gis.csv
+│   │   ├── reddit_climate_crime_2009_2013_sentiment.csv
+│   │   ├── reddit_climate_crime_2014_2019_sentiment.csv
+│   │   ├── reddit_climate_crime_2020_2021_sentiment.csv
+│   │   ├── reddit_climate_crime_2022_2023_sentiment.csv
+│   │   └── reddit_climate_crime_2024_2025_sentiment.csv
+│   │
+│   ├── climate/
+│   │   ├── edmonton/
+│   │   ├── regina/
+│   │   ├── saskatoon/
+│   │   ├── winnipeg/
+│   │   ├── master_raw/
+│   │   ├── master_cleaned/
+│   │   └── master_imputed/
+│   │
+│   ├── crime/
+│   │   ├── edmonton/
+│   │   ├── regina/
+│   │   ├── saskatoon/
+│   │   ├── winnipeg/
+│   │   └── crime_metrics/
+│   │
+│   └── social_media/
+│       ├── 2009-2013_sentiment/
+│       ├── 2014-2019_Reddit_Ramp_Up/
+│       ├── 2020-2021_Pandemic_Era/
+│       ├── 2022-2023_API_Change/
+│       └── 2024-2025_stabilizationperiod/
 ```
 
 ---
